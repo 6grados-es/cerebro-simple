@@ -61,3 +61,19 @@ La app de escritorio en sí (las pruebas usan su mismo programa, sin ventana), l
 Todos los clientes y datos de `pruebas/` son inventados.
 
 Diseño completo: documento «Cerebro simple: diseño» (Claude Docs) y, en el cerebro de Pedro, `PROYECTOS/cerebro-simple.md`.
+
+## El instalador, pensado para un plan Pro (18-nov-2026)
+
+Qué hace `.claude/skills/instalar-cerebro/` y por qué:
+
+| Paso | Con qué | Gasta uso |
+| --- | --- | --- |
+| Trocear y limpiar los chats: sin el texto de las skills, con lo que no escribió el dueño marcado, turnos numerados y con su fecha real, solo el último mes y con tope de texto | `trocear.py` | No |
+| Leer: un agente por chat, con los criterios de qué vale para la próxima vez dentro de su encargo | Sonnet | Sí |
+| Quitar las comillas a lo que el dueño no escribió tal cual; apartar listas de teléfonos y correos; tapar claves | `comprobar.py citas` y `reten` | No |
+| Escribir: un agente por ficha | Sonnet | Sí |
+| Comprobar que no se pierde ninguna línea de las que había, enlaces y tope de 12 | `comprobar.py fichas` | No |
+
+El tope por defecto (30 días y 1.500.000 caracteres) es una estimación para que quepa en media sesión de cinco horas de un plan Pro; no está medido todavía con una cuenta Pro real. Si se queda corto o largo, se cambia en `trocear.py` (`TOPE`).
+
+Las mejoras caras (segundo lector, criba con revisor, reparto por subtemas, verificador) quedan como paso opcional al final de la skill, para quien tenga un plan con mucho uso.
