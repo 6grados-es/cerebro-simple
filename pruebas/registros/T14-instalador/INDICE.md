@@ -1,0 +1,11 @@
+- [[yo]] — quién es el dueño y cómo le gusta trabajar en general
+- [[gestoria]] — la gestoría de Laura y cómo se le pasan los papeles
+- [[marta-quintero]] — clienta de la obra de Larios
+- [[larios]] — obra de Larios de Marta Quintero: licencia, presupuesto y pagos
+- [[presupuestos]] — cómo se hacen los presupuestos a clientes
+- [[cafe-alameda]] — obra del Café Alameda de Hernán Ortuño
+- [[pimentel]] — Anselmo Pimentel, fontanero: tarifa y disponibilidad
+- [[teatinos]] — obra de Teatinos
+- [[teodoro]] — Teodoro Cabello, cliente de la obra de Teatinos
+- [[facturas]] — cómo se suman y se tratan las facturas emitidas
+- [[estrategia]] — qué obras acepta Laura y cuántas a la vez

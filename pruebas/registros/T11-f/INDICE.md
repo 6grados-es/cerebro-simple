@@ -1,0 +1,3 @@
+- [Yo](fichas/yo.md) — quién es el dueño y cómo le gusta trabajar en general
+- [Café Alameda](fichas/cafe-alameda.md) — obra/reforma del Café Alameda (Hernán Ortuño): barra, campana, suelo, terraza e inauguración
+- [Obra Larios](fichas/obra-larios.md) — normas de la comunidad de Larios para las obras (horarios, montacargas, limpieza) y su efecto en la planificación

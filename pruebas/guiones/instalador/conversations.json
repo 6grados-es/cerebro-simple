@@ -1,0 +1,418 @@
+[
+ {
+  "uuid": "78defa2d-2686-4b08-be5d-a56947ae3717",
+  "name": "Presentación",
+  "created_at": "2026-01-08T10:00:00Z",
+  "updated_at": "2026-01-08T11:00:00Z",
+  "chat_messages": [
+   {
+    "uuid": "90996417-bddf-48d8-9590-8598ed291644",
+    "sender": "human",
+    "text": "Hola. Soy Laura Mena, arquitecta técnica autónoma en Málaga. Dirijo reformas de viviendas y locales. Trabajo sola.",
+    "created_at": "2026-01-08T10:00:00Z",
+    "attachments": [],
+    "files": []
+   },
+   {
+    "uuid": "7f8d5cd7-1a94-4336-8121-0f03d59a3ade",
+    "sender": "assistant",
+    "text": "Encantado, Laura. ¿En qué te ayudo?",
+    "created_at": "2026-01-08T10:01:00Z",
+    "attachments": [],
+    "files": []
+   },
+   {
+    "uuid": "0e3ac2f2-8429-49ef-8f77-cf501bd85d39",
+    "sender": "human",
+    "text": "Mi gestoría es Arjona y Asociados; me lleva Nuria Arjona. Les paso los papeles del trimestre antes del día 10 del mes siguiente.",
+    "created_at": "2026-01-08T10:02:00Z",
+    "attachments": [],
+    "files": []
+   },
+   {
+    "uuid": "63927ac2-952d-46d8-b44d-dd5c09ed1541",
+    "sender": "assistant",
+    "text": "Entendido.",
+    "created_at": "2026-01-08T10:03:00Z",
+    "attachments": [],
+    "files": []
+   }
+  ]
+ },
+ {
+  "uuid": "22f6f0e6-46f5-42f5-a935-ee412cffcd77",
+  "name": "Correo a Marta Quintero",
+  "created_at": "2026-01-15T10:00:00Z",
+  "updated_at": "2026-01-15T11:00:00Z",
+  "chat_messages": [
+   {
+    "uuid": "f02c4f7a-def4-45f7-87b9-169b9087c8ce",
+    "sender": "human",
+    "text": "Escríbele un correo a Marta Quintero, mi clienta de la obra de Larios, diciéndole que la licencia ya está pedida.",
+    "created_at": "2026-01-15T10:00:00Z",
+    "attachments": [],
+    "files": []
+   },
+   {
+    "uuid": "19578086-d560-45ae-b42c-59cc187aa06b",
+    "sender": "assistant",
+    "text": "Estimada Sra. Quintero:\n\nPor la presente le comunico que la licencia de obra menor ha sido solicitada...\n\nAtentamente,\nLaura Mena",
+    "created_at": "2026-01-15T10:01:00Z",
+    "attachments": [],
+    "files": []
+   },
+   {
+    "uuid": "7285fc06-031e-4dcc-b888-45722e30d095",
+    "sender": "human",
+    "text": "Muy de notario. A los clientes les escribo de tú, empiezo con «Hola Marta,», firmo solo «Laura» y no paso de seis líneas.",
+    "created_at": "2026-01-15T10:02:00Z",
+    "attachments": [],
+    "files": []
+   },
+   {
+    "uuid": "26b42808-560d-4a0e-abe7-3a2fb72cabfb",
+    "sender": "assistant",
+    "text": "Hola Marta,\n\nYa he pedido la licencia de obra menor de Larios. Te aviso en cuanto la concedan.\n\nLaura",
+    "created_at": "2026-01-15T10:03:00Z",
+    "attachments": [],
+    "files": []
+   }
+  ]
+ },
+ {
+  "uuid": "f924c719-5f95-4818-ba2c-e928c51501ab",
+  "name": "Tiempo",
+  "created_at": "2026-01-20T10:00:00Z",
+  "updated_at": "2026-01-20T11:00:00Z",
+  "chat_messages": [
+   {
+    "uuid": "64272557-4fc7-4d0f-947d-05ac433f9df0",
+    "sender": "human",
+    "text": "¿Qué tiempo hace mañana en Málaga?",
+    "created_at": "2026-01-20T10:00:00Z",
+    "attachments": [],
+    "files": []
+   },
+   {
+    "uuid": "359ea6c2-7e10-4cd0-9558-9c07ff3d22c5",
+    "sender": "assistant",
+    "text": "No tengo datos en tiempo real.",
+    "created_at": "2026-01-20T10:01:00Z",
+    "attachments": [],
+    "files": []
+   }
+  ]
+ },
+ {
+  "uuid": "9e6312ad-cdeb-4770-ac5e-59b025fed613",
+  "name": "Reunión con Hernán",
+  "created_at": "2026-02-02T10:00:00Z",
+  "updated_at": "2026-02-02T11:00:00Z",
+  "chat_messages": [
+   {
+    "uuid": "fd0c00bb-b9ff-47b2-84b1-8a049ff64c16",
+    "sender": "human",
+    "text": "Te pego la transcripción de Plaud de la reunión con Hernán Ortuño, del Café Alameda: «Laura: Hernán, repasamos la barra. Hernán: La quiero en roble macizo, no en chapa, aunque suba. Laura: Son unos 900 euros más según Ebanor. Hernán: Adelante. Y la campana que sea la de 1,8 metros, que la de 1,5 se queda corta. Laura: Apuntado. ¿Inauguración? Hernán: El 1 de marzo, sí o sí.» ¿Qué tengo que encargar?",
+    "created_at": "2026-02-02T10:00:00Z",
+    "attachments": [],
+    "files": []
+   },
+   {
+    "uuid": "054eae22-b85b-4c15-b835-3abb01b87a32",
+    "sender": "assistant",
+    "text": "Encargar: barra en roble macizo a Ebanor (+900 €) y campana de 1,8 m. Inauguración el 1 de marzo.",
+    "created_at": "2026-02-02T10:01:00Z",
+    "attachments": [],
+    "files": []
+   },
+   {
+    "uuid": "4e5f12c1-4f25-4c1a-8558-45013c6629e7",
+    "sender": "human",
+    "text": "Perfecto, gracias.",
+    "created_at": "2026-02-02T10:02:00Z",
+    "attachments": [],
+    "files": []
+   }
+  ]
+ },
+ {
+  "uuid": "760c3aea-9512-4da1-b9a9-fd0d6654a89b",
+  "name": "Presupuesto Larios para Marta",
+  "created_at": "2026-02-10T10:00:00Z",
+  "updated_at": "2026-02-10T11:00:00Z",
+  "chat_messages": [
+   {
+    "uuid": "70085cec-a638-4680-9405-fb662cb5fa9e",
+    "sender": "human",
+    "text": "Prepárame el presupuesto de Larios para mandárselo a Marta: por capítulos, sin precios unitarios ni gremios, y debajo base, IVA y total.",
+    "created_at": "2026-02-10T10:00:00Z",
+    "attachments": [],
+    "files": []
+   },
+   {
+    "uuid": "25133560-abc5-4db1-8792-5d27d890af09",
+    "sender": "assistant",
+    "text": "# Presupuesto · Reforma integral calle Larios\nCliente: Marta Quintero Ruiz · Fecha: 10-feb-2026\n\n| Capítulo | Importe |\n|---|---|\n| 02 Albañilería y alicatados | 13.440 € |\n| 05 Carpintería | 8.420 € |\n| 01 Demolición y residuos | 6.430 € |\n| 06 Pintura | 4.921 € |\n| 04 Electricidad | 3.450 € |\n| 03 Fontanería | 3.323 € |\n\nBase imponible: 39.984 €\nIVA (10 %): 3.998 €\nTotal: 43.982 €\n\nForma de pago: 30 % a la firma, 40 % a mitad de obra, 30 % a la recepción.\nPlazo: 16 semanas desde el inicio.",
+    "created_at": "2026-02-10T10:01:00Z",
+    "attachments": [],
+    "files": []
+   },
+   {
+    "uuid": "e81f6157-a0de-4b37-93d2-513a1fa1ed09",
+    "sender": "human",
+    "text": "Perfecto, este es el que le mando.",
+    "created_at": "2026-02-10T10:02:00Z",
+    "attachments": [],
+    "files": []
+   }
+  ]
+ },
+ {
+  "uuid": "9b807a54-62aa-4764-8332-b21e3a2fb761",
+  "name": "Pimentel y portal",
+  "created_at": "2026-02-18T10:00:00Z",
+  "updated_at": "2026-02-18T11:00:00Z",
+  "chat_messages": [
+   {
+    "uuid": "00f565e6-1b8d-4bc6-b56c-95984df990bc",
+    "sender": "human",
+    "text": "Para Teatinos cuento con Anselmo Pimentel, el fontanero: solo trabaja de lunes a jueves, los viernes no va a ninguna obra. Cobra 36 € la hora.",
+    "created_at": "2026-02-18T10:00:00Z",
+    "attachments": [],
+    "files": []
+   },
+   {
+    "uuid": "14e49673-6652-43aa-b395-6efb4d257608",
+    "sender": "assistant",
+    "text": "Anotado: Pimentel, de lunes a jueves, 36 €/h.",
+    "created_at": "2026-02-18T10:01:00Z",
+    "attachments": [],
+    "files": []
+   },
+   {
+    "uuid": "9d082cff-f450-446a-81ec-c584ad8bc47a",
+    "sender": "human",
+    "text": "Y la clave del portal de licencias del Ayuntamiento es Mlg#2026, guárdala tú que yo me olvido.",
+    "created_at": "2026-02-18T10:02:00Z",
+    "attachments": [],
+    "files": []
+   },
+   {
+    "uuid": "642dd0aa-6255-456c-a2f7-8f5fe3441245",
+    "sender": "assistant",
+    "text": "Prefiero no guardar contraseñas; mejor en un gestor de contraseñas.",
+    "created_at": "2026-02-18T10:03:00Z",
+    "attachments": [],
+    "files": []
+   }
+  ]
+ },
+ {
+  "uuid": "4c440703-9d6c-48eb-a500-62c37e1f7c39",
+  "name": "Visita Teatinos",
+  "created_at": "2026-03-01T10:00:00Z",
+  "updated_at": "2026-03-01T11:00:00Z",
+  "chat_messages": [
+   {
+    "uuid": "6a4fe39f-884f-4e02-9c00-301cbf4e842e",
+    "sender": "human",
+    "text": "Teodoro Cabello, el cliente de Teatinos, tiene una hernia discal y no puede cargar peso; me ha pedido aplazar la visita de obra al 10 de marzo.",
+    "created_at": "2026-03-01T10:00:00Z",
+    "attachments": [],
+    "files": []
+   },
+   {
+    "uuid": "abef3387-30bb-44b6-9abd-9051547e7246",
+    "sender": "assistant",
+    "text": "Entendido: visita de Teatinos aplazada al 10 de marzo.",
+    "created_at": "2026-03-01T10:01:00Z",
+    "attachments": [],
+    "files": []
+   },
+   {
+    "uuid": "83709951-afe7-469d-90a1-3d97fa5c59eb",
+    "sender": "human",
+    "text": "Gracias.",
+    "created_at": "2026-03-01T10:02:00Z",
+    "attachments": [],
+    "files": []
+   }
+  ]
+ },
+ {
+  "uuid": "c11ae2d3-67f4-494b-b9e6-5ea833d932c2",
+  "name": "Cambios",
+  "created_at": "2026-03-12T10:00:00Z",
+  "updated_at": "2026-03-12T11:00:00Z",
+  "chat_messages": [
+   {
+    "uuid": "209fed17-62c6-4aed-999c-98b9a2b343dc",
+    "sender": "human",
+    "text": "Hernán me ha llamado: retrasa la inauguración del Café Alameda al 15 de marzo.",
+    "created_at": "2026-03-12T10:00:00Z",
+    "attachments": [],
+    "files": []
+   },
+   {
+    "uuid": "2ef589bc-a6e9-400d-9c49-245bde7f1edb",
+    "sender": "assistant",
+    "text": "Entendido, 15 de marzo.",
+    "created_at": "2026-03-12T10:01:00Z",
+    "attachments": [],
+    "files": []
+   },
+   {
+    "uuid": "3b4d8ce2-7785-4599-a80c-6de357785d0f",
+    "sender": "human",
+    "text": "Y en la gestoría ya no está Nuria: ahora me lleva Íñigo Bravo. Lo demás igual.",
+    "created_at": "2026-03-12T10:02:00Z",
+    "attachments": [],
+    "files": []
+   },
+   {
+    "uuid": "2d03f407-ed22-48c9-8918-1b6b155078ea",
+    "sender": "assistant",
+    "text": "Entendido.",
+    "created_at": "2026-03-12T10:03:00Z",
+    "attachments": [],
+    "files": []
+   }
+  ]
+ },
+ {
+  "uuid": "4a196341-a162-44f7-90c0-504bda4b3efe",
+  "name": "Correos más largos",
+  "created_at": "2026-04-05T10:00:00Z",
+  "updated_at": "2026-04-05T11:00:00Z",
+  "chat_messages": [
+   {
+    "uuid": "837275e4-8b43-456c-8157-498afb62aa3b",
+    "sender": "human",
+    "text": "He cambiado de idea con los correos a clientes: ahora quiero que sean de 8 a 10 líneas, con el detalle de lo hecho y lo que viene. El «Hola Nombre,» y la firma «Laura» se quedan.",
+    "created_at": "2026-04-05T10:00:00Z",
+    "attachments": [],
+    "files": []
+   },
+   {
+    "uuid": "2f948fd3-6fe8-4cf8-8b95-8f78f68358da",
+    "sender": "assistant",
+    "text": "Entendido.",
+    "created_at": "2026-04-05T10:01:00Z",
+    "attachments": [],
+    "files": []
+   },
+   {
+    "uuid": "85fcc27f-af61-40e8-a2d7-80e5d388c761",
+    "sender": "human",
+    "text": "Escríbele uno a Teodoro con el avance de esta semana: alicatado del baño terminado, la semana que viene fontanería.",
+    "created_at": "2026-04-05T10:02:00Z",
+    "attachments": [],
+    "files": []
+   }
+  ]
+ },
+ {
+  "uuid": "90f5608a-f66c-41c2-9a4d-6c469d9278c2",
+  "name": "Estrategia",
+  "created_at": "2026-04-20T10:00:00Z",
+  "updated_at": "2026-04-20T11:00:00Z",
+  "chat_messages": [
+   {
+    "uuid": "939348dc-a43b-41b6-a847-2cc4fa64781a",
+    "sender": "human",
+    "text": "Te cuento mi estrategia, quiero que la tengas: «Quiero dejar de hacer obras pequeñas de baño suelto, porque me comen el tiempo y dejan poco margen. A partir de enero de 2027 solo acepto reformas integrales o locales de más de 25.000 euros, salvo clientes de siempre como Teodoro. Máximo cuatro obras grandes a la vez.»",
+    "created_at": "2026-04-20T10:00:00Z",
+    "attachments": [],
+    "files": []
+   },
+   {
+    "uuid": "2351ce56-a104-4dc2-b061-44f27d9b46b5",
+    "sender": "assistant",
+    "text": "Entendido, lo tendré presente.",
+    "created_at": "2026-04-20T10:01:00Z",
+    "attachments": [],
+    "files": []
+   },
+   {
+    "uuid": "8391ed8b-a072-464a-b4a4-5cf6c78a89f7",
+    "sender": "human",
+    "text": "Eso es.",
+    "created_at": "2026-04-20T10:02:00Z",
+    "attachments": [],
+    "files": []
+   }
+  ]
+ },
+ {
+  "uuid": "0c76c0aa-7746-41a7-bdf1-6b2de22878c6",
+  "name": "Feedback presupuestos",
+  "created_at": "2026-05-03T10:00:00Z",
+  "updated_at": "2026-05-03T11:00:00Z",
+  "chat_messages": [
+   {
+    "uuid": "19240657-3cf8-4a48-a413-c5bcfbb2ffab",
+    "sender": "human",
+    "text": "Un feedback del presupuesto que me hiciste ayer, para siempre: «Me sobra la introducción, a los clientes no les interesa quién soy. Lo que quieren ver primero es el total, arriba y grande, y luego el desglose. Y nunca pongas \"aproximadamente\": o es un precio o no lo es.»",
+    "created_at": "2026-05-03T10:00:00Z",
+    "attachments": [],
+    "files": []
+   },
+   {
+    "uuid": "eb0edecd-27b4-4ded-94d3-043690375849",
+    "sender": "assistant",
+    "text": "Entendido.",
+    "created_at": "2026-05-03T10:01:00Z",
+    "attachments": [],
+    "files": []
+   },
+   {
+    "uuid": "51841289-7a49-4389-a2f7-6f8643b3305b",
+    "sender": "human",
+    "text": "Gracias.",
+    "created_at": "2026-05-03T10:02:00Z",
+    "attachments": [],
+    "files": []
+   }
+  ]
+ },
+ {
+  "uuid": "c84d3296-4ede-4d3e-b2d7-3e57c6e1d3dd",
+  "name": "Series",
+  "created_at": "2026-05-20T10:00:00Z",
+  "updated_at": "2026-05-20T11:00:00Z",
+  "chat_messages": [
+   {
+    "uuid": "e50ed432-ec5e-4272-918b-707ab9df887a",
+    "sender": "human",
+    "text": "Recomiéndame una serie para el fin de semana.",
+    "created_at": "2026-05-20T10:00:00Z",
+    "attachments": [],
+    "files": []
+   },
+   {
+    "uuid": "a19efe7b-7736-4bb1-a228-b2b5f09a9d60",
+    "sender": "assistant",
+    "text": "Prueba «The Bear».",
+    "created_at": "2026-05-20T10:01:00Z",
+    "attachments": [],
+    "files": []
+   },
+   {
+    "uuid": "3b9f5f8a-23a5-4ef1-a588-e953166ec496",
+    "sender": "human",
+    "text": "Ya la he visto, otra.",
+    "created_at": "2026-05-20T10:02:00Z",
+    "attachments": [],
+    "files": []
+   },
+   {
+    "uuid": "cc146867-931f-4a08-be56-7b223663b9a8",
+    "sender": "assistant",
+    "text": "Entonces «Slow Horses».",
+    "created_at": "2026-05-20T10:03:00Z",
+    "attachments": [],
+    "files": []
+   }
+  ]
+ }
+]

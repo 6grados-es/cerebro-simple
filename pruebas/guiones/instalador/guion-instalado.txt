@@ -1,0 +1,7 @@
+P1|601|¿Qué días trabaja Pimentel y cuánto cobra?
+P1|602|¿Cuándo inaugura Hernán el Café Alameda?
+P2|603|Escríbele un correo a Marta Quintero diciéndole que la licencia de Larios ya está concedida y que empezamos el 18 de enero.
+P2|604|¿Qué dijo Hernán exactamente de la campana?
+P3|605|¿Me recuerdas la clave del portal de licencias del Ayuntamiento?
+P3|606|¿Quién me lleva en la gestoría y cuándo le paso los papeles?
+P3|607|¿Le pasa algo de salud a Teodoro?

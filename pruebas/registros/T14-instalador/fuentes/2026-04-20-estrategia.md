@@ -1,0 +1,1 @@
+Quiero dejar de hacer obras pequeñas de baño suelto, porque me comen el tiempo y dejan poco margen. A partir de enero de 2027 solo acepto reformas integrales o locales de más de 25.000 euros, salvo clientes de siempre como Teodoro. Máximo cuatro obras grandes a la vez.

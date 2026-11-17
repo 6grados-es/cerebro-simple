@@ -1,0 +1,7 @@
+run1 → cortada a propósito tras la primera tanda (5 chats hechos)
+run2 → La instalación está terminada: he leído 13 chats. Han quedado 11 fichas, 3 fuentes y 1 resultado.
+
+Lee `fichas/yo.md` y dime lo que no esté bien, porque es la ficha que más se usa.
+11:12:51
+cortado con 5 hechos a 11:14:17
+11:16:25

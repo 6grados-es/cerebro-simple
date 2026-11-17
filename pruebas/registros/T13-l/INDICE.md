@@ -1,0 +1,7 @@
+- [[yo]] — quién es el dueño y cómo le gusta trabajar en general
+- [[pimentel]] — Anselmo Pimentel, fontanero; solo trabaja de lunes a jueves
+- [[teatinos]] — obra Teatinos: quién trabaja en ella y cómo va
+- [[cafe-alameda]] — reforma del local de hostelería Café Alameda: cliente, gremios y documentos
+- [[larios]] — reforma integral de piso en calle Larios: cliente Marta Quintero, estado y documentos
+- [[gestoria-arjona]] — Arjona y Asociados (Íñigo Bravo), la gestoría: plazos y papeles que se le pasan
+- [[pedregalejo]] — obra de Pedregalejo (Isabel Fuentes): quién es y cómo va

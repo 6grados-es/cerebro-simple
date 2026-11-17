@@ -1,0 +1,4 @@
+{"n": "501", "chat": "K1", "cambios": ["INDICE.md", "fichas/larios.md", "fichas/marta-quintero.md", "fichas/yo.md"], "pasos": 7, "s": 19.5, "entrada": 147983, "coste": 0.091439, "error": false, "intentos": 1}
+{"n": "502", "chat": "K1", "cambios": ["fichas/yo.md"], "pasos": 2, "s": 9.3, "entrada": 79678, "coste": 0.11030920000000001, "error": false, "intentos": 1}
+{"n": "503", "chat": "K2", "cambios": ["INDICE.md", "fichas/pimentel.md", "fichas/teatinos.md", "fichas/teodoro-cabello.md", "fichas/yo.md"], "pasos": 7, "s": 21.3, "entrada": 113238, "coste": 0.0900961, "error": false, "intentos": 1}
+{"n": "504", "chat": "K2", "cambios": [], "pasos": 1, "s": 6.3, "entrada": 40870, "coste": 0.1012328, "error": false, "intentos": 1}

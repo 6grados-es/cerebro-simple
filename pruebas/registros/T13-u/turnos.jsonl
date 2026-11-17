@@ -1,0 +1,6 @@
+{"n": "201", "chat": "U1", "cambios": ["INDICE.md", "fichas/pimentel.md", "fichas/yo.md"], "pasos": 4, "s": 11.7, "entrada": 73269, "coste": 0.06842780000000001, "error": false, "intentos": 1}
+{"n": "202", "chat": "U1", "cambios": ["fichas/pimentel.md"], "pasos": 2, "s": 8.8, "entrada": 76426, "coste": 0.08624280000000001, "error": false, "intentos": 1}
+{"n": "203", "chat": "U2", "cambios": ["fichas/yo.md"], "pasos": 2, "s": 6.5, "entrada": 72375, "coste": 0.048772800000000005, "error": false, "intentos": 1}
+{"n": "204", "chat": "U2", "cambios": ["fichas/yo.md"], "pasos": 2, "s": 5.8, "entrada": 73737, "coste": 0.06110090000000001, "error": false, "intentos": 1}
+{"n": "205", "chat": "U3", "cambios": ["INDICE.md", "fichas/pimentel.md"], "pasos": 5, "s": 11.7, "entrada": 110069, "coste": 0.062573, "error": false, "intentos": 1}
+{"n": "206", "chat": "U3", "cambios": [], "pasos": 1, "s": 6.1, "entrada": 37727, "coste": 0.0705239, "error": false, "intentos": 1}

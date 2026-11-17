@@ -1,0 +1,4 @@
+{"type": "user", "timestamp": "2026-05-10T09:00:00Z", "message": {"role": "user", "content": "Pimentel me ha dicho que desde junio cobra 38 € la hora."}}
+{"type": "assistant", "timestamp": "2026-05-10T09:01:00Z", "message": {"role": "assistant", "content": [{"type": "text", "text": "Entendido."}]}}
+{"type": "user", "timestamp": "2026-05-10T09:02:00Z", "message": {"role": "user", "content": "Hazme la tabla de horas de Pimentel en Teatinos para mayo."}}
+{"type": "assistant", "timestamp": "2026-05-10T09:03:00Z", "message": {"role": "assistant", "content": [{"type": "text", "text": "Aquí tienes la tabla."}]}}

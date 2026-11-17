@@ -1,0 +1,6 @@
+- [[yo]] — quién es el dueño y cómo le gusta trabajar en general
+- [[teatinos]] — obra de reforma del baño en Teatinos (Málaga) para Teodoro; decisiones y pedidos
+- [[teodoro]] — cliente de la obra de Teatinos; sus gustos y lo que ha pedido
+- [[pimentel]] — fontanero que trabaja con Laura; lo que ha dicho en cada obra
+- [[presupuestos]] — cómo le gusta a Laura que se hagan los presupuestos para clientes
+- [[estrategia]] — hacia dónde lleva Laura su trabajo el año que viene: qué obras acepta, cuántas y a qué honorarios

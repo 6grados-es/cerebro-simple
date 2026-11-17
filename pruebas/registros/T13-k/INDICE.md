@@ -1,0 +1,6 @@
+- [[yo]] — quién es el dueño y cómo le gusta trabajar en general
+- [[larios]] — obra de Larios (Málaga): estado, fechas y quién es quién
+- [[marta-quintero]] — clienta de la obra de Larios; contacto y trato con ella
+- [[teatinos]] — obra de Teatinos: estado, fechas y quién es quién
+- [[teodoro-cabello]] — cliente de la obra de Teatinos; contacto y trato con él
+- [[pimentel]] — Pimentel, quien hace el baño de la obra de Teatinos; fechas y trato

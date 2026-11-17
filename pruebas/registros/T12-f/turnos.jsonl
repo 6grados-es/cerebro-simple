@@ -1,0 +1,11 @@
+{"n": "401", "chat": "G1", "cambios": ["INDICE.md", "fichas/obra-teatinos.md", "fichas/yo.md", "fuentes/2026-11-17-visita-teatinos.md"], "pasos": 5, "s": 18.9, "entrada": 72295, "coste": 0.0800003, "error": false, "intentos": 1}
+{"n": "402", "chat": "G1", "cambios": ["INDICE.md", "fichas/presupuestos.md", "fuentes/2026-11-17-feedback-presupuesto.md"], "pasos": 4, "s": 14.7, "entrada": 78416, "coste": 0.1136359, "error": false, "intentos": 1}
+{"n": "403", "chat": "G1", "cambios": [], "pasos": 1, "s": 5.2, "entrada": 40568, "coste": 0.1200408, "error": false, "intentos": 1}
+{"n": "404", "chat": "G2", "cambios": ["INDICE.md", "fichas/estrategia.md", "fichas/presupuestos.md", "fuentes/2026-11-17-estrategia-2027.md"], "pasos": 3, "s": 13.4, "entrada": 108246, "coste": 0.0665488, "error": false, "intentos": 1}
+{"n": "405", "chat": "G2", "cambios": [], "pasos": 1, "s": 4.6, "entrada": 37742, "coste": 0.0735016, "error": false, "intentos": 1}
+{"n": "406", "chat": "G2", "cambios": [], "pasos": 2, "s": 8.3, "entrada": 76001, "coste": 0.08680529999999999, "error": false, "intentos": 1}
+{"n": "407", "chat": "G2", "cambios": [], "pasos": 1, "s": 5.1, "entrada": 38425, "coste": 0.09353689999999999, "error": false, "intentos": 1}
+{"n": "408", "chat": "G3", "cambios": [], "pasos": 2, "s": 5.5, "entrada": 70485, "coste": 0.0451779, "error": false, "intentos": 1}
+{"n": "409", "chat": "G3", "cambios": [], "pasos": 3, "s": 9.0, "entrada": 108320, "coste": 0.0638202, "error": false, "intentos": 1}
+{"n": "410", "chat": "G3", "cambios": [], "pasos": 2, "s": 7.6, "entrada": 73707, "coste": 0.07894469999999999, "error": false, "intentos": 1}
+{"n": "411", "chat": "G3", "cambios": [], "pasos": 2, "s": 8.4, "entrada": 75423, "coste": 0.09355589999999998, "error": false, "intentos": 1}

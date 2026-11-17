@@ -1,0 +1,4 @@
+- [Yo](fichas/yo.md) — quién es el dueño y cómo le gusta trabajar en general
+- [Obra Teatinos](fichas/obra-teatinos.md) — reforma del baño de Teodoro en Teatinos: decisiones, compras y pendientes
+- [Presupuestos](fichas/presupuestos.md) — cómo quiere Laura que se hagan los presupuestos para clientes
+- [Estrategia](fichas/estrategia.md) — qué obras acepta Laura desde enero-27, cuántas a la vez y a qué honorarios

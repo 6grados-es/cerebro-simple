@@ -1,0 +1,13 @@
+- 2026-01-08-presentacion-78defa2d
+- 2026-01-15-correo-a-marta-quintero-22f6f0e6
+- 2026-02-02-reunion-con-hernan-9e6312ad
+- 2026-02-10-presupuesto-larios-para-marta-760c3aea
+- 2026-02-18-pimentel-y-portal-9b807a54
+- 2026-03-01-visita-teatinos-4c440703
+- 2026-03-12-cambios-c11ae2d3
+- 2026-03-20-suma-las-facturas-emitidas-de-marzo-del-csv-de-fac-sesion-f
+- 2026-04-05-correos-mas-largos-4a196341
+- 2026-04-20-estrategia-90f5608a
+- 2026-05-03-feedback-presupuestos-0c76c0aa
+- 2026-05-10-pimentel-me-ha-dicho-que-desde-junio-cobra-38-la-h-sesion-p
+- 2026-05-20-series-c84d3296

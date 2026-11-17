@@ -1,0 +1,1 @@
+Un feedback del presupuesto que me hiciste ayer, para siempre: «Me sobra la introducción, a los clientes no les interesa quién soy. Lo que quieren ver primero es el total, arriba y grande, y luego el desglose. Y nunca pongas "aproximadamente": o es un precio o no lo es.»

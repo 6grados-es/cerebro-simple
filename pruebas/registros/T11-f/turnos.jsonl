@@ -1,0 +1,7 @@
+{"n": "301", "chat": "F1", "cambios": ["INDICE.md", "fichas/cafe-alameda.md", "fichas/yo.md"], "pasos": 5, "s": 18.0, "entrada": 72171, "coste": 0.078299, "error": false, "intentos": 1}
+{"n": "302", "chat": "F1", "cambios": [], "pasos": 1, "s": 6.1, "entrada": 38012, "coste": 0.0871714, "error": false, "intentos": 1}
+{"n": "303", "chat": "F2", "cambios": ["INDICE.md", "fichas/obra-larios.md"], "pasos": 3, "s": 21.0, "entrada": 107441, "coste": 0.0726039, "error": false, "intentos": 1}
+{"n": "304", "chat": "F2", "cambios": [], "pasos": 1, "s": 6.3, "entrada": 37950, "coste": 0.0834331, "error": false, "intentos": 1}
+{"n": "305", "chat": "F3", "cambios": [], "pasos": 2, "s": 6.1, "entrada": 69979, "coste": 0.044069500000000005, "error": false, "intentos": 1}
+{"n": "306", "chat": "F3", "cambios": [], "pasos": 2, "s": 6.4, "entrada": 71384, "coste": 0.056121500000000005, "error": false, "intentos": 1}
+{"n": "307", "chat": "F3", "cambios": [], "pasos": 2, "s": 6.9, "entrada": 72656, "coste": 0.06823770000000001, "error": false, "intentos": 1}

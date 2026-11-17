@@ -1,0 +1,3 @@
+# Correo de la comunidad de Larios (recibido 17-nov-26)
+
+«Estimada Sra. Mena: Le comunicamos que la Junta de Propietarios celebrada el 12 de noviembre acordó que las obras en el edificio solo podrán realizarse de lunes a viernes, de 9:00 a 14:00 y de 16:00 a 19:00, quedando prohibidos los trabajos ruidosos antes de las 10:00. El uso del montacargas requerirá reserva con 72 horas de antelación a través del conserje, D. Ramón Gil, en el teléfono 952 000 111. Las zonas comunes deberán quedar limpias al final de cada jornada; en caso contrario se aplicará una penalización de 150 euros. Atentamente, Rodrigo Salas, administrador.»

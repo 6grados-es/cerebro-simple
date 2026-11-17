@@ -1,0 +1,27 @@
+{"n": "1", "chat": "1", "cambios": ["INDICE.md", "fichas/fisiosur.md", "fichas/yo.md"], "pasos": 7, "s": 15.3, "entrada": 143547, "coste": 0.07894520000000001, "error": false, "intentos": 1}
+{"n": "2", "chat": "1", "cambios": [], "pasos": 1, "s": 4.1, "entrada": 37478, "coste": 0.08522060000000001, "error": false, "intentos": 1}
+{"n": "3", "chat": "1", "cambios": [], "pasos": 1, "s": 5.2, "entrada": 37534, "coste": 0.09101000000000001, "error": false, "intentos": 1}
+{"n": "4", "chat": "1", "cambios": ["fichas/fisiosur.md"], "pasos": 2, "s": 6.8, "entrada": 75995, "coste": 0.10604820000000001, "error": false, "intentos": 1}
+{"n": "5", "chat": "1", "cambios": ["fichas/fisiosur.md"], "pasos": 2, "s": 7.5, "entrada": 77072, "coste": 0.1188169, "error": false, "intentos": 1}
+{"n": "6", "chat": "1", "cambios": [], "pasos": 1, "s": 4.6, "entrada": 38809, "coste": 0.1233805, "error": false, "intentos": 1}
+{"n": "7", "chat": "2", "cambios": [], "pasos": 2, "s": 6.7, "entrada": 70116, "coste": 0.045109500000000004, "error": false, "intentos": 1}
+{"n": "8", "chat": "2", "cambios": ["fichas/fisiosur.md"], "pasos": 2, "s": 6.0, "entrada": 71304, "coste": 0.057837, "error": false, "intentos": 1}
+{"n": "9", "chat": "2", "cambios": [], "pasos": 1, "s": 6.1, "entrada": 35949, "coste": 0.0644446, "error": false, "intentos": 1}
+{"n": "10", "chat": "2", "cambios": ["INDICE.md", "fichas/gestoria.md"], "pasos": 3, "s": 8.0, "entrada": 73331, "coste": 0.082981, "error": false, "intentos": 1}
+{"n": "11", "chat": "2", "cambios": [], "pasos": 1, "s": 7.0, "entrada": 37518, "coste": 0.0913976, "error": false, "intentos": 1}
+{"n": "12", "chat": "3", "cambios": [], "pasos": 2, "s": 7.7, "entrada": 70171, "coste": 0.0450603, "error": false, "intentos": 1}
+{"n": "13", "chat": "3", "cambios": ["INDICE.md", "fichas/gestoria.md"], "pasos": 4, "s": 9.7, "entrada": 107906, "coste": 0.0682871, "error": false, "intentos": 1}
+{"n": "14", "chat": "3", "cambios": [], "pasos": 1, "s": 7.3, "entrada": 36997, "coste": 0.0759961, "error": false, "intentos": 1}
+{"n": "15", "chat": "4", "cambios": ["fichas/fisiosur.md"], "pasos": 5, "s": 14.9, "entrada": 143362, "coste": 0.06646289999999999, "error": false, "intentos": 1}
+{"n": "16", "chat": "4", "cambios": ["fichas/fisiosur.md"], "pasos": 2, "s": 7.4, "entrada": 74643, "coste": 0.07999419999999999, "error": false, "intentos": 1}
+{"n": "17", "chat": "5", "cambios": [], "pasos": 3, "s": 9.3, "entrada": 106675, "coste": 0.054359700000000004, "error": false, "intentos": 1}
+{"n": "18", "chat": "5", "cambios": ["fichas/fisiosur.md"], "pasos": 2, "s": 8.2, "entrada": 73882, "coste": 0.072087, "error": false, "intentos": 1}
+{"n": "19", "chat": "6", "cambios": [], "pasos": 2, "s": 7.4, "entrada": 70287, "coste": 0.04579749999999999, "error": false, "intentos": 1}
+{"n": "20", "chat": "7", "cambios": ["fichas/fisiosur.md"], "pasos": 4, "s": 13.8, "entrada": 144230, "coste": 0.066974, "error": false, "intentos": 1}
+{"n": "21", "chat": "7", "cambios": ["fichas/fisiosur.md"], "pasos": 2, "s": 8.0, "entrada": 75552, "coste": 0.08333170000000001, "error": false, "intentos": 1}
+{"n": "22", "chat": "7", "cambios": ["fichas/fisiosur.md"], "pasos": 2, "s": 6.8, "entrada": 76689, "coste": 0.09523350000000001, "error": false, "intentos": 1}
+{"n": "23", "chat": "8", "cambios": [], "pasos": 3, "s": 9.4, "entrada": 107366, "coste": 0.05621640000000001, "error": false, "intentos": 1}
+{"n": "24", "chat": "9", "cambios": ["fichas/fisiosur.md"], "pasos": 3, "s": 9.7, "entrada": 106188, "coste": 0.0540044, "error": false, "intentos": 1}
+{"n": "25", "chat": "9", "cambios": [], "pasos": 2, "s": 10.8, "entrada": 72386, "coste": 0.0707903, "error": false, "intentos": 1}
+{"n": "26", "chat": "10", "cambios": [], "pasos": 3, "s": 9.2, "entrada": 106466, "coste": 0.0532323, "error": false, "intentos": 1}
+{"n": "27", "chat": "10", "cambios": [], "pasos": 1, "s": 3.9, "entrada": 36175, "coste": 0.059505600000000006, "error": false, "intentos": 1}
