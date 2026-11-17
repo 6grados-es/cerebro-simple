@@ -1,0 +1,7 @@
+{"n": "601", "chat": "P1", "cambios": [], "pasos": 2, "s": 6.1, "entrada": 73501, "coste": 0.0578673, "error": false, "intentos": 1}
+{"n": "602", "chat": "P1", "cambios": [], "pasos": 2, "s": 8.2, "entrada": 74491, "coste": 0.0709664, "error": false, "intentos": 1}
+{"n": "603", "chat": "P2", "cambios": ["fichas/larios.md", "fichas/marta-quintero.md"], "pasos": 6, "s": 21.2, "entrada": 113239, "coste": 0.0811709, "error": false, "intentos": 1}
+{"n": "604", "chat": "P2", "cambios": [], "pasos": 4, "s": 9.0, "entrada": 120583, "coste": 0.1060652, "error": false, "intentos": 1}
+{"n": "605", "chat": "P3", "cambios": [], "pasos": 2, "s": 8.0, "entrada": 73789, "coste": 0.053529200000000006, "error": false, "intentos": 1}
+{"n": "606", "chat": "P3", "cambios": [], "pasos": 2, "s": 8.4, "entrada": 75132, "coste": 0.0672432, "error": false, "intentos": 1}
+{"n": "607", "chat": "P3", "cambios": [], "pasos": 3, "s": 7.3, "entrada": 76713, "coste": 0.0823863, "error": false, "intentos": 1}
