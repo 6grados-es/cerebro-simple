@@ -1,0 +1,27 @@
+{"n": "1", "chat": "1", "cambios": ["INDICE.md", "fichas/fisiosur.md", "fichas/yo.md"], "pasos": 3, "s": 12.4, "entrada": 103635, "coste": 0.0628657}
+{"n": "2", "chat": "1", "cambios": [], "pasos": 1, "s": 4.4, "entrada": 35692, "coste": 0.06830159999999999}
+{"n": "3", "chat": "1", "cambios": [], "pasos": 1, "s": 5.3, "entrada": 35772, "coste": 0.07397839999999999}
+{"n": "4", "chat": "1", "cambios": ["fichas/fisiosur.md"], "pasos": 2, "s": 8.2, "entrada": 72332, "coste": 0.0877299}
+{"n": "5", "chat": "1", "cambios": ["fichas/fisiosur.md"], "pasos": 2, "s": 6.7, "entrada": 73186, "coste": 0.0995407}
+{"n": "6", "chat": "1", "cambios": [], "pasos": 1, "s": 4.5, "entrada": 36805, "coste": 0.1038298}
+{"n": "7", "chat": "2", "cambios": [], "pasos": 3, "s": 8.5, "entrada": 69234, "coste": 0.04663830000000001}
+{"n": "8", "chat": "2", "cambios": ["fichas/fisiosur.md", "historial/2026-11.md"], "pasos": 4, "s": 10.8, "entrada": 107477, "coste": 0.0712258}
+{"n": "9", "chat": "2", "cambios": ["fichas/fisiosur.md"], "pasos": 2, "s": 9.4, "entrada": 73684, "coste": 0.0877675}
+{"n": "10", "chat": "2", "cambios": ["INDICE.md", "fichas/gestoria.md"], "pasos": 3, "s": 10.1, "entrada": 75671, "coste": 0.1085082}
+{"n": "11", "chat": "2", "cambios": [], "pasos": 3, "s": 14.5, "entrada": 119114, "coste": 0.14937160000000002}
+{"n": "12", "chat": "3", "cambios": [], "pasos": 3, "s": 7.1, "entrada": 69285, "coste": 0.045721599999999994}
+{"n": "13", "chat": "3", "cambios": ["fichas/gestoria.md", "historial/2026-11.md"], "pasos": 6, "s": 11.0, "entrada": 144085, "coste": 0.0774793}
+{"n": "14", "chat": "3", "cambios": [], "pasos": 1, "s": 5.8, "entrada": 36959, "coste": 0.0836955}
+{"n": "15", "chat": "4", "cambios": ["INDICE.md", "fichas/facturas.md"], "pasos": 4, "s": 14.8, "entrada": 141760, "coste": 0.0685592}
+{"n": "16", "chat": "4", "cambios": ["fichas/facturas.md", "historial/2026-11.md"], "pasos": 2, "s": 9.9, "entrada": 75359, "coste": 0.08712450000000001}
+{"n": "17", "chat": "5", "cambios": [], "pasos": 4, "s": 8.7, "entrada": 104770, "coste": 0.051071599999999995}
+{"n": "18", "chat": "5", "cambios": ["fichas/fisiosur.md", "historial/2026-11.md"], "pasos": 6, "s": 13.1, "entrada": 109590, "coste": 0.08219099999999999}
+{"n": "19", "chat": "6", "cambios": [], "pasos": 2, "s": 6.5, "entrada": 69100, "coste": 0.0430132}
+{"n": "20", "chat": "7", "cambios": ["fichas/fisiosur.md"], "pasos": 4, "s": 14.1, "entrada": 142960, "coste": 0.0649294}
+{"n": "21", "chat": "7", "cambios": ["fichas/facturas.md"], "pasos": 2, "s": 11.2, "entrada": 74594, "coste": 0.0795268}
+{"n": "22", "chat": "7", "cambios": ["fichas/fisiosur.md"], "pasos": 3, "s": 8.9, "entrada": 113910, "coste": 0.09791709999999999}
+{"n": "23", "chat": "8", "cambios": [], "pasos": 4, "s": 10.2, "entrada": 105231, "coste": 0.055066699999999996}
+{"n": "24", "chat": "9", "cambios": ["fichas/fisiosur.md", "historial/2026-11.md"], "pasos": 4, "s": 14.7, "entrada": 141791, "coste": 0.062743}
+{"n": "25", "chat": "9", "cambios": [], "pasos": 2, "s": 8.8, "entrada": 73310, "coste": 0.0780453}
+{"n": "26", "chat": "10", "cambios": [], "pasos": 3, "s": 8.6, "entrada": 104845, "coste": 0.05105940000000001}
+{"n": "27", "chat": "10", "cambios": [], "pasos": 1, "s": 7.1, "entrada": 35855, "coste": 0.057731800000000014}

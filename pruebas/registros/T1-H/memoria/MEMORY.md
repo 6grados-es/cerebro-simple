@@ -1,0 +1,8 @@
+- [Pimentel solo lunes a jueves](pimentel-lunes-a-jueves.md) — no asignarle viernes en ninguna obra
+- [Obra Teatinos](obra-teatinos.md) — reforma baño y cocina, clientes, gremios, pendientes del acta del 3-nov
+- [Obra Café Alameda](obra-cafe-alameda.md) — local de hostelería, gremios, pendientes del acta del 12-nov, inauguración 15-mar
+- [Obra Larios](obra-larios.md) — piso de Marta Quintero, pendientes del acta del 10-nov
+- [Estilo de correos a clientes](estilo-correos-clientes.md) — tú, «Hola X,», firma «Laura», máx. 6 líneas
+- [Gestoría Arjona y Asociados](gestoria-arjona.md) — Íñigo Bravo, facturas antes del día 10 del mes siguiente
+- [Estilo de tablas e IVA](estilo-tablas-e-iva.md) — mayor a menor, sin decimales, total abajo; IVA aparte 10 % vivienda / 21 % local
+- [Presupuesto al cliente](estilo-presupuesto-cliente.md) — solo capítulos, sin precios unitarios ni gremio; debajo base, IVA y total

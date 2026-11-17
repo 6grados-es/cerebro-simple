@@ -1,0 +1,6 @@
+U1|201|Soy Laura, arquitecta técnica. Mi fontanero, Pimentel, cobra 36 euros la hora, y yo me voy de vacaciones del 14 al 20 de junio.
+U1|202|Pimentel sube a 38 euros la hora desde marzo.
+U2|203|Al final las vacaciones son del 21 al 27 de junio.
+U2|204|Lo de mis vacaciones, quítalo, al final no me voy.
+U3|205|Y olvida lo de la tarifa de Pimentel, que me lo dijo en confianza: no lo quiero apuntado en ningún sitio.
+U3|206|¿Qué sabes de mis vacaciones y de lo que cobra Pimentel?

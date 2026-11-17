@@ -1,0 +1,5 @@
+- `fichas/yo.md` — Quién es la dueña del cerebro y cómo le gusta trabajar en general.
+- `fichas/fisiosur.md` — La clínica de fisioterapia de Marta en Málaga: cómo funciona y quién trabaja en ella.
+- `fichas/gestoria.md` — La gestoría de FisioSur y la decisión de cambiar a otra.
+- `fichas/facturas.md` — Las facturas emitidas por FisioSur y cómo sumarlas: dónde están y cómo vienen los archivos.
+- `fichas/deudas-bonos.md` — Lo que algunos pacientes deben a FisioSur por bonos: dónde está el archivo y cómo viene.

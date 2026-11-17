@@ -1,0 +1,121 @@
+numero;fecha;cliente;obra;concepto;base;iva_pct;iva;total;estado;fecha_cobro
+F2026-001;2026-01-30;Hernán Ortuño;Café Alameda;Memoria técnica para licencia;695,00;21;145,95;840,95;cobrada;2026-03-03
+F2026-002;2026-02-12;Isabel Fuentes;Pedregalejo;Visita técnica;165,00;21;34,65;199,65;anulada;
+F2026-003;2026-02-13;Isabel Fuentes;Pedregalejo;Informe técnico;690,00;21;144,90;834,90;cobrada;2026-02-21
+F2026-004;2026-02-19;Hernán Ortuño;Café Alameda;Visita técnica;140,00;21;29,40;169,40;cobrada;2026-03-28
+F2026-005;2026-02-23;Hernán Ortuño;Café Alameda;Visita técnica;200,00;21;42,00;242,00;cobrada;2026-03-31
+F2026-006;2026-02-24;Joaquín Pardo;Huelin;Visita técnica;170,00;21;35,70;205,70;cobrada;2026-04-06
+F2026-007;2026-02-25;Hernán Ortuño;Café Alameda;Informe técnico;565,00;21;118,65;683,65;cobrada;2026-03-15
+F2026-008;2026-03-01;Hernán Ortuño;Café Alameda;Informe técnico;550,00;21;115,50;665,50;cobrada;2026-03-20
+F2026-009;2026-03-01;Pilar Aranda;Churriana;Informe técnico;610,00;21;128,10;738,10;cobrada;2026-04-04
+F2026-010;2026-03-03;Isabel Fuentes;Pedregalejo;Memoria técnica para licencia;885,00;21;185,85;1070,85;cobrada;2026-04-04
+F2026-011;2026-03-04;Hernán Ortuño;Café Alameda;Honorarios de proyecto y presupuesto;2540,00;21;533,40;3073,40;cobrada;2026-04-14
+F2026-012;2026-03-05;Isabel Fuentes;Pedregalejo;Informe técnico;855,00;21;179,55;1034,55;cobrada;2026-03-30
+F2026-013;2026-03-05;Lucía Barrionuevo;Calle Granada;Visita técnica;220,00;21;46,20;266,20;cobrada;2026-03-24
+F2026-014;2026-03-06;Joaquín Pardo;Huelin;Honorarios de dirección de obra, hito 1;3465,00;21;727,65;4192,65;cobrada;2026-03-17
+F2026-015;2026-03-06;Lucía Barrionuevo;Calle Granada;Visita técnica;250,00;21;52,50;302,50;cobrada;2026-03-17
+F2026-016;2026-03-13;Hernán Ortuño;Café Alameda;Visita técnica;250,00;21;52,50;302,50;anulada;
+F2026-017;2026-03-13;Joaquín Pardo;Huelin;Memoria técnica para licencia;470,00;21;98,70;568,70;cobrada;2026-03-21
+F2026-018;2026-03-16;Joaquín Pardo;Huelin;Memoria técnica para licencia;470,00;21;98,70;568,70;cobrada;2026-04-01
+F2026-019;2026-03-18;Hernán Ortuño;Café Alameda;Informe técnico;765,00;21;160,65;925,65;cobrada;2026-04-29
+F2026-020;2026-03-18;Hernán Ortuño;Café Alameda;Informe técnico;710,00;21;149,10;859,10;cobrada;2026-04-10
+F2026-021;2026-03-18;Lucía Barrionuevo;Calle Granada;Memoria técnica para licencia;875,00;21;183,75;1058,75;anulada;
+F2026-022;2026-03-19;Joaquín Pardo;Huelin;Honorarios de dirección de obra, hito 2;3355,00;21;704,55;4059,55;cobrada;2026-04-20
+F2026-023;2026-03-21;Hernán Ortuño;Café Alameda;Visita técnica;185,00;21;38,85;223,85;cobrada;2026-04-27
+F2026-024;2026-03-26;Isabel Fuentes;Pedregalejo;Honorarios de proyecto y presupuesto;3870,00;21;812,70;4682,70;cobrada;2026-04-27
+F2026-025;2026-03-28;Joaquín Pardo;Huelin;Informe técnico;775,00;21;162,75;937,75;cobrada;2026-04-23
+F2026-026;2026-03-30;Pilar Aranda;Churriana;Memoria técnica para licencia;495,00;21;103,95;598,95;cobrada;2026-04-17
+F2026-027;2026-04-02;Pilar Aranda;Churriana;Honorarios de proyecto y presupuesto;3055,00;21;641,55;3696,55;cobrada;2026-05-07
+F2026-027;2026-04-07;Hernán Ortuño;Café Alameda;Memoria técnica para licencia;645,00;21;135,45;780,45;cobrada;2026-05-01
+F2026-029;2026-04-10;Joaquín Pardo;Huelin;Honorarios de dirección de obra, hito 3;2285,00;21;479,85;2764,85;cobrada;2026-05-17
+F2026-030;2026-04-10;Lucía Barrionuevo;Calle Granada;Visita técnica;200,00;21;42,00;242,00;cobrada;2026-04-27
+F2026-031;2026-04-10;Lucía Barrionuevo;Calle Granada;Visita técnica;175,00;21;36,75;211,75;cobrada;2026-05-11
+F2026-032;2026-04-12;Lucía Barrionuevo;Calle Granada;Visita técnica;145,00;21;30,45;175,45;cobrada;2026-05-09
+F2026-033;2026-04-13;Hernán Ortuño;Café Alameda;Honorarios de proyecto y presupuesto;2585,00;21;542,85;3127,85;cobrada;2026-05-08
+F2026-034;2026-04-18;Pilar Aranda;Churriana;Honorarios de proyecto y presupuesto;2810,00;21;590,10;3400,10;cobrada;2026-05-18
+F2026-035;2026-04-20;Joaquín Pardo;Huelin;Memoria técnica para licencia;695,00;21;145,95;840,95;cobrada;2026-05-25
+F2026-036;2026-04-27;Hernán Ortuño;Café Alameda;Visita técnica;170,00;21;35,70;205,70;cobrada;2026-05-27
+F2026-037;2026-05-04;Hernán Ortuño;Café Alameda;Informe técnico;570,00;21;119,70;689,70;cobrada;2026-05-24
+F2026-038;2026-05-15;Isabel Fuentes;Pedregalejo;Informe técnico;440,00;21;92,40;532,40;cobrada;2026-05-28
+F2026-039;2026-05-23;Isabel Fuentes;Pedregalejo;Visita técnica;170,00;21;35,70;205,70;anulada;
+F2026-040;2026-05-27;Hernán Ortuño;Café Alameda;Informe técnico;780,00;21;163,80;943,80;cobrada;2026-06-24
+F2026-041;2026-06-07;Isabel Fuentes;Pedregalejo;Visita técnica;190,00;21;39,90;229,90;cobrada;2026-06-15
+F2026-042;2026-06-09;Joaquín Pardo;Huelin;Honorarios de dirección de obra, hito 4;1890,00;21;396,90;2286,90;cobrada;2026-06-21
+F2026-043;2026-06-09;Joaquín Pardo;Huelin;Informe técnico;775,00;21;162,75;937,75;cobrada;2026-07-04
+F2026-044;2026-06-12;Hernán Ortuño;Café Alameda;Honorarios de proyecto y presupuesto;1890,00;21;396,90;2286,90;cobrada;2026-07-06
+F2026-045;2026-06-13;Joaquín Pardo;Huelin;Informe técnico;600,00;21;126,00;726,00;cobrada;2026-07-02
+F2026-046;2026-06-17;Hernán Ortuño;Café Alameda;Honorarios de proyecto y presupuesto;2290,00;21;480,90;2770,90;pendiente;
+F2026-047;2026-06-18;Pilar Aranda;Churriana;Memoria técnica para licencia;745,00;21;156,45;901,45;cobrada;2026-06-28
+F2026-048;2026-06-28;Isabel Fuentes;Pedregalejo;Visita técnica;160,00;21;33,60;193,60;cobrada;2026-07-19
+F2026-049;2026-07-01;Joaquín Pardo;Huelin;Honorarios de proyecto y presupuesto;3575,00;21;750,75;4325,75;cobrada;2026-08-08
+F2026-050;2026-07-02;Isabel Fuentes;Pedregalejo;Memoria técnica para licencia;770,00;21;161,70;931,70;cobrada;2026-08-02
+F2026-051;2026-07-07;Isabel Fuentes;Pedregalejo;Honorarios de proyecto y presupuesto;3365,00;21;706,65;4071,65;cobrada;2026-08-13
+F2026-052;2026-07-07;Joaquín Pardo;Huelin;Certificación de obra 1;9010,00;10;901,00;9911,00;cobrada;2026-08-14
+F2026-053;2026-07-09;Hernán Ortuño;Café Alameda;Informe técnico;780,00;21;163,80;943,80;cobrada;2026-08-19
+F2026-054;2026-07-13;Joaquín Pardo;Huelin;Certificación de obra 2;4485,00;10;448,50;4933,50;cobrada;2026-08-08
+F2026-055;2026-07-13;Joaquín Pardo;Huelin;Honorarios de dirección de obra, hito 5;1855,00;21;389,55;2244,55;cobrada;2026-07-24
+F2026-056;2026-07-14;Hernán Ortuño;Café Alameda;Informe técnico;810,00;21;170,10;980,10;cobrada;2026-08-15
+F2026-057;2026-07-16;Hernán Ortuño;Café Alameda;Memoria técnica para licencia;670,00;21;140,70;810,70;cobrada;2026-08-09
+F2026-058;2026-07-16;Lucía Barrionuevo;Calle Granada;Informe técnico;615,00;21;129,15;744,15;cobrada;2026-07-24
+F2026-059;2026-07-19;Hernán Ortuño;Café Alameda;Visita técnica;225,00;21;47,25;272,25;cobrada;2026-07-27
+F2026-060;2026-07-20;Pilar Aranda;Churriana;Honorarios de proyecto y presupuesto;3870,00;21;812,70;4682,70;cobrada;2026-08-21
+F2026-061;2026-07-21;Pilar Aranda;Churriana;Visita técnica;250,00;21;52,50;302,50;cobrada;2026-08-02
+F2026-062;2026-07-24;Hernán Ortuño;Café Alameda;Informe técnico;520,00;21;109,20;629,20;cobrada;2026-08-04
+F2026-063;2026-07-25;Hernán Ortuño;Café Alameda;Visita técnica;215,00;21;45,15;260,15;cobrada;2026-08-13
+F2026-064;2026-07-28;Lucía Barrionuevo;Calle Granada;Visita técnica;190,00;21;39,90;229,90;cobrada;2026-09-05
+F2026-065;2026-07-29;Joaquín Pardo;Huelin;Certificación de obra 3;5180,00;10;518,00;5698,00;cobrada;2026-08-14
+F2026-066;2026-08-01;Hernán Ortuño;Café Alameda;Visita técnica;240,00;21;50,40;290,40;cobrada;2026-08-28
+F2026-067;2026-08-07;Hernán Ortuño;Café Alameda;Honorarios de proyecto y presupuesto;2725,00;21;572,25;3297,25;cobrada;2026-08-17
+F2026-068;2026-08-09;Hernán Ortuño;Café Alameda;Visita técnica;165,00;21;34,65;199,65;pendiente;
+F2026-069;2026-08-14;Joaquín Pardo;Huelin;Honorarios de dirección de obra, hito 6;1605,00;21;337,05;1942,05;cobrada;2026-08-28
+F2026-070;2026-08-15;Joaquín Pardo;Huelin;Certificación de obra 4;4110,00;10;411,00;4521,00;cobrada;2026-09-23
+F2026-071;2026-08-17;Isabel Fuentes;Pedregalejo;Memoria técnica para licencia;720,00;21;151,20;871,20;cobrada;2026-09-04
+F2026-072;2026-08-17;Lucía Barrionuevo;Calle Granada;Informe técnico;660,00;21;138,60;798,60;cobrada;2026-09-22
+F2026-073;2026-08-22;Joaquín Pardo;Huelin;Honorarios de dirección de obra, hito 7;2690,00;21;564,90;3254,90;cobrada;2026-09-17
+F2026-074;2026-08-22;Pilar Aranda;Churriana;Visita técnica;240,00;21;50,40;290,40;cobrada;2026-09-18
+F2026-075;2026-09-01;Hernán Ortuño;Café Alameda;Visita técnica;190,00;21;39,90;229,90;cobrada;2026-09-30
+F2026-076;2026-09-04;Pilar Aranda;Churriana;Visita técnica;220,00;21;46,20;266,20;cobrada;2026-09-15
+F2026-077;2026-09-06;Joaquín Pardo;Huelin;Certificación de obra 5;4240,00;10;424,00;4664,00;cobrada;2026-10-12
+F2026-078;2026-09-12;Hernán Ortuño;Café Alameda;Memoria técnica para licencia;600,00;21;126,00;726,00;cobrada;2026-10-18
+F2026-079;2026-09-17;Pilar Aranda;Churriana;Honorarios de proyecto y presupuesto;1975,00;21;414,75;2389,75;cobrada;2026-10-09
+F2026-080;2026-09-20;Lucía Barrionuevo;Calle Granada;Informe técnico;780,00;21;163,80;943,80;cobrada;2026-10-11
+F2026-081;2026-09-22;Joaquín Pardo;Huelin;Certificación de obra 6;3015,00;10;301,50;3316,50;pendiente;
+F2026-082;2026-09-24;Hernán Ortuño;Café Alameda;Memoria técnica para licencia;715,00;21;150,15;865,15;pendiente;
+F2026-083;2026-09-26;Joaquín Pardo;Huelin;Certificación de obra 7;8380,00;10;838,00;9218,00;anulada;
+F2026-084;2026-09-27;Joaquín Pardo;Huelin;Visita técnica;230,00;21;48,30;278,30;cobrada;2026-10-24
+F2026-085;2026-09-28;Joaquín Pardo;Huelin;Certificación de obra 8;6405,00;10;640,50;7045,50;cobrada;2026-10-13
+F2026-086;2026-10-01;Teodoro Cabello;Teatinos;Memoria técnica para licencia;560,00;21;117,60;677,60;cobrada;2026-10-11
+F2026-087;2026-10-04;Joaquín Pardo;Huelin;Honorarios de proyecto y presupuesto;3210,00;21;674,10;3884,10;pendiente;
+F2026-088;2026-10-06;Isabel Fuentes;Pedregalejo;Memoria técnica para licencia;545,00;21;114,45;659,45;cobrada;2026-11-13
+F2026-089;2026-10-07;Joaquín Pardo;Huelin;Certificación de obra 9;3075,00;10;307,50;3382,50;cobrada;2026-10-15
+F2026-090;2026-10-08;Joaquín Pardo;Huelin;Certificación de obra 10;5785,00;10;578,50;6363,50;anulada;
+F2026-091;2026-10-09;Teodoro Cabello;Teatinos;Visita técnica;175,00;21;36,75;211,75;cobrada;2026-11-19
+F2026-092;2026-10-13;Teodoro Cabello;Teatinos;Informe técnico;780,00;21;163,80;943,80;cobrada;2026-11-24
+F2026-093;2026-10-19;Pilar Aranda;Churriana;Informe técnico;625,00;21;131,25;756,25;pendiente;
+F2026-094;2026-10-19;Teodoro Cabello;Teatinos;Honorarios de proyecto y presupuesto;3280,00;21;688,80;3968,80;cobrada;2026-11-19
+F2026-095;2026-10-19;Teodoro Cabello;Teatinos;Informe técnico;400,00;21;84,00;484,00;cobrada;2026-11-13
+F2026-096;2026-10-21;Isabel Fuentes;Pedregalejo;Informe técnico;710,00;21;149,10;859,10;cobrada;2026-11-28
+F2026-097;2026-10-22;Lucía Barrionuevo;Calle Granada;Informe técnico;805,00;21;169,05;974,05;cobrada;2026-11-29
+F2026-098;2026-10-22;Marta Quintero;Larios;Informe técnico;505,00;21;106,05;611,05;pendiente;
+F2026-099;2026-10-22;Marta Quintero;Larios;Informe técnico;890,00;21;186,90;1076,90;cobrada;2026-11-02
+F2026-100;2026-10-22;Teodoro Cabello;Teatinos;Informe técnico;795,00;21;166,95;961,95;cobrada;2026-11-19
+F2026-101;2026-10-22;Teodoro Cabello;Teatinos;Visita técnica;220,00;21;46,20;266,20;anulada;
+F2026-102;2026-10-26;Marta Quintero;Larios;Visita técnica;245,00;21;51,45;296,45;cobrada;2026-11-08
+F2026-103;2026-10-29;Pilar Aranda;Churriana;Informe técnico;640,00;21;134,40;774,40;cobrada;2026-11-09
+F2026-104;2026-10-29;Teodoro Cabello;Teatinos;Visita técnica;155,00;21;32,55;187,55;cobrada;2026-11-30
+F2026-105;2026-10-30;Hernán Ortuño;Café Alameda;Certificación de obra 1;6520,00;21;1369,20;7889,20;pendiente;
+F2026-106;2026-10-30;Marta Quintero;Larios;Visita técnica;240,00;21;50,40;290,40;pendiente;
+F2026-107;2026-11-02;Lucía Barrionuevo;Calle Granada;Memoria técnica para licencia;950,00;21;199,50;1149,50;pendiente;
+F2026-108;2026-11-02;Marta Quintero;Larios;Honorarios de proyecto y presupuesto;3670,00;21;770,70;4440,70;pendiente;
+F2026-109;2026-11-02;Teodoro Cabello;Teatinos;Certificación de obra 1;8540,00;10;854,00;9394,00;cobrada;2026-11-11
+F2026-110;2026-11-04;Marta Quintero;Larios;Visita técnica;210,00;21;44,10;254,10;pendiente;
+F2026-111;2026-11-09;Hernán Ortuño;Café Alameda;Certificación de obra 2;8880,00;21;1864,80;10744,80;pendiente;
+F2026-112;2026-11-09;Teodoro Cabello;Teatinos;Informe técnico;390,00;21;81,90;471,90;pendiente;
+F2026-113;2026-11-10;Teodoro Cabello;Teatinos;Honorarios de dirección de obra, hito 1;2080,00;21;436,80;2516,80;pendiente;
+F2026-114;2026-11-13;Teodoro Cabello;Teatinos;Honorarios de dirección de obra, hito 2;2455,00;21;515,55;2970,55;pendiente;
+F2026-115;2026-11-14;Teodoro Cabello;Teatinos;Certificación de obra 2;7560,00;10;756,00;8316,00;pendiente;
+F2026-116;2026-11-17;Marta Quintero;Larios;Honorarios de proyecto y presupuesto;2280,00;21;478,80;2758,80;pendiente;
+F2026-117;2026-11-20;Joaquín Pardo;Huelin;Certificación de obra 11;3245,00;10;324,50;3569,50;pendiente;
+F2026-118;2026-11-23;Hernán Ortuño;Café Alameda;Honorarios de dirección de obra, hito 1;1910,00;21;401,10;2311,10;pendiente;
+F2026-119;2026-11-24;Marta Quintero;Larios;Memoria técnica para licencia;535,00;21;112,35;647,35;pendiente;
+F2026-120;2026-11-24;Teodoro Cabello;Teatinos;Informe técnico;430,00;21;90,30;520,30;pendiente;

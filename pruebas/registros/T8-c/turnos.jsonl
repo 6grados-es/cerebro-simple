@@ -1,0 +1,27 @@
+{"n": "1", "chat": "1", "cambios": ["INDICE.md", "fichas/fisiosur.md", "fichas/yo.md"], "pasos": 6, "s": 15.6, "entrada": 106256, "coste": 0.07061100000000001, "error": false, "intentos": 1}
+{"n": "2", "chat": "1", "cambios": [], "pasos": 1, "s": 4.4, "entrada": 36982, "coste": 0.0766937, "error": false, "intentos": 1}
+{"n": "3", "chat": "1", "cambios": [], "pasos": 1, "s": 6.7, "entrada": 37035, "coste": 0.08270150000000001, "error": false, "intentos": 1}
+{"n": "4", "chat": "1", "cambios": ["fichas/fisiosur.md"], "pasos": 2, "s": 8.6, "entrada": 75039, "coste": 0.09752870000000001, "error": false, "intentos": 1}
+{"n": "5", "chat": "1", "cambios": ["fichas/fisiosur.md"], "pasos": 2, "s": 8.5, "entrada": 76194, "coste": 0.11141010000000001, "error": false, "intentos": 1}
+{"n": "6", "chat": "1", "cambios": [], "pasos": 1, "s": 5.4, "entrada": 38404, "coste": 0.11587470000000001, "error": false, "intentos": 1}
+{"n": "7", "chat": "2", "cambios": [], "pasos": 2, "s": 8.9, "entrada": 69795, "coste": 0.0458024, "error": false, "intentos": 1}
+{"n": "8", "chat": "2", "cambios": ["fichas/fisiosur.md", "historial/2026-11.md"], "pasos": 3, "s": 11.4, "entrada": 71701, "coste": 0.0648365, "error": false, "intentos": 1}
+{"n": "9", "chat": "2", "cambios": [], "pasos": 1, "s": 6.9, "entrada": 36390, "coste": 0.07035620000000001, "error": false, "intentos": 1}
+{"n": "10", "chat": "2", "cambios": ["INDICE.md", "fichas/gestoria.md"], "pasos": 3, "s": 11.5, "entrada": 74156, "coste": 0.09103470000000001, "error": false, "intentos": 1}
+{"n": "11", "chat": "2", "cambios": [], "pasos": 3, "s": 19.3, "entrada": 116781, "coste": 0.13220389999999999, "error": false, "intentos": 1}
+{"n": "12", "chat": "3", "cambios": ["fichas/fisiosur.md"], "pasos": 5, "s": 20.4, "entrada": 143435, "coste": 0.0683899, "error": false, "intentos": 1}
+{"n": "13", "chat": "3", "cambios": ["INDICE.md", "fichas/gestoria.md", "historial/2026-11.md"], "pasos": 4, "s": 12.8, "entrada": 114064, "coste": 0.09767340000000001, "error": false, "intentos": 1}
+{"n": "14", "chat": "3", "cambios": [], "pasos": 2, "s": 7.6, "entrada": 78893, "coste": 0.109293, "error": false, "intentos": 1}
+{"n": "15", "chat": "4", "cambios": [], "pasos": 3, "s": 12.9, "entrada": 105423, "coste": 0.0552235, "error": false, "intentos": 1}
+{"n": "16", "chat": "4", "cambios": ["fichas/fisiosur.md"], "pasos": 2, "s": 8.4, "entrada": 73076, "coste": 0.07119840000000001, "error": false, "intentos": 1}
+{"n": "17", "chat": "5", "cambios": [], "pasos": 3, "s": 11.6, "entrada": 106353, "coste": 0.0548639, "error": false, "intentos": 1}
+{"n": "18", "chat": "5", "cambios": ["fichas/fisiosur.md", "historial/2026-11.md"], "pasos": 3, "s": 11.2, "entrada": 111803, "coste": 0.0812324, "error": false, "intentos": 1}
+{"n": "19", "chat": "6", "cambios": [], "pasos": 2, "s": 8.6, "entrada": 69935, "coste": 0.0442303, "error": false, "intentos": 1}
+{"n": "20", "chat": "7", "cambios": ["fichas/fisiosur.md"], "pasos": 4, "s": 17.3, "entrada": 143366, "coste": 0.06712889999999999, "error": false, "intentos": 1}
+{"n": "21", "chat": "7", "cambios": ["fichas/fisiosur.md"], "pasos": 2, "s": 8.2, "entrada": 74728, "coste": 0.0818507, "error": false, "intentos": 1}
+{"n": "22", "chat": "7", "cambios": ["fichas/fisiosur.md"], "pasos": 2, "s": 8.0, "entrada": 76567, "coste": 0.0972206, "error": false, "intentos": 1}
+{"n": "23", "chat": "8", "cambios": [], "pasos": 3, "s": 11.2, "entrada": 106647, "coste": 0.0557527, "error": false, "intentos": 1}
+{"n": "24", "chat": "9", "cambios": ["fichas/fisiosur.md", "historial/2026-11.md"], "pasos": 6, "s": 16.9, "entrada": 177871, "coste": 0.06796970000000001, "error": false, "intentos": 1}
+{"n": "25", "chat": "9", "cambios": [], "pasos": 2, "s": 9.2, "entrada": 73401, "coste": 0.08463430000000001, "error": false, "intentos": 1}
+{"n": "26", "chat": "10", "cambios": [], "pasos": 3, "s": 8.1, "entrada": 70675, "coste": 0.048843700000000004, "error": false, "intentos": 1}
+{"n": "27", "chat": "10", "cambios": [], "pasos": 1, "s": 5.3, "entrada": 36132, "coste": 0.05668070000000001, "error": false, "intentos": 1}

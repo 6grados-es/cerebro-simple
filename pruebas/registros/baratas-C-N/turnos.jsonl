@@ -1,0 +1,4 @@
+{"n": "101", "chat": "C1a", "cambios": [], "pasos": 2, "s": 10.5, "entrada": 64987, "coste": 0.03482299999999999, "error": false, "intentos": 1}
+{"n": "102", "chat": "C1b", "cambios": [], "pasos": 6, "s": 29.4, "entrada": 230930, "coste": 0.13459149999999998, "error": false, "intentos": 1}
+{"n": "103", "chat": "C1c", "cambios": [], "pasos": 4, "s": 16.3, "entrada": 130946, "coste": 0.050699100000000004, "error": false, "intentos": 1}
+{"n": "104", "chat": "C2", "cambios": [], "pasos": 2, "s": 8.5, "entrada": 64897, "coste": 0.0330848, "error": false, "intentos": 1}

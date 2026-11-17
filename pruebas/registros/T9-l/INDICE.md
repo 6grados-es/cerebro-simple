@@ -1,0 +1,8 @@
+- [Yo](fichas/yo.md) — quién es el dueño y cómo le gusta trabajar en general
+- [Teatinos](fichas/teatinos.md) — la obra de Teatinos: quién trabaja en ella y cómo va
+- [Café Alameda](fichas/cafe-alameda.md) — reforma de un local de hostelería; dónde están sus actas y quién interviene
+- [Larios](fichas/larios.md) — reforma integral de un piso en calle Larios, cliente Marta Quintero; dónde están sus actas y lo entregado
+- [Facturas](fichas/facturas.md) — lista de facturas emitidas en 2026 y los fallos conocidos del archivo
+- [Gestoría](fichas/gestoria.md) — la gestoría del dueño (Arjona y Asociados) y cómo se le pasan los papeles cada trimestre
+- [Anselmo Pimentel](fichas/anselmo-pimentel.md) — gremio con el que cuenta el dueño; su disponibilidad (lunes a jueves)
+- [Pedregalejo](fichas/pedregalejo.md) — la terraza de Pedregalejo, clienta Isabel Fuentes; dónde mirar y qué falta por saber

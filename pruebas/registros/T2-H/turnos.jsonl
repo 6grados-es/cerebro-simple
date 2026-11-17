@@ -1,0 +1,112 @@
+{"n": 1, "chat": "M01", "cambios": ["memoria/MEMORY.md", "memoria/pendientes.md", "memoria/proyecto-larios-marta-quintero.md"], "pasos": 5, "s": 18.7, "entrada": 100436, "coste": 0.0506558, "error": false, "intentos": 1}
+{"n": 2, "chat": "M01", "cambios": ["memoria/pendientes.md", "memoria/proyecto-larios-marta-quintero.md"], "pasos": 3, "s": 11.1, "entrada": 70961, "coste": 0.0733379, "error": false, "intentos": 1}
+{"n": 3, "chat": "M01", "cambios": ["memoria/MEMORY.md", "memoria/proveedor-pimentel.md"], "pasos": 3, "s": 12.8, "entrada": 73523, "coste": 0.0949236, "error": false, "intentos": 1}
+{"n": 4, "chat": "M01", "cambios": [], "pasos": 2, "s": 11.8, "entrada": 78848, "coste": 0.1252228, "error": false, "intentos": 1}
+{"n": 5, "chat": "M02", "cambios": ["memoria/MEMORY.md", "memoria/proveedor-gonzalo-rueda.md"], "pasos": 4, "s": 13.5, "entrada": 101721, "coste": 0.0534294, "error": false, "intentos": 1}
+{"n": 6, "chat": "M02", "cambios": ["memoria/proyecto-larios-marta-quintero.md"], "pasos": 3, "s": 11.0, "entrada": 107083, "coste": 0.0766208, "error": false, "intentos": 1}
+{"n": 7, "chat": "M02", "cambios": [], "pasos": 3, "s": 18.3, "entrada": 116545, "coste": 0.121496, "error": false, "intentos": 1}
+{"n": 8, "chat": "M02", "cambios": ["memoria/MEMORY.md", "memoria/feedback-resumen-presupuesto-cliente.md"], "pasos": 3, "s": 19.0, "entrada": 85055, "coste": 0.1584065, "error": false, "intentos": 1}
+{"n": 9, "chat": "M03", "cambios": ["memoria/MEMORY.md", "memoria/historial.md", "memoria/pendientes.md", "memoria/proyecto-larios-marta-quintero.md"], "pasos": 11, "s": 24.0, "entrada": 140612, "coste": 0.08632920000000001, "error": false, "intentos": 1}
+{"n": 10, "chat": "M03", "cambios": ["memoria/MEMORY.md", "memoria/proveedor-barroso.md"], "pasos": 3, "s": 9.7, "entrada": 77612, "coste": 0.10917300000000002, "error": false, "intentos": 1}
+{"n": 11, "chat": "M03", "cambios": ["memoria/MEMORY.md", "memoria/proveedor-pinturas-mirasol.md"], "pasos": 3, "s": 10.8, "entrada": 80919, "coste": 0.1320735, "error": false, "intentos": 1}
+{"n": 12, "chat": "M03", "cambios": [], "pasos": 2, "s": 10.7, "entrada": 86678, "coste": 0.1617256, "error": false, "intentos": 1}
+{"n": 13, "chat": "M04", "cambios": ["memoria/MEMORY.md", "memoria/pendientes.md", "memoria/proyecto-clinica-fisioterapia-soho-sanmartin.md"], "pasos": 13, "s": 41.6, "entrada": 294492, "coste": 0.2364334, "error": false, "intentos": 1}
+{"n": 14, "chat": "M04", "cambios": ["memoria/MEMORY.md", "memoria/criterio-iva-presupuestos.md", "memoria/feedback-resumen-presupuesto-cliente.md", "memoria/historial.md", "memoria/proyecto-clinica-fisioterapia-soho-sanmartin.md"], "pasos": 2, "s": 19.1, "entrada": 143892, "coste": 0.2901056, "error": false, "intentos": 1}
+{"n": 15, "chat": "M04", "cambios": [], "pasos": 2, "s": 18.4, "entrada": 151974, "coste": 0.3322882, "error": false, "intentos": 1}
+{"n": 16, "chat": "M04", "cambios": ["memoria/MEMORY.md", "memoria/feedback-correos-a-clientes.md"], "pasos": 3, "s": 15.0, "entrada": 157704, "coste": 0.37187899999999996, "error": false, "intentos": 1}
+{"n": 17, "chat": "M05", "cambios": [], "pasos": 1, "s": 8.0, "entrada": 33529, "coste": 0.0343189, "error": false, "intentos": 1}
+{"n": 18, "chat": "M05", "cambios": ["memoria/pendientes.md", "memoria/proyecto-larios-marta-quintero.md"], "pasos": 6, "s": 16.3, "entrada": 105796, "coste": 0.0720031, "error": false, "intentos": 1}
+{"n": 19, "chat": "M05", "cambios": ["memoria/proyecto-larios-marta-quintero.md"], "pasos": 2, "s": 11.7, "entrada": 74075, "coste": 0.0877221, "error": false, "intentos": 1}
+{"n": 20, "chat": "M05", "cambios": ["memoria/pendientes.md"], "pasos": 2, "s": 10.0, "entrada": 75411, "coste": 0.1034891, "error": false, "intentos": 1}
+{"n": 21, "chat": "M06", "cambios": ["memoria/MEMORY.md", "memoria/historial.md", "memoria/pendientes.md", "memoria/proyecto-larios-marta-quintero.md"], "pasos": 5, "s": 19.7, "entrada": 106561, "coste": 0.0723249, "error": false, "intentos": 1}
+{"n": 22, "chat": "M06", "cambios": ["memoria/historial.md", "memoria/pendientes.md", "memoria/proyecto-larios-marta-quintero.md"], "pasos": 2, "s": 11.0, "entrada": 77506, "coste": 0.0927878, "error": false, "intentos": 1}
+{"n": 23, "chat": "M06", "cambios": ["memoria/MEMORY.md", "memoria/proveedor-escombros-guadalhorce.md"], "pasos": 2, "s": 11.4, "entrada": 79638, "coste": 0.1125792, "error": false, "intentos": 1}
+{"n": 24, "chat": "M06", "cambios": ["memoria/proyecto-larios-marta-quintero.md"], "pasos": 3, "s": 12.6, "entrada": 125676, "coste": 0.1399141, "error": false, "intentos": 1}
+{"n": 25, "chat": "M07", "cambios": ["memoria/MEMORY.md", "memoria/proveedor-tomas-vega-ebanor.md"], "pasos": 3, "s": 12.2, "entrada": 68338, "coste": 0.04806579999999999, "error": false, "intentos": 1}
+{"n": 26, "chat": "M07", "cambios": [], "pasos": 4, "s": 13.9, "entrada": 160763, "coste": 0.11861719999999998, "error": false, "intentos": 1}
+{"n": 27, "chat": "M07", "cambios": ["memoria/MEMORY.md", "memoria/proyecto-cafe-alameda-hernan-ortuno.md"], "pasos": 3, "s": 14.6, "entrada": 94542, "coste": 0.14886059999999995, "error": false, "intentos": 1}
+{"n": 28, "chat": "M07", "cambios": [], "pasos": 1, "s": 7.1, "entrada": 49488, "coste": 0.16115959999999996, "error": false, "intentos": 1}
+{"n": 29, "chat": "M08", "cambios": ["memoria/MEMORY.md", "memoria/historial.md", "memoria/proyecto-larios-marta-quintero.md"], "pasos": 8, "s": 23.0, "entrada": 109168, "coste": 0.09009610000000001, "error": false, "intentos": 1}
+{"n": 30, "chat": "M08", "cambios": [], "pasos": 1, "s": 6.1, "entrada": 40429, "coste": 0.10219310000000001, "error": false, "intentos": 1}
+{"n": 31, "chat": "M08", "cambios": ["memoria/pendientes.md", "memoria/proveedor-barroso.md", "memoria/proyecto-larios-marta-quintero.md"], "pasos": 5, "s": 18.0, "entrada": 125012, "coste": 0.1401428, "error": false, "intentos": 1}
+{"n": 32, "chat": "M08", "cambios": ["memoria/MEMORY.md", "memoria/historial.md", "memoria/pendientes.md", "memoria/proyecto-clinica-fisioterapia-soho-sanmartin.md"], "pasos": 7, "s": 18.9, "entrada": 134577, "coste": 0.1917084, "error": false, "intentos": 1}
+{"n": 33, "chat": "M09", "cambios": ["memoria/MEMORY.md", "memoria/historial.md", "memoria/pendientes.md", "memoria/proyecto-larios-marta-quintero.md"], "pasos": 5, "s": 22.7, "entrada": 146561, "coste": 0.086123, "error": false, "intentos": 1}
+{"n": 34, "chat": "M09", "cambios": ["memoria/pendientes.md"], "pasos": 2, "s": 7.2, "entrada": 81652, "coste": 0.1045181, "error": false, "intentos": 1}
+{"n": 35, "chat": "M09", "cambios": ["memoria/MEMORY.md", "memoria/proveedor-pimentel.md"], "pasos": 3, "s": 13.0, "entrada": 126002, "coste": 0.1300305, "error": false, "intentos": 1}
+{"n": 36, "chat": "M09", "cambios": ["memoria/MEMORY.md", "memoria/gestoria-arjona-y-asociados.md"], "pasos": 2, "s": 9.5, "entrada": 88869, "coste": 0.15392109999999998, "error": false, "intentos": 1}
+{"n": 37, "chat": "M10", "cambios": ["memoria/MEMORY.md", "memoria/historial.md", "memoria/proyecto-larios-marta-quintero.md"], "pasos": 10, "s": 22.4, "entrada": 150693, "coste": 0.095043, "error": false, "intentos": 1}
+{"n": 38, "chat": "M10", "cambios": ["memoria/MEMORY.md", "memoria/pendientes.md", "memoria/proyecto-huelin-joaquin-pardo.md"], "pasos": 4, "s": 15.0, "entrada": 86204, "coste": 0.1283524, "error": false, "intentos": 1}
+{"n": 39, "chat": "M10", "cambios": ["memoria/MEMORY.md", "memoria/historial.md", "memoria/proyecto-cafe-alameda-hernan-ortuno.md"], "pasos": 3, "s": 14.3, "entrada": 139455, "coste": 0.17178140000000003, "error": false, "intentos": 1}
+{"n": 40, "chat": "M10", "cambios": [], "pasos": 3, "s": 11.7, "entrada": 174200, "coste": 0.2501008, "error": false, "intentos": 1}
+{"n": 41, "chat": "M11", "cambios": ["memoria/MEMORY.md", "memoria/historial.md", "memoria/proyecto-larios-marta-quintero.md"], "pasos": 8, "s": 22.2, "entrada": 112649, "coste": 0.0945701, "error": false, "intentos": 1}
+{"n": 42, "chat": "M11", "cambios": [], "pasos": 1, "s": 7.9, "entrada": 42287, "coste": 0.1082032, "error": false, "intentos": 1}
+{"n": 43, "chat": "M11", "cambios": ["memoria/MEMORY.md", "memoria/pendientes.md", "memoria/proyecto-teatinos-teodoro-cabello.md"], "pasos": 6, "s": 15.1, "entrada": 130913, "coste": 0.1459453, "error": false, "intentos": 1}
+{"n": 44, "chat": "M11", "cambios": [], "pasos": 6, "s": 18.9, "entrada": 193812, "coste": 0.209691, "error": false, "intentos": 1}
+{"n": 45, "chat": "M11", "cambios": ["memoria/MEMORY.md", "memoria/feedback-formato-tablas.md"], "pasos": 3, "s": 12.9, "entrada": 106989, "coste": 0.2413021, "error": false, "intentos": 1}
+{"n": 46, "chat": "M12", "cambios": ["memoria/MEMORY.md", "memoria/historial.md", "memoria/proveedor-barroso.md"], "pasos": 7, "s": 19.7, "entrada": 111322, "coste": 0.0821186, "error": false, "intentos": 1}
+{"n": 47, "chat": "M12", "cambios": ["memoria/MEMORY.md", "memoria/proyecto-lua-moda-lucia-barrionuevo.md"], "pasos": 3, "s": 12.8, "entrada": 84432, "coste": 0.1155021, "error": false, "intentos": 1}
+{"n": 48, "chat": "M12", "cambios": [], "pasos": 4, "s": 14.9, "entrada": 137477, "coste": 0.1576255, "error": false, "intentos": 1}
+{"n": 49, "chat": "M12", "cambios": ["memoria/MEMORY.md", "memoria/usuario-bici-electrica.md"], "pasos": 3, "s": 10.9, "entrada": 97420, "coste": 0.18167460000000002, "error": false, "intentos": 1}
+{"n": 50, "chat": "S1", "cambios": [], "pasos": 2, "s": 9.2, "entrada": 70054, "coste": 0.04867819999999999, "error": false, "intentos": 1}
+{"n": 51, "chat": "S1", "cambios": [], "pasos": 1, "s": 6.1, "entrada": 36183, "coste": 0.05453389999999999, "error": false, "intentos": 1}
+{"n": 52, "chat": "S1", "cambios": [], "pasos": 2, "s": 7.5, "entrada": 73317, "coste": 0.0681435, "error": false, "intentos": 1}
+{"n": 53, "chat": "S1", "cambios": [], "pasos": 2, "s": 11.3, "entrada": 74878, "coste": 0.08280399999999999, "error": false, "intentos": 1}
+{"n": 54, "chat": "M13", "cambios": ["memoria/MEMORY.md", "memoria/historial.md", "memoria/pendientes.md", "memoria/proveedor-gonzalo-rueda.md", "memoria/proveedor-instalaciones-valdes.md", "memoria/proyecto-larios-marta-quintero.md"], "pasos": 16, "s": 37.9, "entrada": 164650, "coste": 0.149316, "error": false, "intentos": 1}
+{"n": 55, "chat": "M13", "cambios": ["memoria/MEMORY.md", "memoria/historial.md", "memoria/proveedor-pimentel.md"], "pasos": 5, "s": 13.7, "entrada": 149339, "coste": 0.1891905, "error": false, "intentos": 1}
+{"n": 56, "chat": "M13", "cambios": ["memoria/MEMORY.md", "memoria/historial.md", "memoria/proveedor-barroso.md"], "pasos": 6, "s": 14.6, "entrada": 160948, "coste": 0.2357943, "error": false, "intentos": 1}
+{"n": 57, "chat": "M13", "cambios": ["memoria/pendientes.md", "memoria/proveedor-instalaciones-valdes.md"], "pasos": 3, "s": 14.7, "entrada": 114813, "coste": 0.27102960000000004, "error": false, "intentos": 1}
+{"n": 58, "chat": "M14", "cambios": ["memoria/MEMORY.md", "memoria/historial.md", "memoria/proyecto-larios-marta-quintero.md"], "pasos": 5, "s": 20.1, "entrada": 158058, "coste": 0.09932980000000001, "error": false, "intentos": 1}
+{"n": 59, "chat": "M14", "cambios": ["memoria/MEMORY.md", "memoria/historial.md", "memoria/pendientes.md", "memoria/proyecto-clinica-fisioterapia-soho-sanmartin.md"], "pasos": 3, "s": 14.7, "entrada": 138143, "coste": 0.14473350000000001, "error": false, "intentos": 1}
+{"n": 60, "chat": "M14", "cambios": ["memoria/pendientes.md"], "pasos": 2, "s": 10.9, "entrada": 99310, "coste": 0.16912480000000002, "error": false, "intentos": 1}
+{"n": 61, "chat": "M15", "cambios": ["memoria/MEMORY.md", "memoria/pendientes.md", "memoria/proyecto-churriana-pilar-aranda.md"], "pasos": 6, "s": 15.8, "entrada": 110083, "coste": 0.0739421, "error": false, "intentos": 1}
+{"n": 62, "chat": "M15", "cambios": ["memoria/MEMORY.md", "memoria/historial.md", "memoria/proyecto-cafe-alameda-hernan-ortuno.md"], "pasos": 7, "s": 16.6, "entrada": 126013, "coste": 0.12347459999999999, "error": false, "intentos": 1}
+{"n": 63, "chat": "M15", "cambios": ["memoria/MEMORY.md", "memoria/feedback-resumen-presupuesto-cliente.md", "memoria/historial.md"], "pasos": 7, "s": 17.1, "entrada": 140772, "coste": 0.1754443, "error": false, "intentos": 1}
+{"n": 64, "chat": "M15", "cambios": ["memoria/MEMORY.md", "memoria/pendientes.md", "memoria/proyecto-el-palo-bruno-carla-zamora.md"], "pasos": 4, "s": 13.1, "entrada": 102937, "coste": 0.2120384, "error": false, "intentos": 1}
+{"n": 65, "chat": "M16", "cambios": ["memoria/MEMORY.md", "memoria/historial.md", "memoria/proyecto-larios-marta-quintero.md"], "pasos": 5, "s": 22.0, "entrada": 163775, "coste": 0.10545170000000001, "error": false, "intentos": 1}
+{"n": 66, "chat": "M16", "cambios": ["memoria/MEMORY.md", "memoria/historial.md", "memoria/pendientes.md", "memoria/proyecto-clinica-fisioterapia-soho-sanmartin.md"], "pasos": 3, "s": 15.0, "entrada": 142633, "coste": 0.1497203, "error": false, "intentos": 1}
+{"n": 67, "chat": "M16", "cambios": ["memoria/MEMORY.md", "memoria/gestoria-arjona-y-asociados.md", "memoria/historial.md"], "pasos": 3, "s": 15.8, "entrada": 154536, "coste": 0.18955710000000003, "error": false, "intentos": 1}
+{"n": 68, "chat": "M16", "cambios": [], "pasos": 4, "s": 14.0, "entrada": 229420, "coste": 0.25840130000000006, "error": false, "intentos": 1}
+{"n": 69, "chat": "M17", "cambios": ["memoria/historial.md", "memoria/pendientes.md", "memoria/proyecto-larios-marta-quintero.md"], "pasos": 5, "s": 18.3, "entrada": 165154, "coste": 0.10840689999999999, "error": false, "intentos": 1}
+{"n": 70, "chat": "M17", "cambios": ["memoria/MEMORY.md", "memoria/historial.md", "memoria/proveedor-pinturas-mirasol.md"], "pasos": 3, "s": 13.2, "entrada": 136393, "coste": 0.1379415, "error": false, "intentos": 1}
+{"n": 71, "chat": "M17", "cambios": ["memoria/MEMORY.md", "memoria/proyecto-pedregalejo-isabel-fuentes.md"], "pasos": 3, "s": 13.2, "entrada": 98146, "coste": 0.1718786, "error": false, "intentos": 1}
+{"n": 72, "chat": "M17", "cambios": [], "pasos": 1, "s": 5.3, "entrada": 52047, "coste": 0.18664909999999998, "error": false, "intentos": 1}
+{"n": 73, "chat": "M18", "cambios": ["memoria/MEMORY.md", "memoria/feedback-correos-a-clientes.md", "memoria/historial.md"], "pasos": 4, "s": 15.1, "entrada": 107964, "coste": 0.0748501, "error": false, "intentos": 1}
+{"n": 74, "chat": "M18", "cambios": ["memoria/MEMORY.md", "memoria/historial.md", "memoria/proyecto-cafe-alameda-hernan-ortuno.md"], "pasos": 4, "s": 14.5, "entrada": 122006, "coste": 0.12007060000000001, "error": false, "intentos": 1}
+{"n": 75, "chat": "M18", "cambios": ["memoria/MEMORY.md", "memoria/historial.md", "memoria/pendientes.md", "memoria/proyecto-churriana-pilar-aranda.md"], "pasos": 4, "s": 17.3, "entrada": 136935, "coste": 0.17451890000000003, "error": false, "intentos": 1}
+{"n": 76, "chat": "M18", "cambios": [], "pasos": 1, "s": 8.1, "entrada": 49799, "coste": 0.19032830000000003, "error": false, "intentos": 1}
+{"n": 77, "chat": "M19", "cambios": ["memoria/MEMORY.md", "memoria/historial.md", "memoria/proyecto-larios-marta-quintero.md"], "pasos": 9, "s": 23.8, "entrada": 127883, "coste": 0.1315975, "error": false, "intentos": 1}
+{"n": 78, "chat": "M19", "cambios": ["memoria/MEMORY.md", "memoria/historial.md", "memoria/proveedor-tomas-vega-ebanor.md"], "pasos": 2, "s": 14.1, "entrada": 103321, "coste": 0.17486980000000002, "error": false, "intentos": 1}
+{"n": 79, "chat": "M19", "cambios": ["memoria/MEMORY.md", "memoria/historial.md", "memoria/proyecto-lua-moda-lucia-barrionuevo.md"], "pasos": 3, "s": 15.0, "entrada": 170240, "coste": 0.22104860000000004, "error": false, "intentos": 1}
+{"n": 80, "chat": "M19", "cambios": [], "pasos": 4, "s": 24.3, "entrada": 251963, "coste": 0.30608560000000007, "error": false, "intentos": 1}
+{"n": 81, "chat": "M20", "cambios": ["memoria/MEMORY.md", "memoria/historial.md", "memoria/proyecto-larios-marta-quintero.md"], "pasos": 9, "s": 24.3, "entrada": 177414, "coste": 0.1357859, "error": false, "intentos": 1}
+{"n": 82, "chat": "M20", "cambios": ["memoria/proyecto-larios-marta-quintero.md"], "pasos": 2, "s": 9.3, "entrada": 102830, "coste": 0.1624645, "error": false, "intentos": 1}
+{"n": 83, "chat": "M20", "cambios": ["memoria/MEMORY.md", "memoria/historial.md", "memoria/pendientes.md", "memoria/proyecto-el-palo-bruno-carla-zamora.md"], "pasos": 3, "s": 16.7, "entrada": 159321, "coste": 0.2077471, "error": false, "intentos": 1}
+{"n": 84, "chat": "S2", "cambios": [], "pasos": 1, "s": 6.7, "entrada": 34811, "coste": 0.045611599999999995, "error": false, "intentos": 1}
+{"n": 85, "chat": "S2", "cambios": [], "pasos": 2, "s": 8.2, "entrada": 72277, "coste": 0.0664984, "error": false, "intentos": 1}
+{"n": 86, "chat": "S2", "cambios": [], "pasos": 2, "s": 11.3, "entrada": 75621, "coste": 0.0850566, "error": false, "intentos": 1}
+{"n": 87, "chat": "M21", "cambios": ["memoria/pendientes.md"], "pasos": 3, "s": 19.0, "entrada": 113305, "coste": 0.0843662, "error": false, "intentos": 1}
+{"n": 88, "chat": "M21", "cambios": ["memoria/MEMORY.md", "memoria/historial.md", "memoria/proyecto-larios-marta-quintero.md"], "pasos": 3, "s": 16.5, "entrada": 127092, "coste": 0.1279602, "error": false, "intentos": 1}
+{"n": 89, "chat": "M21", "cambios": [], "pasos": 1, "s": 9.3, "entrada": 46520, "coste": 0.14779009999999998, "error": false, "intentos": 1}
+{"n": 90, "chat": "M21", "cambios": [], "pasos": 4, "s": 17.5, "entrada": 198049, "coste": 0.20255479999999998, "error": false, "intentos": 1}
+{"n": 91, "chat": "M22", "cambios": ["memoria/MEMORY.md", "memoria/historial.md", "memoria/proveedor-pimentel.md"], "pasos": 8, "s": 18.6, "entrada": 176151, "coste": 0.1285797, "error": false, "intentos": 1}
+{"n": 92, "chat": "M22", "cambios": ["memoria/MEMORY.md", "memoria/historial.md", "memoria/proveedor-pinturas-mirasol.md"], "pasos": 8, "s": 20.6, "entrada": 209577, "coste": 0.1927062, "error": false, "intentos": 1}
+{"n": 93, "chat": "M22", "cambios": [], "pasos": 4, "s": 15.6, "entrada": 238153, "coste": 0.2632208, "error": false, "intentos": 1}
+{"n": 94, "chat": "M22", "cambios": [], "pasos": 2, "s": 19.8, "entrada": 136441, "coste": 0.3314091, "error": false, "intentos": 1}
+{"n": 95, "chat": "M23", "cambios": ["memoria/historial.md", "memoria/pendientes.md"], "pasos": 5, "s": 13.5, "entrada": 144018, "coste": 0.07312199999999999, "error": false, "intentos": 1}
+{"n": 96, "chat": "M23", "cambios": ["memoria/MEMORY.md", "memoria/historial.md", "memoria/proyecto-clinica-fisioterapia-soho-sanmartin.md"], "pasos": 3, "s": 12.4, "entrada": 115715, "coste": 0.1038123, "error": false, "intentos": 1}
+{"n": 97, "chat": "M23", "cambios": [], "pasos": 1, "s": 6.6, "entrada": 42279, "coste": 0.1192935, "error": false, "intentos": 1}
+{"n": 98, "chat": "M23", "cambios": [], "pasos": 1, "s": 8.3, "entrada": 42478, "coste": 0.1270372, "error": false, "intentos": 1}
+{"n": 99, "chat": "M24", "cambios": ["memoria/MEMORY.md", "memoria/historial.md", "memoria/proyecto-larios-marta-quintero.md"], "pasos": 9, "s": 30.4, "entrada": 156353, "coste": 0.12381220000000001, "error": false, "intentos": 1}
+{"n": 100, "chat": "M24", "cambios": ["memoria/MEMORY.md", "memoria/historial.md", "memoria/proyecto-larios-marta-quintero.md"], "pasos": 6, "s": 16.1, "entrada": 92425, "coste": 0.167222, "error": false, "intentos": 1}
+{"n": 101, "chat": "M24", "cambios": ["memoria/proyecto-larios-marta-quintero.md"], "pasos": 6, "s": 20.7, "entrada": 209395, "coste": 0.23795980000000003, "error": false, "intentos": 1}
+{"n": 102, "chat": "M24", "cambios": [], "pasos": 1, "s": 7.7, "entrada": 55945, "coste": 0.24906890000000004, "error": false, "intentos": 1}
+{"n": 103, "chat": "S3", "cambios": [], "pasos": 1, "s": 9.1, "entrada": 34920, "coste": 0.050497600000000004, "error": false, "intentos": 1}
+{"n": 104, "chat": "S3", "cambios": [], "pasos": 2, "s": 7.3, "entrada": 73781, "coste": 0.07389860000000001, "error": false, "intentos": 1}
+{"n": 105, "chat": "S3", "cambios": [], "pasos": 2, "s": 8.5, "entrada": 77352, "coste": 0.08776600000000001, "error": false, "intentos": 1}
+{"n": 106, "chat": "S4", "cambios": [], "pasos": 1, "s": 7.1, "entrada": 34914, "coste": 0.0459136, "error": false, "intentos": 1}
+{"n": 107, "chat": "S4", "cambios": [], "pasos": 1, "s": 5.2, "entrada": 35108, "coste": 0.0509608, "error": false, "intentos": 1}
+{"n": 108, "chat": "S4", "cambios": [], "pasos": 3, "s": 17.8, "entrada": 112257, "coste": 0.1018293, "error": false, "intentos": 1}
+{"n": 109, "chat": "S5", "cambios": [], "pasos": 1, "s": 7.5, "entrada": 34921, "coste": 0.0479016, "error": false, "intentos": 1}
+{"n": 110, "chat": "S5", "cambios": [], "pasos": 1, "s": 6.1, "entrada": 35305, "coste": 0.0542395, "error": false, "intentos": 1}
+{"n": 111, "chat": "S5", "cambios": [], "pasos": 1, "s": 5.7, "entrada": 35464, "coste": 0.059803600000000005, "error": false, "intentos": 1}
+{"n": 112, "chat": "S5", "cambios": [], "pasos": 3, "s": 10.1, "entrada": 108881, "coste": 0.0800998, "error": false, "intentos": 1}

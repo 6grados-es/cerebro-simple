@@ -1,0 +1,21 @@
+- [Larios](fichas/larios.md) — reforma integral de piso en calle Larios, Marta Quintero: presupuesto firmado, licencia, pendientes
+- [Teatinos](fichas/teatinos.md) — reforma de baño y cocina para Teodoro Cabello: presupuesto aprobado y resumen preparado
+- [Gonzalo Rueda](fichas/rueda.md) — electricista: tarifa por hora y garantía de lo que instala
+- [Anselmo Pimentel](fichas/pimentel.md) — fontanero: tarifa por hora, plazo de pago y condiciones
+- [Barroso](fichas/barroso.md) — albañil: jornada de oficial y mínimo por desplazamiento
+- [Pinturas Mirasol](fichas/mirasol.md) — pintores: tarifa por hora y descuento por volumen
+- [Café Alameda](fichas/cafe-alameda.md) — reforma de local: dónde está el presupuesto y cómo viene
+- [Clínica Sanmartín](fichas/clinica-sanmartin.md) — presupuesto de local de fisioterapia en el Soho para el doctor Rafael Sanmartín: contrato firmado el 22-mar-27, obra desde el 12-abr-27
+- [Huelin](fichas/huelin.md) — obra de dos baños para Joaquín Pardo: terminados, certificado final antes del 15-feb-27
+- [Tarifas de gremios 2027](fichas/tarifas-gremios.md) — tabla de precios por partida de todos los gremios: dónde está y cómo viene
+- [Yo](fichas/yo.md) — quién es el dueño y cómo le gusta trabajar en general
+- [Escombros Guadalhorce](fichas/escombros-guadalhorce.md) — contenedores de escombros (Sebas Lozano): 165 € el de 6 m³, retirada en 48 h
+- [Tomás Vega (Ebanor)](fichas/ebanor.md) — mobiliario a medida: 32 €/h de montaje, 50 % de anticipo, 7 semanas de fabricación
+- [Seguro de responsabilidad civil](fichas/seguro-rc.md) — renovación del seguro RC: fecha límite 28-feb-27
+- [Arjona y Asociados](fichas/arjona.md) — gestoría (Íñigo Bravo): papeles del trimestre antes del día 10 del mes siguiente
+- [Lúa Moda](fichas/lua-moda.md) — reforma de la tienda de la calle Granada para Lucía Barrionuevo: 60 m², entregada el 7-abr-27, IVA 21 %
+- [Instalaciones Valdés](fichas/valdes.md) — electricistas (Aurora Valdés): 34 €/h, 45 días para pagar; sustituyen a Rueda en Larios
+- [Churriana](fichas/churriana.md) — cambio de cubierta de la casa de Pilar Aranda: elegido presupuesto de 18.900 € + IVA, pendiente pasárselo
+- [Zamora](fichas/zamora.md) — reforma de piso en El Palo para Bruno y Carla Zamora: desistieron, no hay reforma
+- [Facturas emitidas](fichas/facturas-emitidas.md) — registro de facturas emitidas en 2026: dónde está, columnas y errores de numeración
+- [Pedregalejo](fichas/pedregalejo.md) — reforma del ático para Isabel Fuentes: presupuesto aprobado (27.800 € + IVA 10 %), obra desde el 3-may-27

@@ -1,0 +1,48 @@
+{"n": 1, "chat": "LARGO-1", "cambios": [], "pasos": 2, "s": 10.8, "entrada": 75195, "coste": 0.0800621, "error": false, "intentos": 1}
+{"n": 2, "chat": "LARGO-1", "cambios": [], "pasos": 1, "s": 6.5, "entrada": 43665, "coste": 0.0911447, "error": false, "intentos": 1}
+{"n": 3, "chat": "LARGO-1", "cambios": [], "pasos": 1, "s": 8.4, "entrada": 44165, "coste": 0.1037488, "error": false, "intentos": 1}
+{"n": 4, "chat": "LARGO-1", "cambios": [], "pasos": 2, "s": 10.6, "entrada": 93049, "coste": 0.136924, "error": false, "intentos": 1}
+{"n": 5, "chat": "LARGO-1", "cambios": [], "pasos": 2, "s": 11.4, "entrada": 109939, "coste": 0.20443079999999997, "error": false, "intentos": 1}
+{"n": 6, "chat": "LARGO-1", "cambios": [], "pasos": 2, "s": 12.7, "entrada": 124592, "coste": 0.23582189999999997, "error": false, "intentos": 1}
+{"n": 7, "chat": "LARGO-1", "cambios": [], "pasos": 1, "s": 8.0, "entrada": 64043, "coste": 0.24806709999999998, "error": false, "intentos": 1}
+{"n": 8, "chat": "LARGO-1", "cambios": [], "pasos": 3, "s": 15.9, "entrada": 194781, "coste": 0.286181, "error": false, "intentos": 1}
+{"n": 9, "chat": "LARGO-1", "cambios": [], "pasos": 1, "s": 6.2, "entrada": 66521, "coste": 0.2992383, "error": false, "intentos": 1}
+{"n": 10, "chat": "LARGO-1", "cambios": [], "pasos": 2, "s": 13.7, "entrada": 135085, "coste": 0.3319922, "error": false, "intentos": 1}
+{"n": 11, "chat": "LARGO-1", "cambios": [], "pasos": 1, "s": 6.6, "entrada": 69394, "coste": 0.34644210000000003, "error": false, "intentos": 1}
+{"n": 12, "chat": "LARGO-1", "cambios": [], "pasos": 1, "s": 5.8, "entrada": 69709, "coste": 0.3566791, "error": false, "intentos": 1}
+{"n": 13, "chat": "LARGO-1", "cambios": [], "pasos": 3, "s": 17.1, "entrada": 227256, "coste": 0.4293503000000001, "error": false, "intentos": 1}
+{"n": 14, "chat": "LARGO-1", "cambios": [], "pasos": 1, "s": 10.0, "entrada": 79855, "coste": 0.44781640000000006, "error": false, "intentos": 1}
+{"n": 15, "chat": "LARGO-1", "cambios": [], "pasos": 2, "s": 16.3, "entrada": 163352, "coste": 0.4927541000000001, "error": false, "intentos": 1}
+{"n": 16, "chat": "LARGO-1", "cambios": [], "pasos": 3, "s": 20.8, "entrada": 255755, "coste": 0.5554881000000002, "error": false, "intentos": 1}
+{"n": 17, "chat": "LARGO-1", "cambios": [], "pasos": 2, "s": 10.0, "entrada": 176113, "coste": 0.5894845000000002, "error": false, "intentos": 1}
+{"n": 18, "chat": "LARGO-1", "cambios": [], "pasos": 1, "s": 6.4, "entrada": 89378, "coste": 0.6037861000000002, "error": false, "intentos": 1}
+{"n": 19, "chat": "LARGO-1", "cambios": [], "pasos": 3, "s": 16.8, "entrada": 270956, "coste": 0.6484682000000003, "error": false, "intentos": 1}
+{"n": 20, "chat": "LARGO-1", "cambios": [], "pasos": 2, "s": 11.7, "entrada": 183870, "coste": 0.6807736000000003, "error": false, "intentos": 1}
+{"n": 21, "chat": "LARGO-1", "cambios": [], "pasos": 1, "s": 6.5, "entrada": 92895, "coste": 0.6956889000000003, "error": false, "intentos": 1}
+{"n": 22, "chat": "LARGO-1", "cambios": [], "pasos": 1, "s": 7.0, "entrada": 93271, "coste": 0.7114022000000003, "error": false, "intentos": 1}
+{"n": 23, "chat": "LARGO-1", "cambios": ["nativa/MEMORY.md", "nativa/estilo-correos-clientes.md", "nativa/formato-tablas-importes.md"], "pasos": 4, "s": 19.7, "entrada": 189635, "coste": 0.7603280000000003, "error": false, "intentos": 1}
+{"n": 24, "chat": "LARGO-1", "cambios": [], "pasos": 2, "s": 10.9, "entrada": 194118, "coste": 0.7951892000000004, "error": false, "intentos": 1}
+{"n": 25, "chat": "LARGO-1", "cambios": [], "pasos": 1, "s": 6.6, "entrada": 98206, "coste": 0.8119790000000003, "error": false, "intentos": 1}
+{"n": 26, "chat": "LARGO-1", "cambios": [], "pasos": 2, "s": 12.2, "entrada": 198559, "coste": 0.8470847000000004, "error": false, "intentos": 1}
+{"n": 27, "chat": "LARGO-1", "cambios": [], "pasos": 2, "s": 20.1, "entrada": 202500, "coste": 0.8967164000000004, "error": false, "intentos": 1}
+{"n": 28, "chat": "LARGO-1", "cambios": [], "pasos": 1, "s": 9.7, "entrada": 103956, "coste": 0.9219481000000004, "error": false, "intentos": 1}
+{"n": 29, "chat": "LARGO-1", "cambios": [], "pasos": 1, "s": 15.5, "entrada": 104685, "coste": 0.9483173000000004, "error": false, "intentos": 1}
+{"n": 30, "chat": "LARGO-1", "cambios": [], "pasos": 1, "s": 9.7, "entrada": 106025, "coste": 0.9715134000000004, "error": false, "intentos": 1}
+{"n": 31, "chat": "LARGO-1", "cambios": [], "pasos": 1, "s": 8.6, "entrada": 106835, "coste": 0.9903435000000004, "error": false, "intentos": 1}
+{"n": 32, "chat": "LARGO-1", "cambios": [], "pasos": 1, "s": 20.1, "entrada": 107385, "coste": 1.0238046000000003, "error": false, "intentos": 1}
+{"n": 33, "chat": "LARGO-1", "cambios": [], "pasos": 4, "s": 66.4, "entrada": 464663, "coste": 1.2003671000000005, "error": false, "intentos": 1}
+{"n": 34, "chat": "LARGO-1", "cambios": ["nativa/MEMORY.md", "nativa/presupuesto-para-cliente.md"], "pasos": 4, "s": 36.9, "entrada": 373660, "coste": 1.3070547000000003, "error": false, "intentos": 1}
+{"n": 35, "chat": "LARGO-1", "cambios": [], "pasos": 1, "s": 7.0, "entrada": 127521, "coste": 1.3272674000000004, "error": false, "intentos": 1}
+{"n": 36, "chat": "LARGO-1", "cambios": ["nativa/MEMORY.md", "nativa/gestoria-arjona-contacto.md"], "pasos": 4, "s": 19.8, "entrada": 258233, "coste": 1.3850290000000005, "error": false, "intentos": 1}
+{"n": 37, "chat": "LARGO-1", "cambios": [], "pasos": 2, "s": 20.1, "entrada": 263847, "coste": 1.4393943000000005, "error": false, "intentos": 1}
+{"n": 38, "chat": "LARGO-1", "cambios": [], "pasos": 2, "s": 10.8, "entrada": 269396, "coste": 1.4858212000000006, "error": false, "intentos": 1}
+{"n": 39, "chat": "LARGO-1", "cambios": [], "pasos": 1, "s": 8.6, "entrada": 135810, "coste": 1.5079613000000007, "error": false, "intentos": 1}
+{"n": 40, "chat": "LARGO-1", "cambios": [], "pasos": 1, "s": 14.6, "entrada": 136512, "coste": 1.5379201000000007, "error": false, "intentos": 1}
+{"n": 41, "chat": "LARGO-SONDAS", "cambios": ["nativa/MEMORY.md", "nativa/pimentel-disponibilidad.md"], "pasos": 5, "s": 21.0, "entrada": 146336, "coste": 0.0878869, "error": false, "intentos": 1}
+{"n": 42, "chat": "LARGO-SONDAS", "cambios": [], "pasos": 3, "s": 12.1, "entrada": 127037, "coste": 0.118154, "error": false, "intentos": 1}
+{"n": 43, "chat": "LARGO-SONDAS", "cambios": [], "pasos": 1, "s": 9.2, "entrada": 43826, "coste": 0.12760929999999998, "error": false, "intentos": 1}
+{"n": 44, "chat": "LARGO-SONDAS", "cambios": [], "pasos": 2, "s": 10.3, "entrada": 89376, "coste": 0.1473051, "error": false, "intentos": 1}
+{"n": 45, "chat": "LARGO-SONDAS", "cambios": [], "pasos": 2, "s": 9.9, "entrada": 94994, "coste": 0.1814592, "error": false, "intentos": 1}
+{"n": 46, "chat": "LARGO-SONDAS", "cambios": [], "pasos": 3, "s": 26.6, "entrada": 157710, "coste": 0.24276149999999996, "error": false, "intentos": 1}
+{"n": 47, "chat": "LARGO-SONDAS", "cambios": [], "pasos": 1, "s": 8.8, "entrada": 55498, "coste": 0.25733349999999994, "error": false, "intentos": 1}
+{"n": 48, "chat": "LARGO-SONDAS", "cambios": [], "pasos": 3, "s": 18.8, "entrada": 171836, "coste": 0.30103879999999994, "error": false, "intentos": 1}

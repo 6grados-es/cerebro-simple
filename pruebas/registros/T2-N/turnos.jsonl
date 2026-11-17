@@ -1,0 +1,112 @@
+{"n": 1, "chat": "M01", "cambios": [], "pasos": 1, "s": 10.0, "entrada": 32304, "coste": 0.0302356, "error": false, "intentos": 1}
+{"n": 2, "chat": "M01", "cambios": [], "pasos": 1, "s": 11.0, "entrada": 33002, "coste": 0.0443978, "error": false, "intentos": 1}
+{"n": 3, "chat": "M01", "cambios": [], "pasos": 1, "s": 11.5, "entrada": 33870, "coste": 0.0594976, "error": false, "intentos": 1}
+{"n": 4, "chat": "M01", "cambios": [], "pasos": 2, "s": 12.7, "entrada": 73029, "coste": 0.0938175, "error": false, "intentos": 1}
+{"n": 5, "chat": "M02", "cambios": [], "pasos": 1, "s": 8.0, "entrada": 32277, "coste": 0.0293002, "error": false, "intentos": 1}
+{"n": 6, "chat": "M02", "cambios": [], "pasos": 1, "s": 8.4, "entrada": 32672, "coste": 0.0381177, "error": false, "intentos": 1}
+{"n": 7, "chat": "M02", "cambios": [], "pasos": 3, "s": 17.1, "entrada": 106837, "coste": 0.08436679999999999, "error": false, "intentos": 1}
+{"n": 8, "chat": "M02", "cambios": [], "pasos": 1, "s": 10.8, "entrada": 38660, "coste": 0.1019774, "error": false, "intentos": 1}
+{"n": 9, "chat": "M03", "cambios": ["nativa/MEMORY.md", "nativa/project-larios-marta-calendario.md"], "pasos": 3, "s": 14.2, "entrada": 65918, "coste": 0.0467646, "error": false, "intentos": 1}
+{"n": 10, "chat": "M03", "cambios": ["nativa/MEMORY.md", "nativa/reference-tarifas-barroso.md"], "pasos": 3, "s": 12.5, "entrada": 69334, "coste": 0.0701172, "error": false, "intentos": 1}
+{"n": 11, "chat": "M03", "cambios": ["nativa/MEMORY.md", "nativa/reference-tarifas-pinturas-mirasol.md"], "pasos": 3, "s": 13.4, "entrada": 72606, "coste": 0.09459990000000001, "error": false, "intentos": 1}
+{"n": 12, "chat": "M03", "cambios": [], "pasos": 2, "s": 14.0, "entrada": 78530, "coste": 0.1290428, "error": false, "intentos": 1}
+{"n": 13, "chat": "M04", "cambios": ["nativa/MEMORY.md", "nativa/project-clinica-sanmartin-presupuesto.md"], "pasos": 12, "s": 39.0, "entrada": 244599, "coste": 0.2437606, "error": false, "intentos": 1}
+{"n": 14, "chat": "M04", "cambios": ["nativa/MEMORY.md", "nativa/feedback-iva-presupuestos.md"], "pasos": 3, "s": 12.4, "entrada": 147482, "coste": 0.2781665, "error": false, "intentos": 1}
+{"n": 15, "chat": "M04", "cambios": [], "pasos": 2, "s": 19.4, "entrada": 151370, "coste": 0.318019, "error": false, "intentos": 1}
+{"n": 16, "chat": "M04", "cambios": ["nativa/MEMORY.md", "nativa/feedback-correos-clientes-cortos.md"], "pasos": 3, "s": 14.0, "entrada": 156936, "coste": 0.35491860000000003, "error": false, "intentos": 1}
+{"n": 17, "chat": "M05", "cambios": [], "pasos": 1, "s": 8.9, "entrada": 32848, "coste": 0.0312942, "error": false, "intentos": 1}
+{"n": 18, "chat": "M05", "cambios": [], "pasos": 2, "s": 14.1, "entrada": 67056, "coste": 0.0514348, "error": false, "intentos": 1}
+{"n": 19, "chat": "M05", "cambios": ["nativa/MEMORY.md", "nativa/project-larios-marta-calendario.md"], "pasos": 3, "s": 14.9, "entrada": 70159, "coste": 0.0778301, "error": false, "intentos": 1}
+{"n": 20, "chat": "M05", "cambios": ["nativa/project-larios-marta-calendario.md"], "pasos": 2, "s": 10.9, "entrada": 73951, "coste": 0.0987677, "error": false, "intentos": 1}
+{"n": 21, "chat": "M06", "cambios": ["nativa/MEMORY.md", "nativa/project-larios-marta-calendario.md"], "pasos": 5, "s": 16.1, "entrada": 137541, "coste": 0.0678409, "error": false, "intentos": 1}
+{"n": 22, "chat": "M06", "cambios": ["nativa/project-larios-marta-calendario.md"], "pasos": 2, "s": 8.9, "entrada": 73465, "coste": 0.0844145, "error": false, "intentos": 1}
+{"n": 23, "chat": "M06", "cambios": ["nativa/MEMORY.md", "nativa/reference-escombros-guadalhorce.md"], "pasos": 3, "s": 12.9, "entrada": 75403, "coste": 0.10762050000000001, "error": false, "intentos": 1}
+{"n": 24, "chat": "M06", "cambios": ["nativa/MEMORY.md", "nativa/project-larios-marta-calendario.md"], "pasos": 4, "s": 10.3, "entrada": 79340, "coste": 0.1316855, "error": false, "intentos": 1}
+{"n": 25, "chat": "M07", "cambios": ["nativa/MEMORY.md", "nativa/reference-tarifas-ebanor.md"], "pasos": 3, "s": 15.2, "entrada": 67486, "coste": 0.053036900000000005, "error": false, "intentos": 1}
+{"n": 26, "chat": "M07", "cambios": [], "pasos": 4, "s": 15.6, "entrada": 149370, "coste": 0.10757210000000002, "error": false, "intentos": 1}
+{"n": 27, "chat": "M07", "cambios": ["nativa/MEMORY.md", "nativa/project-cafe-alameda-fechas.md"], "pasos": 3, "s": 17.2, "entrada": 86154, "coste": 0.1438772, "error": false, "intentos": 1}
+{"n": 28, "chat": "M07", "cambios": [], "pasos": 1, "s": 6.8, "entrada": 45080, "coste": 0.15498340000000002, "error": false, "intentos": 1}
+{"n": 29, "chat": "M08", "cambios": [], "pasos": 1, "s": 8.7, "entrada": 33033, "coste": 0.0338642, "error": false, "intentos": 1}
+{"n": 30, "chat": "M08", "cambios": [], "pasos": 8, "s": 23.7, "entrada": 234569, "coste": 0.1278393, "error": false, "intentos": 1}
+{"n": 31, "chat": "M08", "cambios": [], "pasos": 1, "s": 7.9, "entrada": 46351, "coste": 0.1436468, "error": false, "intentos": 1}
+{"n": 32, "chat": "M08", "cambios": ["nativa/MEMORY.md", "nativa/project-clinica-sanmartin-presupuesto.md"], "pasos": 4, "s": 14.8, "entrada": 143798, "coste": 0.180167, "error": false, "intentos": 1}
+{"n": 33, "chat": "M09", "cambios": ["nativa/MEMORY.md", "nativa/project-larios-marta-calendario.md"], "pasos": 5, "s": 15.0, "entrada": 102434, "coste": 0.06139900000000001, "error": false, "intentos": 1}
+{"n": 34, "chat": "M09", "cambios": ["nativa/MEMORY.md", "nativa/project-seguro-rc-renovacion.md"], "pasos": 3, "s": 8.8, "entrada": 73926, "coste": 0.08552, "error": false, "intentos": 1}
+{"n": 35, "chat": "M09", "cambios": ["nativa/MEMORY.md", "nativa/reference-pimentel-disponibilidad.md"], "pasos": 3, "s": 12.9, "entrada": 78041, "coste": 0.1111921, "error": false, "intentos": 1}
+{"n": 36, "chat": "M09", "cambios": ["nativa/MEMORY.md", "nativa/reference-gestoria-arjona.md"], "pasos": 3, "s": 11.0, "entrada": 82388, "coste": 0.13703289999999999, "error": false, "intentos": 1}
+{"n": 37, "chat": "M10", "cambios": ["nativa/project-larios-marta-calendario.md"], "pasos": 4, "s": 16.6, "entrada": 103593, "coste": 0.056712799999999994, "error": false, "intentos": 1}
+{"n": 38, "chat": "M10", "cambios": ["nativa/MEMORY.md", "nativa/project-pardo-huelin-certificado.md"], "pasos": 4, "s": 13.1, "entrada": 110983, "coste": 0.0895564, "error": false, "intentos": 1}
+{"n": 39, "chat": "M10", "cambios": ["nativa/MEMORY.md", "nativa/project-cafe-alameda-fechas.md"], "pasos": 4, "s": 14.0, "entrada": 119625, "coste": 0.1265505, "error": false, "intentos": 1}
+{"n": 40, "chat": "M10", "cambios": [], "pasos": 4, "s": 13.4, "entrada": 186184, "coste": 0.18395350000000002, "error": false, "intentos": 1}
+{"n": 41, "chat": "M11", "cambios": ["nativa/MEMORY.md", "nativa/project-larios-marta-calendario.md"], "pasos": 5, "s": 13.0, "entrada": 103389, "coste": 0.060729200000000004, "error": false, "intentos": 1}
+{"n": 42, "chat": "M11", "cambios": ["nativa/MEMORY.md", "nativa/project-larios-horario-ruido.md"], "pasos": 3, "s": 15.8, "entrada": 75203, "coste": 0.0888695, "error": false, "intentos": 1}
+{"n": 43, "chat": "M11", "cambios": ["nativa/MEMORY.md", "nativa/project-teatinos-cabello-entrega.md"], "pasos": 3, "s": 8.7, "entrada": 80060, "coste": 0.11546210000000001, "error": false, "intentos": 1}
+{"n": 44, "chat": "M11", "cambios": [], "pasos": 7, "s": 18.8, "entrada": 180746, "coste": 0.18945280000000003, "error": false, "intentos": 1}
+{"n": 45, "chat": "M11", "cambios": ["nativa/MEMORY.md", "nativa/feedback-formato-tablas.md"], "pasos": 3, "s": 12.6, "entrada": 103247, "coste": 0.21946170000000004, "error": false, "intentos": 1}
+{"n": 46, "chat": "M12", "cambios": ["nativa/MEMORY.md", "nativa/reference-tarifas-barroso.md"], "pasos": 4, "s": 17.4, "entrada": 103146, "coste": 0.058981, "error": false, "intentos": 1}
+{"n": 47, "chat": "M12", "cambios": ["nativa/MEMORY.md", "nativa/project-lua-moda-barrionuevo.md"], "pasos": 3, "s": 13.2, "entrada": 74909, "coste": 0.0894924, "error": false, "intentos": 1}
+{"n": 48, "chat": "M12", "cambios": [], "pasos": 4, "s": 16.5, "entrada": 122417, "coste": 0.1320829, "error": false, "intentos": 1}
+{"n": 49, "chat": "M12", "cambios": [], "pasos": 1, "s": 6.9, "entrada": 43409, "coste": 0.1422494, "error": false, "intentos": 1}
+{"n": 50, "chat": "S1", "cambios": [], "pasos": 2, "s": 12.6, "entrada": 68220, "coste": 0.046750799999999995, "error": false, "intentos": 1}
+{"n": 51, "chat": "S1", "cambios": [], "pasos": 1, "s": 6.2, "entrada": 35220, "coste": 0.054687799999999995, "error": false, "intentos": 1}
+{"n": 52, "chat": "S1", "cambios": [], "pasos": 2, "s": 9.7, "entrada": 71804, "coste": 0.0713774, "error": false, "intentos": 1}
+{"n": 53, "chat": "S1", "cambios": [], "pasos": 1, "s": 11.5, "entrada": 36597, "coste": 0.0859672, "error": false, "intentos": 1}
+{"n": 54, "chat": "M13", "cambios": ["nativa/MEMORY.md", "nativa/project-larios-marta-calendario.md", "nativa/reference-tarifas-instalaciones-valdes.md"], "pasos": 5, "s": 17.3, "entrada": 105439, "coste": 0.0662875, "error": false, "intentos": 1}
+{"n": 55, "chat": "M13", "cambios": ["nativa/MEMORY.md", "nativa/reference-pimentel-disponibilidad.md"], "pasos": 4, "s": 13.5, "entrada": 115984, "coste": 0.0989068, "error": false, "intentos": 1}
+{"n": 56, "chat": "M13", "cambios": ["nativa/MEMORY.md", "nativa/reference-tarifas-barroso.md"], "pasos": 4, "s": 13.2, "entrada": 125217, "coste": 0.1338977, "error": false, "intentos": 1}
+{"n": 57, "chat": "M13", "cambios": ["nativa/reference-tarifas-instalaciones-valdes.md"], "pasos": 2, "s": 13.3, "entrada": 89161, "coste": 0.16093820000000003, "error": false, "intentos": 1}
+{"n": 58, "chat": "M14", "cambios": ["nativa/MEMORY.md", "nativa/project-larios-marta-calendario.md"], "pasos": 6, "s": 15.3, "entrada": 104841, "coste": 0.06261789999999999, "error": false, "intentos": 1}
+{"n": 59, "chat": "M14", "cambios": ["nativa/MEMORY.md", "nativa/project-clinica-sanmartin-presupuesto.md"], "pasos": 4, "s": 15.3, "entrada": 116384, "coste": 0.1013847, "error": false, "intentos": 1}
+{"n": 60, "chat": "M14", "cambios": [], "pasos": 1, "s": 7.2, "entrada": 41503, "coste": 0.1145093, "error": false, "intentos": 1}
+{"n": 61, "chat": "M15", "cambios": ["nativa/MEMORY.md", "nativa/project-churriana-aranda-cubierta.md"], "pasos": 3, "s": 16.9, "entrada": 68698, "coste": 0.0565424, "error": false, "intentos": 1}
+{"n": 62, "chat": "M15", "cambios": ["nativa/MEMORY.md", "nativa/project-cafe-alameda-fechas.md"], "pasos": 4, "s": 14.7, "entrada": 113708, "coste": 0.0952032, "error": false, "intentos": 1}
+{"n": 63, "chat": "M15", "cambios": ["nativa/MEMORY.md", "nativa/feedback-presupuestos-precios-unitarios-locales.md"], "pasos": 3, "s": 12.5, "entrada": 82301, "coste": 0.1248548, "error": false, "intentos": 1}
+{"n": 64, "chat": "M15", "cambios": ["nativa/MEMORY.md", "nativa/project-el-palo-zamora-presupuesto.md"], "pasos": 3, "s": 9.8, "entrada": 87938, "coste": 0.1550223, "error": false, "intentos": 1}
+{"n": 65, "chat": "M16", "cambios": ["nativa/MEMORY.md", "nativa/project-larios-marta-calendario.md"], "pasos": 4, "s": 15.9, "entrada": 105255, "coste": 0.0632103, "error": false, "intentos": 1}
+{"n": 66, "chat": "M16", "cambios": ["nativa/MEMORY.md", "nativa/project-clinica-sanmartin-presupuesto.md"], "pasos": 4, "s": 16.2, "entrada": 117391, "coste": 0.10442409999999999, "error": false, "intentos": 1}
+{"n": 67, "chat": "M16", "cambios": ["nativa/reference-gestoria-arjona.md"], "pasos": 4, "s": 14.4, "entrada": 128510, "coste": 0.14138320000000001, "error": false, "intentos": 1}
+{"n": 68, "chat": "M16", "cambios": [], "pasos": 3, "s": 11.9, "entrada": 135758, "coste": 0.17867090000000002, "error": false, "intentos": 1}
+{"n": 69, "chat": "M17", "cambios": ["nativa/MEMORY.md", "nativa/project-larios-marta-calendario.md"], "pasos": 4, "s": 13.7, "entrada": 105202, "coste": 0.058848300000000006, "error": false, "intentos": 1}
+{"n": 70, "chat": "M17", "cambios": ["nativa/MEMORY.md", "nativa/reference-tarifas-pinturas-mirasol.md"], "pasos": 5, "s": 14.1, "entrada": 116332, "coste": 0.09723960000000001, "error": false, "intentos": 1}
+{"n": 71, "chat": "M17", "cambios": ["nativa/MEMORY.md", "nativa/project-pedregalejo-fuentes-atico.md"], "pasos": 3, "s": 14.8, "entrada": 84733, "coste": 0.13072090000000003, "error": false, "intentos": 1}
+{"n": 72, "chat": "M17", "cambios": [], "pasos": 1, "s": 5.6, "entrada": 44989, "coste": 0.14353890000000002, "error": false, "intentos": 1}
+{"n": 73, "chat": "M18", "cambios": ["nativa/MEMORY.md", "nativa/feedback-correos-clientes-cortos.md", "nativa/feedback-correos-clientes-detallados.md"], "pasos": 4, "s": 15.2, "entrada": 104489, "coste": 0.059655200000000005, "error": false, "intentos": 1}
+{"n": 74, "chat": "M18", "cambios": ["nativa/MEMORY.md", "nativa/project-cafe-alameda-fechas.md"], "pasos": 4, "s": 13.6, "entrada": 115674, "coste": 0.0972899, "error": false, "intentos": 1}
+{"n": 75, "chat": "M18", "cambios": ["nativa/MEMORY.md", "nativa/project-churriana-aranda-cubierta.md"], "pasos": 4, "s": 15.8, "entrada": 126667, "coste": 0.1362863, "error": false, "intentos": 1}
+{"n": 76, "chat": "M18", "cambios": [], "pasos": 1, "s": 6.4, "entrada": 45185, "coste": 0.150133, "error": false, "intentos": 1}
+{"n": 77, "chat": "M19", "cambios": ["nativa/MEMORY.md", "nativa/project-larios-marta-calendario.md"], "pasos": 6, "s": 17.9, "entrada": 108622, "coste": 0.08009029999999999, "error": false, "intentos": 1}
+{"n": 78, "chat": "M19", "cambios": ["nativa/MEMORY.md", "nativa/reference-tarifas-ebanor.md"], "pasos": 5, "s": 14.9, "entrada": 81747, "coste": 0.11944459999999998, "error": false, "intentos": 1}
+{"n": 79, "chat": "M19", "cambios": ["nativa/MEMORY.md", "nativa/project-lua-moda-barrionuevo.md"], "pasos": 5, "s": 14.7, "entrada": 134409, "coste": 0.16099429999999998, "error": false, "intentos": 1}
+{"n": 80, "chat": "M19", "cambios": [], "pasos": 1, "s": 9.9, "entrada": 47879, "coste": 0.17847539999999998, "error": false, "intentos": 1}
+{"n": 81, "chat": "M20", "cambios": ["nativa/MEMORY.md", "nativa/project-larios-marta-calendario.md"], "pasos": 4, "s": 14.7, "entrada": 106331, "coste": 0.0699917, "error": false, "intentos": 1}
+{"n": 82, "chat": "M20", "cambios": ["nativa/project-larios-marta-calendario.md"], "pasos": 2, "s": 7.8, "entrada": 77830, "coste": 0.09282170000000001, "error": false, "intentos": 1}
+{"n": 83, "chat": "M20", "cambios": ["nativa/MEMORY.md", "nativa/project-el-palo-zamora-presupuesto.md"], "pasos": 3, "s": 10.7, "entrada": 120376, "coste": 0.11757010000000001, "error": false, "intentos": 1}
+{"n": 84, "chat": "S2", "cambios": [], "pasos": 1, "s": 5.8, "entrada": 34054, "coste": 0.042123600000000004, "error": false, "intentos": 1}
+{"n": 85, "chat": "S2", "cambios": [], "pasos": 1, "s": 7.4, "entrada": 34220, "coste": 0.0486728, "error": false, "intentos": 1}
+{"n": 86, "chat": "S2", "cambios": [], "pasos": 1, "s": 11.9, "entrada": 34494, "coste": 0.0640284, "error": false, "intentos": 1}
+{"n": 87, "chat": "M21", "cambios": [], "pasos": 1, "s": 14.8, "entrada": 34065, "coste": 0.05299759999999999, "error": false, "intentos": 1}
+{"n": 88, "chat": "M21", "cambios": ["nativa/MEMORY.md", "nativa/project-larios-marta-calendario.md"], "pasos": 4, "s": 16.7, "entrada": 110445, "coste": 0.09290409999999999, "error": false, "intentos": 1}
+{"n": 89, "chat": "M21", "cambios": [], "pasos": 1, "s": 9.1, "entrada": 40271, "coste": 0.11000759999999998, "error": false, "intentos": 1}
+{"n": 90, "chat": "M21", "cambios": [], "pasos": 5, "s": 29.7, "entrada": 183889, "coste": 0.20724159999999997, "error": false, "intentos": 1}
+{"n": 91, "chat": "M22", "cambios": ["nativa/MEMORY.md", "nativa/reference-pimentel-disponibilidad.md"], "pasos": 5, "s": 14.1, "entrada": 104940, "coste": 0.0683218, "error": false, "intentos": 1}
+{"n": 92, "chat": "M22", "cambios": ["nativa/MEMORY.md", "nativa/reference-tarifas-pinturas-mirasol.md"], "pasos": 6, "s": 16.0, "entrada": 117194, "coste": 0.11071810000000001, "error": false, "intentos": 1}
+{"n": 93, "chat": "M22", "cambios": [], "pasos": 5, "s": 18.6, "entrada": 181098, "coste": 0.1771503, "error": false, "intentos": 1}
+{"n": 94, "chat": "M22", "cambios": [], "pasos": 4, "s": 23.2, "entrada": 257210, "coste": 0.23438799999999999, "error": false, "intentos": 1}
+{"n": 95, "chat": "M23", "cambios": [], "pasos": 2, "s": 10.2, "entrada": 68547, "coste": 0.0499007, "error": false, "intentos": 1}
+{"n": 96, "chat": "M23", "cambios": ["nativa/MEMORY.md", "nativa/project-clinica-sanmartin-presupuesto.md"], "pasos": 5, "s": 14.9, "entrada": 106817, "coste": 0.0840659, "error": false, "intentos": 1}
+{"n": 97, "chat": "M23", "cambios": [], "pasos": 1, "s": 6.9, "entrada": 38969, "coste": 0.0975688, "error": false, "intentos": 1}
+{"n": 98, "chat": "M23", "cambios": ["nativa/MEMORY.md", "nativa/reference-portal-licencias-ayuntamiento.md"], "pasos": 3, "s": 14.2, "entrada": 79528, "coste": 0.1221588, "error": false, "intentos": 1}
+{"n": 99, "chat": "M24", "cambios": ["nativa/MEMORY.md", "nativa/project-larios-marta-calendario.md"], "pasos": 6, "s": 17.9, "entrada": 107973, "coste": 0.07803600000000001, "error": false, "intentos": 1}
+{"n": 100, "chat": "M24", "cambios": ["nativa/MEMORY.md", "nativa/project-larios-marta-calendario.md"], "pasos": 3, "s": 15.2, "entrada": 81035, "coste": 0.112897, "error": false, "intentos": 1}
+{"n": 101, "chat": "M24", "cambios": [], "pasos": 6, "s": 18.2, "entrada": 182389, "coste": 0.1741171, "error": false, "intentos": 1}
+{"n": 102, "chat": "M24", "cambios": [], "pasos": 1, "s": 13.3, "entrada": 49175, "coste": 0.1933051, "error": false, "intentos": 1}
+{"n": 103, "chat": "S3", "cambios": [], "pasos": 1, "s": 10.4, "entrada": 34272, "coste": 0.0501456, "error": false, "intentos": 1}
+{"n": 104, "chat": "S3", "cambios": [], "pasos": 1, "s": 5.0, "entrada": 35152, "coste": 0.057982599999999995, "error": false, "intentos": 1}
+{"n": 105, "chat": "S3", "cambios": [], "pasos": 1, "s": 5.7, "entrada": 35266, "coste": 0.06306139999999999, "error": false, "intentos": 1}
+{"n": 106, "chat": "S4", "cambios": [], "pasos": 1, "s": 6.5, "entrada": 34269, "coste": 0.0427436, "error": false, "intentos": 1}
+{"n": 107, "chat": "S4", "cambios": [], "pasos": 1, "s": 6.4, "entrada": 34403, "coste": 0.0685516, "error": false, "intentos": 1}
+{"n": 108, "chat": "S4", "cambios": [], "pasos": 1, "s": 10.0, "entrada": 34539, "coste": 0.0801835, "error": false, "intentos": 1}
+{"n": 109, "chat": "S5", "cambios": [], "pasos": 1, "s": 7.4, "entrada": 34268, "coste": 0.048609599999999996, "error": false, "intentos": 1}
+{"n": 110, "chat": "S5", "cambios": [], "pasos": 1, "s": 7.9, "entrada": 34984, "coste": 0.0585802, "error": false, "intentos": 1}
+{"n": 111, "chat": "S5", "cambios": [], "pasos": 2, "s": 9.9, "entrada": 71324, "coste": 0.0746458, "error": false, "intentos": 1}
+{"n": 112, "chat": "S5", "cambios": [], "pasos": 1, "s": 7.5, "entrada": 36266, "coste": 0.08427799999999999, "error": false, "intentos": 1}

@@ -1,0 +1,75 @@
+n;capitulo;partida;gremio;unidad;cantidad;precio;importe
+1;01 Demolición y residuos;Demolición de tabique de ladrillo hueco doble (9 cm);Demolición y residuos;m²;14,3;15,00;214,50
+2;01 Demolición y residuos;Picado de alicatado en paredes con cámara de mortero;Demolición y residuos;m²;54;13,00;702,00
+3;01 Demolición y residuos;Levantado de solado de terrazo;Demolición y residuos;m²;92;15,00;1380,00
+4;01 Demolición y residuos;Retirada de falso techo de escayola;Demolición y residuos;m²;22;11,00;242,00
+5;01 Demolición y residuos;Retirada de puerta de paso con cerco;Demolición y residuos;ud;8;25,00;200,00
+6;01 Demolición y residuos;Retirada de bañera;Demolición y residuos;ud;1;60,00;60,00
+7;01 Demolición y residuos;Retirada de cocina completa;Demolición y residuos;ud;1;190,00;190,00
+8;01 Demolición y residuos;Retirada de instalación eléctrica obsoleta;Demolición y residuos;m²;92;6,00;552,00
+9;01 Demolición y residuos;Bajada de escombros a pie de calle en saco;Demolición y residuos;ud;380;5,00;1900,00
+10;01 Demolición y residuos;Protección de ascensor y escalera;Demolición y residuos;ud;1;120,00;120,00
+11;01 Demolición y residuos;Gestión de residuos a vertedero autorizado por m² reformado;Demolición y residuos;m²;92;6,00;552,00
+12;01 Demolición y residuos;Certificado de gestor autorizado;Demolición y residuos;ud;1;45,00;45,00
+13;01 Demolición y residuos;Limpieza final de obra;Demolición y residuos;m²;92,5;3,00;277,50
+14;02 Albañilería y alicatados;Tabique de ladrillo hueco sencillo de 7 cm;Albañilería y alicatados;m²;18;24,00;432,00
+15;02 Albañilería y alicatados;Trasdosado autoportante con lana mineral de 46 mm;Albañilería y alicatados;m²;12;34,00;408,00
+16;02 Albañilería y alicatados;Maestreado y enfoscado de paredes;Albañilería y alicatados;m²;45;17,00;765,00
+17;02 Albañilería y alicatados;Enlucido de yeso en paredes;Albañilería y alicatados;m²;210;12,00;2520,00
+18;02 Albañilería y alicatados;Enlucido de yeso en techos;Albañilería y alicatados;m²;70;14,00;980,00
+19;02 Albañilería y alicatados;Nivelación de solera en baño;Albañilería y alicatados;ud;1;240,00;240,00
+20;02 Albañilería y alicatados;Impermeabilización de plato de ducha con lámina y banda;Albañilería y alicatados;ud;1;150,00;150,00
+21;02 Albañilería y alicatados;Impermeabilización de baño completo;Albañilería y alicatados;m²;8,5;21,00;178,50
+22;02 Albañilería y alicatados;Recibido de cerco de puerta;Albañilería y alicatados;ud;8;38,00;304,00
+23;02 Albañilería y alicatados;Rozas en pared para instalaciones;Albañilería y alicatados;ml;330;7,00;2310,00
+24;02 Albañilería y alicatados;Cierre de rozas con mortero;Albañilería y alicatados;ml;330;6,00;1980,00
+25;02 Albañilería y alicatados;Ayudas de albañilería a fontanería por cuarto húmedo;Albañilería y alicatados;ud;2;120,00;240,00
+26;02 Albañilería y alicatados;Alicatado de paredes con azulejo 30x60;Albañilería y alicatados;m²;36;38,00;1638,00
+27;02 Albañilería y alicatados;Alicatado de paredes con azulejo artesanal;Albañilería y alicatados;m²;6;61,00;366,00
+28;02 Albañilería y alicatados;Solado con gres porcelánico 60x60;Albañilería y alicatados;m²;14;40,00;560,00
+29;02 Albañilería y alicatados;Falso techo de placa continuo;Albañilería y alicatados;m²;22;29,00;638,00
+30;03 Fontanería;Red general de multicapa en vivienda de 90 m²;Fontanería;ud;1;1150,00;1150,00
+31;03 Fontanería;Punto de agua fría y caliente en lavabo;Fontanería;ud;2;82,00;164,00
+32;03 Fontanería;Punto de agua fría y caliente en ducha;Fontanería;ud;1;95,00;95,00
+33;03 Fontanería;Punto de agua en fregadero de cocina;Fontanería;ud;1;85,00;85,00
+34;03 Fontanería;Punto de agua fría en inodoro;Fontanería;ud;2;45,00;90,00
+35;03 Fontanería;Desagüe de lavabo;Fontanería;ud;2;55,00;110,00
+36;03 Fontanería;Desagüe de ducha;Fontanería;ud;1;72,00;72,00
+37;03 Fontanería;Desagüe de inodoro;Fontanería;ud;2;78,00;156,00
+38;03 Fontanería;Sustitución de tramo de bajante de fundición;Fontanería;ml;3;120,00;360,00
+39;03 Fontanería;Llave de corte por cuarto húmedo;Fontanería;ud;3;38,00;114,00
+40;03 Fontanería;Instalación de plato de ducha de resina 140x80;Fontanería;ud;1;210,00;210,00
+41;03 Fontanería;Instalación de inodoro suspendido con bastidor;Fontanería;ud;1;220,00;220,00
+42;03 Fontanería;Instalación de inodoro a suelo;Fontanería;ud;1;130,00;130,00
+43;03 Fontanería;Instalación de grifo de ducha termostático;Fontanería;ud;1;55,00;55,00
+44;03 Fontanería;Instalación de termo eléctrico de 80 l;Fontanería;ud;1;210,00;210,00
+45;03 Fontanería;Prueba de presión y llenado con acta;Fontanería;ud;1;90,00;90,00
+46;04 Electricidad;Punto de luz sencillo;Electricidad;ud;22;28,00;616,00
+47;04 Electricidad;Punto de luz conmutado;Electricidad;ud;8;42,00;336,00
+48;04 Electricidad;Foco empotrado en techo, instalación;Electricidad;ud;14;14,00;196,00
+49;04 Electricidad;Base de enchufe 16 A;Electricidad;ud;30;24,00;720,00
+50;04 Electricidad;Toma de cocina sobre encimera;Electricidad;ud;3;30,00;90,00
+51;04 Electricidad;Toma de horno y placa con línea propia;Electricidad;ud;1;95,00;95,00
+52;04 Electricidad;Cuadro general de 12 módulos montado;Electricidad;ud;1;520,00;520,00
+53;04 Electricidad;Diferencial de 30 mA, instalación;Electricidad;ud;3;48,00;144,00
+54;04 Electricidad;Magnetotérmico, instalación;Electricidad;ud;10;16,00;160,00
+55;04 Electricidad;Derivación individual con cable de 10 mm²;Electricidad;ml;12;14,00;168,00
+56;04 Electricidad;Puesta a tierra de la vivienda;Electricidad;ud;1;160,00;160,00
+57;04 Electricidad;Línea de cocina con cable de 6 mm²;Electricidad;ml;14;8,00;112,00
+58;04 Electricidad;Certificado de instalación eléctrica;Electricidad;ud;1;130,00;130,00
+59;05 Carpintería;Puerta de paso lisa lacada blanca colocada;Carpintería;ud;7;245,00;1715,00
+60;05 Carpintería;Puerta de baño con condena;Carpintería;ud;1;265,00;265,00
+61;05 Carpintería;Tarima flotante de roble de 14 mm con rodapié;Carpintería;m²;62;66,00;4092,00
+62;05 Carpintería;Armario empotrado a medida completo;Carpintería;ml;2,4;480,00;1152,00
+63;05 Carpintería;Mampara de ducha fija de vidrio templado;Carpintería;ud;1;360,00;360,00
+64;05 Carpintería;Mueble de cocina bajo, montaje;Carpintería;ml;5,5;95,00;522,50
+65;05 Carpintería;Montaje de encimera de cuarzo;Carpintería;ml;3,6;90,00;324,00
+66;06 Pintura;Plastecido y lijado de paredes;Pintura;m²;260;3,00;780,00
+67;06 Pintura;Imprimación selladora en paredes;Pintura;m²;260;2,00;520,00
+68;06 Pintura;Pintura plástica lisa en paredes con dos manos;Pintura;m²;260;7,00;1820,00
+69;06 Pintura;Pintura plástica lisa en techos con dos manos;Pintura;m²;92;8,00;736,00
+70;06 Pintura;Esmalte al agua en puertas por cara;Pintura;ud;14;38,00;532,00
+71;06 Pintura;Esmalte al agua en cercos y tapajuntas;Pintura;ml;40;6,00;240,00
+72;06 Pintura;Pintura antihumedad en baños;Pintura;m²;22;9,00;198,00
+73;06 Pintura;Retoques finales de pintura;Pintura;ud;1;95,00;95,00
+;;TOTAL (sin IVA);;;;;39984,00

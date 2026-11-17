@@ -1,0 +1,8 @@
+numero;fecha;paciente;concepto;importe;estado
+F-1001;01/10/2026;L. Ortiz;Sesión;45,00;cobrada
+F-1002;06/10/2026;C. Navas;Bono 5 sesiones;200,00;anulada
+F-1003;08/10/2026;R. Vidal;Sesión;45,00;cobrada
+F-1004;13/10/2026;A. Rey;Sesión;45,00;cobrada
+F-1005;20/10/2026;M. Santos;Bono 5 sesiones;200,00;cobrada
+F-1006;27/10/2026;P. Gómez;Sesión;45,00;anulada
+F-1007;30/10/2026;T. Luque;Sesión;45,00;pendiente

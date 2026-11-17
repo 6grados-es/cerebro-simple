@@ -1,0 +1,27 @@
+{"n": "1", "chat": "1", "cambios": ["nativa/MEMORY.md", "nativa/user-marta-fisiosur.md"], "pasos": 3, "s": 12.8, "entrada": 65564, "coste": 0.050574600000000004, "error": false, "intentos": 1}
+{"n": "2", "chat": "1", "cambios": [], "pasos": 1, "s": 6.1, "entrada": 33763, "coste": 0.056434700000000004, "error": false, "intentos": 1}
+{"n": "3", "chat": "1", "cambios": [], "pasos": 1, "s": 7.8, "entrada": 33870, "coste": 0.0626466, "error": false, "intentos": 1}
+{"n": "4", "chat": "1", "cambios": ["nativa/MEMORY.md", "nativa/feedback-patient-messages-style.md"], "pasos": 3, "s": 11.7, "entrada": 69358, "coste": 0.0835959, "error": false, "intentos": 1}
+{"n": "5", "chat": "1", "cambios": ["nativa/MEMORY.md", "nativa/project-fisiosur-prices.md"], "pasos": 3, "s": 12.5, "entrada": 72272, "coste": 0.1053983, "error": false, "intentos": 1}
+{"n": "6", "chat": "1", "cambios": [], "pasos": 1, "s": 6.5, "entrada": 37128, "coste": 0.111259, "error": false, "intentos": 1}
+{"n": "7", "chat": "2", "cambios": [], "pasos": 1, "s": 6.8, "entrada": 32565, "coste": 0.0292016, "error": false, "intentos": 1}
+{"n": "8", "chat": "2", "cambios": ["nativa/project-fisiosur-prices.md"], "pasos": 3, "s": 15.3, "entrada": 100139, "coste": 0.0535982, "error": false, "intentos": 1}
+{"n": "9", "chat": "2", "cambios": [], "pasos": 1, "s": 7.4, "entrada": 34143, "coste": 0.060909, "error": false, "intentos": 1}
+{"n": "10", "chat": "2", "cambios": [], "pasos": 1, "s": 9.2, "entrada": 34529, "coste": 0.06904489999999999, "error": false, "intentos": 1}
+{"n": "11", "chat": "2", "cambios": [], "pasos": 3, "s": 18.8, "entrada": 107450, "coste": 0.1093779, "error": false, "intentos": 1}
+{"n": "12", "chat": "3", "cambios": [], "pasos": 2, "s": 9.1, "entrada": 65701, "coste": 0.0372995, "error": false, "intentos": 1}
+{"n": "13", "chat": "3", "cambios": ["nativa/MEMORY.md", "nativa/project-gestoria-alba.md"], "pasos": 3, "s": 11.2, "entrada": 67833, "coste": 0.0570077, "error": false, "intentos": 1}
+{"n": "14", "chat": "3", "cambios": [], "pasos": 1, "s": 7.1, "entrada": 34849, "coste": 0.06511600000000001, "error": false, "intentos": 1}
+{"n": "15", "chat": "4", "cambios": [], "pasos": 4, "s": 14.8, "entrada": 131522, "coste": 0.046255, "error": false, "intentos": 1}
+{"n": "16", "chat": "4", "cambios": [], "pasos": 1, "s": 8.1, "entrada": 33690, "coste": 0.054204999999999996, "error": false, "intentos": 1}
+{"n": "17", "chat": "5", "cambios": [], "pasos": 4, "s": 13.4, "entrada": 132718, "coste": 0.050309700000000006, "error": false, "intentos": 1}
+{"n": "18", "chat": "5", "cambios": ["nativa/MEMORY.md", "nativa/user-marta-fisiosur.md"], "pasos": 5, "s": 16.0, "entrada": 140389, "coste": 0.08386740000000001, "error": false, "intentos": 1}
+{"n": "19", "chat": "6", "cambios": [], "pasos": 1, "s": 4.9, "entrada": 32602, "coste": 0.0279796, "error": false, "intentos": 1}
+{"n": "20", "chat": "7", "cambios": ["nativa/MEMORY.md", "nativa/project-fisiosur-august-closure.md"], "pasos": 6, "s": 18.2, "entrada": 139028, "coste": 0.0686797, "error": false, "intentos": 1}
+{"n": "21", "chat": "7", "cambios": ["nativa/MEMORY.md", "nativa/feedback-invoice-tables-no-concepto.md"], "pasos": 3, "s": 10.7, "entrada": 75638, "coste": 0.0906017, "error": false, "intentos": 1}
+{"n": "22", "chat": "7", "cambios": ["nativa/MEMORY.md", "nativa/project-fisiosur-august-closure.md"], "pasos": 2, "s": 7.7, "entrada": 78687, "coste": 0.1072163, "error": false, "intentos": 1}
+{"n": "23", "chat": "8", "cambios": [], "pasos": 4, "s": 14.6, "entrada": 133960, "coste": 0.0537473, "error": false, "intentos": 1}
+{"n": "24", "chat": "9", "cambios": ["nativa/MEMORY.md", "nativa/project-fisiosur-prices.md"], "pasos": 4, "s": 14.6, "entrada": 100216, "coste": 0.0524927, "error": false, "intentos": 1}
+{"n": "25", "chat": "9", "cambios": [], "pasos": 3, "s": 11.0, "entrada": 70880, "coste": 0.073941, "error": false, "intentos": 1}
+{"n": "26", "chat": "10", "cambios": [], "pasos": 1, "s": 4.8, "entrada": 32655, "coste": 0.028231600000000003, "error": false, "intentos": 1}
+{"n": "27", "chat": "10", "cambios": [], "pasos": 1, "s": 8.3, "entrada": 32760, "coste": 0.0551744, "error": false, "intentos": 1}

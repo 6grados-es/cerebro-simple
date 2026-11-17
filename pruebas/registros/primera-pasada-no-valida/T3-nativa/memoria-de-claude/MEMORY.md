@@ -1,0 +1,5 @@
+- [FisioSur](fisiosur-clinica.md) — clínica de Marta en Málaga, Inés recepcionista (mañanas + martes tarde; Lucía ya no está), sesión 45 € (50 € desde enero 2027), bono 5 por 200 € (220 € desde enero 2027)
+- [Estilo de mensajes](marta-estilo-mensajes.md) — a pacientes: cortos, de tú, sin emojis
+- [Facturas anuladas](facturas-anuladas.md) — al sumar facturación, las anuladas nunca cuentan
+- [Gestoría Alba](gestoria-alba.md) — elegida como gestoría, empieza el 1 dic 2026
+- [Tablas sin concepto](tablas-sin-concepto.md) — en tablas de facturas, nunca la columna concepto

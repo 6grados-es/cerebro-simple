@@ -1,0 +1,27 @@
+{"n": "1", "chat": "1", "cambios": ["memoria/MEMORY.md", "memoria/clinica-fisiosur.md", "memoria/marta-duena.md"], "pasos": 5, "s": 16.3, "entrada": 101402, "coste": 0.0628164, "error": false, "intentos": 1}
+{"n": "2", "chat": "1", "cambios": [], "pasos": 1, "s": 4.6, "entrada": 34861, "coste": 0.0681943, "error": false, "intentos": 1}
+{"n": "3", "chat": "1", "cambios": [], "pasos": 1, "s": 6.1, "entrada": 34940, "coste": 0.074494, "error": false, "intentos": 1}
+{"n": "4", "chat": "1", "cambios": ["memoria/MEMORY.md", "memoria/estilo-mensajes-pacientes.md"], "pasos": 3, "s": 10.7, "entrada": 71448, "coste": 0.0948522, "error": false, "intentos": 1}
+{"n": "5", "chat": "1", "cambios": ["memoria/MEMORY.md", "memoria/tarifas-fisiosur.md"], "pasos": 3, "s": 9.7, "entrada": 74193, "coste": 0.1148043, "error": false, "intentos": 1}
+{"n": "6", "chat": "1", "cambios": [], "pasos": 1, "s": 5.2, "entrada": 37987, "coste": 0.1205805, "error": false, "intentos": 1}
+{"n": "7", "chat": "2", "cambios": [], "pasos": 1, "s": 5.9, "entrada": 33037, "coste": 0.0314403, "error": false, "intentos": 1}
+{"n": "8", "chat": "2", "cambios": ["memoria/MEMORY.md", "memoria/historial.md", "memoria/tarifas-fisiosur.md"], "pasos": 6, "s": 14.1, "entrada": 102737, "coste": 0.0638036, "error": false, "intentos": 1}
+{"n": "9", "chat": "2", "cambios": [], "pasos": 1, "s": 5.9, "entrada": 35862, "coste": 0.0707227, "error": false, "intentos": 1}
+{"n": "10", "chat": "2", "cambios": ["memoria/MEMORY.md", "memoria/pendientes.md"], "pasos": 4, "s": 13.0, "entrada": 109518, "coste": 0.0951106, "error": false, "intentos": 1}
+{"n": "11", "chat": "2", "cambios": [], "pasos": 3, "s": 16.3, "entrada": 115683, "coste": 0.1351841, "error": false, "intentos": 1}
+{"n": "12", "chat": "3", "cambios": [], "pasos": 1, "s": 6.4, "entrada": 33073, "coste": 0.0314843, "error": false, "intentos": 1}
+{"n": "13", "chat": "3", "cambios": ["memoria/MEMORY.md", "memoria/gestoria-alba.md", "memoria/historial.md", "memoria/pendientes.md"], "pasos": 9, "s": 18.8, "entrada": 138638, "coste": 0.0759878, "error": false, "intentos": 1}
+{"n": "14", "chat": "3", "cambios": [], "pasos": 1, "s": 5.7, "entrada": 37117, "coste": 0.08317419999999999, "error": false, "intentos": 1}
+{"n": "15", "chat": "4", "cambios": [], "pasos": 4, "s": 14.2, "entrada": 134239, "coste": 0.0511403, "error": false, "intentos": 1}
+{"n": "16", "chat": "4", "cambios": ["memoria/MEMORY.md", "memoria/facturas-anuladas.md"], "pasos": 3, "s": 14.2, "entrada": 70633, "coste": 0.0767327, "error": false, "intentos": 1}
+{"n": "17", "chat": "5", "cambios": [], "pasos": 3, "s": 12.8, "entrada": 101318, "coste": 0.046486200000000005, "error": false, "intentos": 1}
+{"n": "18", "chat": "5", "cambios": ["memoria/MEMORY.md", "memoria/clinica-fisiosur.md", "memoria/historial.md"], "pasos": 3, "s": 12.5, "entrada": 106912, "coste": 0.07498500000000001, "error": false, "intentos": 1}
+{"n": "19", "chat": "6", "cambios": [], "pasos": 1, "s": 5.9, "entrada": 33156, "coste": 0.0316963, "error": false, "intentos": 1}
+{"n": "20", "chat": "7", "cambios": ["memoria/MEMORY.md", "memoria/clinica-fisiosur.md", "memoria/historial.md"], "pasos": 4, "s": 16.9, "entrada": 139298, "coste": 0.0656033, "error": false, "intentos": 1}
+{"n": "21", "chat": "7", "cambios": ["memoria/MEMORY.md", "memoria/tablas-facturas-sin-concepto.md"], "pasos": 3, "s": 9.3, "entrada": 75916, "coste": 0.08780070000000001, "error": false, "intentos": 1}
+{"n": "22", "chat": "7", "cambios": ["memoria/MEMORY.md", "memoria/clinica-fisiosur.md", "memoria/historial.md"], "pasos": 2, "s": 8.6, "entrada": 79666, "coste": 0.10817550000000001, "error": false, "intentos": 1}
+{"n": "23", "chat": "8", "cambios": [], "pasos": 3, "s": 9.4, "entrada": 102461, "coste": 0.048799300000000004, "error": false, "intentos": 1}
+{"n": "24", "chat": "9", "cambios": ["memoria/MEMORY.md", "memoria/historial.md", "memoria/tarifas-fisiosur.md"], "pasos": 4, "s": 13.5, "entrada": 103451, "coste": 0.056995300000000006, "error": false, "intentos": 1}
+{"n": "25", "chat": "9", "cambios": [], "pasos": 3, "s": 9.8, "entrada": 74345, "coste": 0.07765050000000001, "error": false, "intentos": 1}
+{"n": "26", "chat": "10", "cambios": [], "pasos": 1, "s": 5.3, "entrada": 33208, "coste": 0.0317643, "error": false, "intentos": 1}
+{"n": "27", "chat": "10", "cambios": [], "pasos": 1, "s": 6.6, "entrada": 33441, "coste": 0.0376869, "error": false, "intentos": 1}

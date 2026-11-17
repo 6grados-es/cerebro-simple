@@ -1,0 +1,9 @@
+- [Yo](fichas/yo.md) — quién es el dueño y cómo le gusta trabajar en general
+- [Manual de obra](fichas/manual-de-obra.md) — manual de obra de Laura Mena: dónde está y cómo se consulta
+- [Anselmo Pimentel](fichas/anselmo-pimentel.md) — Anselmo Pimentel: profesional con el que cuenta el dueño; sus condiciones de trabajo
+- [Teatinos](fichas/teatinos.md) — obra de Teatinos: quién participa y cómo va
+- [Café Alameda](fichas/cafe-alameda.md) — obra de reforma del local de hostelería Café Alameda: dónde están sus actas y quién participa
+- [Larios](fichas/larios.md) — obra de reforma integral de un piso en calle Larios: dónde están sus actas y su presupuesto
+- [Facturas](fichas/facturas.md) — facturas emitidas en 2026: dónde está la lista y los fallos que tiene
+- [Gestoría](fichas/gestoria.md) — gestoría Arjona y Asociados: quién lleva las cuentas y cuándo hay que pasarle los papeles
+- [Tarifas de gremios](fichas/tarifas-gremios.md) — tarifas por partida de los gremios para 2027: dónde están y cómo consultarlas

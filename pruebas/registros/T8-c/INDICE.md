@@ -1,0 +1,3 @@
+- [Yo](fichas/yo.md) — quién es el dueño y cómo le gusta trabajar en general
+- [FisioSur](fichas/fisiosur.md) — la clínica de Marta en Málaga: quién trabaja en ella y cómo funciona
+- [Gestoría](fichas/gestoria.md) — cambio de gestoría de Marta: se pasa a Gestoría Alba el 1-dic-26

@@ -1,0 +1,5 @@
+{"n": "101", "chat": "C1a", "cambios": ["fichas/facturas.md"], "pasos": 4, "s": 17.4, "entrada": 143859, "coste": 0.057561100000000004, "error": false, "intentos": 1}
+{"n": "102", "chat": "C1b", "cambios": [], "pasos": 2, "s": 9.5, "entrada": 70055, "coste": 0.0369719, "error": false, "intentos": 1}
+{"n": "103", "chat": "C1c", "cambios": ["fichas/facturas.md", "historial/2026-11.md"], "pasos": 5, "s": 18.6, "entrada": 176836, "coste": 0.0601015, "error": false, "intentos": 1}
+{"n": "104", "chat": "C2", "cambios": ["INDICE.md", "fichas/deudas-bonos.md"], "pasos": 4, "s": 17.1, "entrada": 143558, "coste": 0.058615, "error": false, "intentos": 1}
+{"n": "105", "chat": "C3", "cambios": ["fichas/fisiosur.md", "resultados/resumen-recepcion.md"], "pasos": 5, "s": 19.1, "entrada": 106555, "coste": 0.0678177, "error": false, "intentos": 1}

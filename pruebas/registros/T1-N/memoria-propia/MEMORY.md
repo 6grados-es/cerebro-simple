@@ -1,0 +1,5 @@
+- [Formato de tablas de importes](formato-tablas-importes.md) — mayor a menor, sin decimales, total abajo, IVA aparte (10 % vivienda, 21 % local)
+- [Estilo de correos a clientes](estilo-correos-clientes.md) — tuteo, «Hola X,», firma «Laura», máx. 6 líneas
+- [Presupuesto para el cliente](presupuesto-para-cliente.md) — solo capítulos, un importe cada uno, base/IVA/total; sin precios unitarios ni gremio
+- [Contacto de la gestoría](gestoria-arjona-contacto.md) — Arjona y Asociados, ahora Íñigo Bravo (antes Nuria); entrega antes del día 10 del mes siguiente
+- [Disponibilidad de Pimentel](pimentel-disponibilidad.md) — fontanero, solo lunes a jueves, nunca viernes

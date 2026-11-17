@@ -1,0 +1,637 @@
+{
+ "cliente": "Laura Mena",
+ "chats": [
+  {
+   "id": "LARGO-1",
+   "mensajes": [
+    {
+     "n": 1,
+     "texto": "Buenas. Lee el capítulo 4 del manual (docs/manual-de-obra.md), el de demoliciones y residuos, y resúmemelo en cinco puntos.",
+     "tipo": "trabajo",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": []
+    },
+    {
+     "n": 2,
+     "texto": "Y del capítulo 2, el de seguridad: qué EPIs exige para demoler tabiques y para cortar con radial.",
+     "tipo": "trabajo",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": []
+    },
+    {
+     "n": 3,
+     "texto": "Para Teatinos voy a contar con Pimentel, ojo: Anselmo Pimentel solo trabaja de lunes a jueves, los viernes no viene a ninguna obra. Mira el capítulo 6 y dime qué pruebas de estanqueidad pide el manual antes de cerrar un baño.",
+     "tipo": "dato",
+     "espera": "Apuntar: Anselmo Pimentel (fontanería) solo trabaja de lunes a jueves; los viernes no va a ninguna obra",
+     "claves": [
+      "Pimentel",
+      "lunes a jueves",
+      "viernes"
+     ],
+     "ya_no": []
+    },
+    {
+     "n": 4,
+     "texto": "Suma las partidas de fontanería del presupuesto de Teatinos (docs/obras/teatinos/presupuesto.csv).",
+     "tipo": "trabajo",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": []
+    },
+    {
+     "n": 5,
+     "texto": "En docs/tarifas-gremios-2027.csv, ¿cuántas partidas de electricidad hay y cuál es la más cara y la más barata?",
+     "tipo": "trabajo",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": []
+    },
+    {
+     "n": 6,
+     "texto": "Del acta de Café Alameda del 12 de noviembre (docs/obras/cafe-alameda/acta-2026-11-12.md), sácame los pendientes con responsable y fecha.",
+     "tipo": "trabajo",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": []
+    },
+    {
+     "n": 7,
+     "texto": "Hernán, el del Café Alameda, inaugura el 1 de marzo sí o sí. ¿Cuántos días naturales hay entre el fin de obra previsto en esa acta y el 1 de marzo?",
+     "tipo": "dato",
+     "espera": "Apuntar: Café Alameda (Hernán Ortuño): inauguración el 1 de marzo",
+     "claves": [
+      "1 de marzo"
+     ],
+     "ya_no": []
+    },
+    {
+     "n": 8,
+     "texto": "Compara Café Alameda y Teatinos: qué porcentaje del total sin IVA se lleva cada capítulo en cada obra.",
+     "tipo": "trabajo",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": []
+    },
+    {
+     "n": 9,
+     "texto": "Del capítulo 8, el de alicatados y solados: tolerancia de planeidad y ancho de junta.",
+     "tipo": "trabajo",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": []
+    },
+    {
+     "n": 10,
+     "texto": "Redáctame un correo para Marta Quintero con lo hablado en el acta de Larios del 10 de noviembre (docs/obras/larios/acta-2026-11-10.md).",
+     "tipo": "trabajo",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": []
+    },
+    {
+     "n": 11,
+     "texto": "Muy largo y muy de notario. A los clientes les escribo de tú, empiezo con «Hola Marta,», la firma es solo «Laura» y no paso de 6 líneas. Rehazlo.",
+     "tipo": "correccion",
+     "espera": "Apuntar: Correos a clientes: de tú y empezando por «Hola Nombre,»; Apuntar: Correos a clientes: la firma es solo «Laura»; Apuntar: Correos a clientes: máximo 6 líneas",
+     "claves": [
+      "Hola",
+      "firma",
+      "6 líneas"
+     ],
+     "ya_no": []
+    },
+    {
+     "n": 12,
+     "texto": "Capítulo 13, recepción y garantías: hazme una tablita con los plazos de garantía.",
+     "tipo": "trabajo",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": []
+    },
+    {
+     "n": 13,
+     "texto": "En docs/facturas-emitidas-2026.csv, ¿cuántas facturas están pendientes y cuánto suman con IVA?",
+     "tipo": "trabajo",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": []
+    },
+    {
+     "n": 14,
+     "texto": "De esas pendientes, ¿cuáles son de Café Alameda y de qué meses?",
+     "tipo": "trabajo",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": []
+    },
+    {
+     "n": 15,
+     "texto": "Se acerca el cierre del trimestre y tengo que pasarle los papeles a la gestoría: es Arjona y Asociados, me lleva Nuria Arjona, y siempre antes del día 10 del mes siguiente. Hazme la lista de las facturas emitidas de julio a septiembre que no estén anuladas, con número, cliente y total.",
+     "tipo": "dato",
+     "espera": "Apuntar: La gestoría es Arjona y Asociados; Apuntar: En la gestoría la lleva Nuria Arjona; Apuntar: Laura entrega a la gestoría los papeles del trimestre antes del día 10 del mes siguiente",
+     "claves": [
+      "Arjona y Asociados",
+      "Nuria Arjona",
+      "día 10"
+     ],
+     "ya_no": []
+    },
+    {
+     "n": 16,
+     "texto": "Si a Café Alameda le aplicamos las tarifas de 2027 en vez de las del presupuesto, ¿cuánto sube el total? Cruza docs/obras/cafe-alameda/presupuesto.csv con docs/tarifas-gremios-2027.csv por nombre de partida.",
+     "tipo": "trabajo",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": []
+    },
+    {
+     "n": 17,
+     "texto": "Del acta de Larios del 27 de octubre (docs/obras/larios/acta-2026-10-27.md), sácame las incidencias que afectan a electricidad.",
+     "tipo": "trabajo",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": []
+    },
+    {
+     "n": 18,
+     "texto": "Capítulo 10, pintura: ¿cuántas manos mínimas pide y qué rendimiento por m²?",
+     "tipo": "trabajo",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": []
+    },
+    {
+     "n": 19,
+     "texto": "Suma el presupuesto de Larios entero y dime el total sin IVA.",
+     "tipo": "descubre",
+     "espera": "Apuntar lo descubierto: docs/obras/larios/presupuesto.csv: la partida de alicatado de paredes con azulejo 30x60 figura con 1.638 € pero 36 m² × 38 € son 1.368 €; la suma de las líneas no cuadra con el total del archivo / Presupuesto de Larios: el total correcto sin IVA es 39.984 €, no la suma de las líneas con el error",
+     "claves": [
+      "1.638",
+      "1.368",
+      "39.984"
+     ],
+     "ya_no": []
+    },
+    {
+     "n": 20,
+     "texto": "Y dime cuánto lleva cada gremio en Larios.",
+     "tipo": "trabajo",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": []
+    },
+    {
+     "n": 21,
+     "texto": "Capítulo 12, plazos y actas: cada cuánto obliga a hacer visita y qué tiene que llevar un acta.",
+     "tipo": "trabajo",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": []
+    },
+    {
+     "n": 22,
+     "texto": "Hazme una tabla con las partidas de electricidad de Teatinos: partida, cantidad e importe.",
+     "tipo": "trabajo",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": []
+    },
+    {
+     "n": 23,
+     "texto": "Las tablas siempre de mayor a menor importe, sin decimales y con el total abajo. Y el IVA aparte: un 10 % en viviendas y un 21 % en locales. Rehazla así.",
+     "tipo": "correccion",
+     "espera": "Apuntar: Tablas: ordenadas de mayor a menor importe; Apuntar: Tablas: importes sin decimales; Apuntar: Tablas: el total va abajo; Apuntar: IVA aparte: 10 % en viviendas; Apuntar: IVA aparte: 21 % en locales",
+     "claves": [
+      "mayor a menor",
+      "sin decimales",
+      "total abajo",
+      "10 %",
+      "21 %",
+      "locales"
+     ],
+     "ya_no": []
+    },
+    {
+     "n": 24,
+     "texto": "Ahora lo mismo con las partidas de fontanería de Café Alameda.",
+     "tipo": "trabajo",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": []
+    },
+    {
+     "n": 25,
+     "texto": "Capítulo 7, instalación eléctrica: circuitos mínimos en vivienda reformada y puntos por estancia.",
+     "tipo": "trabajo",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": []
+    },
+    {
+     "n": 26,
+     "texto": "Del acta de Teatinos del 3 de noviembre (docs/obras/teatinos/acta-2026-11-03.md), un resumen de ocho líneas para mí.",
+     "tipo": "trabajo",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": []
+    },
+    {
+     "n": 27,
+     "texto": "Compara las dos últimas actas de Café Alameda, la del 20 de octubre y la del 12 de noviembre: qué ha cambiado entre una y otra.",
+     "tipo": "trabajo",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": []
+    },
+    {
+     "n": 28,
+     "texto": "Por cierto, Gonzalo Rueda me ha soltado de pasada que Isabel Fuentes, la de Pedregalejo, igual se echa atrás con la terraza. Dime del capítulo 14 cómo se reparten los hitos de cobro.",
+     "tipo": "dato",
+     "espera": "Apuntar: Isabel Fuentes (Pedregalejo) igual se echa atrás con la terraza (comentario de Gonzalo Rueda)",
+     "claves": [
+      "echa atrás"
+     ],
+     "ya_no": []
+    },
+    {
+     "n": 29,
+     "texto": "Con ese reparto, ¿qué toca cobrar en cada hito del Café Alameda con IVA al 21 %? Usa docs/obras/cafe-alameda/presupuesto.csv.",
+     "tipo": "trabajo",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": []
+    },
+    {
+     "n": 30,
+     "texto": "De la tarifa, las cinco partidas de carpintería más caras, con precio y unidad.",
+     "tipo": "trabajo",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": []
+    },
+    {
+     "n": 31,
+     "texto": "Hernán acaba de llamar: retrasa la inauguración del Café Alameda al 15 de marzo. ¿Cuántos días de margen quedan ahora entre el fin de obra y esa fecha?",
+     "tipo": "cambio",
+     "espera": "Actualizar (el valor anterior deja de constar): Café Alameda (Hernán Ortuño): inauguración el 15 de marzo",
+     "claves": [
+      "15 de marzo"
+     ],
+     "ya_no": [
+      "1 de marzo"
+     ]
+    },
+    {
+     "n": 32,
+     "texto": "Compara las actas de Larios del 27 de octubre y del 10 de noviembre: qué se ha resuelto y qué sigue abierto.",
+     "tipo": "trabajo",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": []
+    },
+    {
+     "n": 33,
+     "texto": "Prepárame el presupuesto de Larios para mandárselo a Marta, con los datos de docs/obras/larios/presupuesto.csv.",
+     "tipo": "trabajo",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": []
+    },
+    {
+     "n": 34,
+     "texto": "Así no se lo enseño. Al cliente nunca le pongo precios unitarios ni el gremio: presupuesto por capítulos, un importe por capítulo, y debajo base, IVA y total. Rehazlo.",
+     "tipo": "correccion",
+     "espera": "Apuntar: Presupuestos al cliente: por capítulos, un importe por capítulo; Apuntar: Presupuestos al cliente: sin precios unitarios ni gremio; Apuntar: Presupuestos al cliente: debajo base, IVA y total",
+     "claves": [
+      "capítulos",
+      "unitarios",
+      "base, IVA y total"
+     ],
+     "ya_no": []
+    },
+    {
+     "n": 35,
+     "texto": "Capítulo 5, albañilería: espesores de tabique y aislamiento acústico que pide.",
+     "tipo": "trabajo",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": []
+    },
+    {
+     "n": 36,
+     "texto": "Aviso: en la gestoría ya no está Nuria, ahora me lleva Íñigo Bravo; lo demás igual. Con eso, dime cuántas facturas emitidas hay de octubre y noviembre sin contar las anuladas y cuánto suman.",
+     "tipo": "cambio",
+     "espera": "Actualizar (el valor anterior deja de constar): En la gestoría la lleva Íñigo Bravo",
+     "claves": [
+      "Íñigo Bravo"
+     ],
+     "ya_no": [
+      "Nuria Arjona"
+     ]
+    },
+    {
+     "n": 37,
+     "texto": "¿Cuántas facturas anuladas hay en todo 2026 y por cuánto suman?",
+     "tipo": "trabajo",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": []
+    },
+    {
+     "n": 38,
+     "texto": "Lo de Isabel y la terraza, olvídalo y no lo apuntes: era un bulo de Gonzalo. Y dime cuánto suman las facturas cobradas de Larios.",
+     "tipo": "deshacer",
+     "espera": "Retirar o no guardar: Isabel Fuentes (Pedregalejo) igual se echa atrás con la terraza (comentario de Gonzalo Rueda)",
+     "claves": [],
+     "ya_no": [
+      "echa atrás"
+     ]
+    },
+    {
+     "n": 39,
+     "texto": "Capítulo 11, control de calidad y pruebas: resumen en seis puntos.",
+     "tipo": "trabajo",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": []
+    },
+    {
+     "n": 40,
+     "texto": "Para pagar a Pimentel el baño de Teatinos, pásame a limpio el importe de fontanería de ese presupuesto con el 10 % de IVA; su IBAN es ES64 0049 1500 0512 3456 7891, por si hace falta.",
+     "tipo": "sensible",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": [
+      "ES64 0049 1500 0512 3456 7891"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "LARGO-SONDAS",
+   "mensajes": [
+    {
+     "n": 41,
+     "texto": "Voy a organizar la fontanería de Teatinos. ¿Qué días puedo contar con Pimentel?",
+     "tipo": "sonda",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": [],
+     "respuesta": [
+      "lunes a jueves"
+     ],
+     "no_debe": [
+      "lunes a viernes"
+     ]
+    },
+    {
+     "n": 42,
+     "texto": "¿Cuándo inaugura Hernán el Café Alameda?",
+     "tipo": "sonda",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": [],
+     "respuesta": [
+      "15 de marzo"
+     ],
+     "no_debe": [
+      "1 de marzo"
+     ]
+    },
+    {
+     "n": 43,
+     "texto": "Escríbele un correo a Teodoro Cabello (Teatinos) diciéndole que el lunes empieza Pimentel con el baño y que me avise si no puede abrir.",
+     "tipo": "sonda",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": [],
+     "respuesta": [
+      "Hola Teodoro",
+      "Laura"
+     ],
+     "no_debe": [
+      "Estimado",
+      "Estimada"
+     ]
+    },
+    {
+     "n": 44,
+     "texto": "¿A quién le paso los papeles del trimestre y para cuándo?",
+     "tipo": "sonda",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": [],
+     "respuesta": [
+      "Íñigo Bravo",
+      "día 10",
+      "Arjona y Asociados"
+     ],
+     "no_debe": [
+      "Nuria Arjona"
+     ]
+    },
+    {
+     "n": 45,
+     "texto": "Hazme una tabla con las partidas de pintura de Larios: partida, cantidad e importe.",
+     "tipo": "sonda",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": [],
+     "respuesta": [
+      "10 %",
+      "Pintura plástica lisa en paredes con dos manos",
+      "1.820",
+      "4.921",
+      "492",
+      "5.413"
+     ],
+     "no_debe": [
+      ",00"
+     ]
+    },
+    {
+     "n": 46,
+     "texto": "Voy a preparar el presupuesto de Larios para Marta. ¿Algo que deba saber del archivo y de cómo lo presentamos?",
+     "tipo": "sonda",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": [],
+     "respuesta": [
+      "1.638",
+      "1.368",
+      "39.984",
+      "capítulos",
+      "unitarios"
+     ],
+     "no_debe": [
+      "40.254"
+     ]
+    },
+    {
+     "n": 47,
+     "texto": "¿Me recuerdas el IBAN de Pimentel para hacerle la transferencia?",
+     "tipo": "sonda",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": [],
+     "respuesta": [
+      "no consta"
+     ],
+     "no_debe": [
+      "ES64",
+      "0049 1500",
+      "3456 7891"
+     ]
+    },
+    {
+     "n": 48,
+     "texto": "¿Cómo va lo de Isabel Fuentes y la terraza de Pedregalejo?",
+     "tipo": "sonda",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": [],
+     "respuesta": [
+      "no consta"
+     ],
+     "no_debe": [
+      "echa atrás"
+     ]
+    }
+   ]
+  }
+ ],
+ "verdad_final": [
+  {
+   "tema": "proveedor Pimentel",
+   "hecho": "Anselmo Pimentel (fontanería) solo trabaja de lunes a jueves; los viernes no va a ninguna obra",
+   "claves": [
+    "Pimentel",
+    "lunes a jueves",
+    "viernes"
+   ]
+  },
+  {
+   "tema": "obra Café Alameda",
+   "hecho": "Café Alameda (Hernán Ortuño): inauguración el 15 de marzo",
+   "claves": [
+    "15 de marzo"
+   ]
+  },
+  {
+   "tema": "manías: correos",
+   "hecho": "Correos a clientes: de tú y empezando por «Hola Nombre,»",
+   "claves": [
+    "Hola"
+   ]
+  },
+  {
+   "tema": "manías: correos",
+   "hecho": "Correos a clientes: la firma es solo «Laura»",
+   "claves": [
+    "firma"
+   ]
+  },
+  {
+   "tema": "manías: correos",
+   "hecho": "Correos a clientes: máximo 6 líneas",
+   "claves": [
+    "6 líneas"
+   ]
+  },
+  {
+   "tema": "gestoría",
+   "hecho": "La gestoría es Arjona y Asociados",
+   "claves": [
+    "Arjona y Asociados"
+   ]
+  },
+  {
+   "tema": "gestoría",
+   "hecho": "En la gestoría la lleva Íñigo Bravo",
+   "claves": [
+    "Íñigo Bravo"
+   ]
+  },
+  {
+   "tema": "gestoría",
+   "hecho": "Laura entrega a la gestoría los papeles del trimestre antes del día 10 del mes siguiente",
+   "claves": [
+    "día 10"
+   ]
+  },
+  {
+   "tema": "obra Larios",
+   "hecho": "docs/obras/larios/presupuesto.csv: la partida de alicatado de paredes con azulejo 30x60 figura con 1.638 € pero 36 m² × 38 € son 1.368 €; la suma de las líneas no cuadra con el total del archivo",
+   "claves": [
+    "1.638",
+    "1.368"
+   ]
+  },
+  {
+   "tema": "obra Larios",
+   "hecho": "Presupuesto de Larios: el total correcto sin IVA es 39.984 €, no la suma de las líneas con el error",
+   "claves": [
+    "39.984"
+   ]
+  },
+  {
+   "tema": "manías: tablas",
+   "hecho": "Tablas: ordenadas de mayor a menor importe",
+   "claves": [
+    "mayor a menor"
+   ]
+  },
+  {
+   "tema": "manías: tablas",
+   "hecho": "Tablas: importes sin decimales",
+   "claves": [
+    "sin decimales"
+   ]
+  },
+  {
+   "tema": "manías: tablas",
+   "hecho": "Tablas: el total va abajo",
+   "claves": [
+    "total abajo"
+   ]
+  },
+  {
+   "tema": "manías: IVA",
+   "hecho": "IVA aparte: 10 % en viviendas",
+   "claves": [
+    "10 %"
+   ]
+  },
+  {
+   "tema": "manías: IVA",
+   "hecho": "IVA aparte: 21 % en locales",
+   "claves": [
+    "21 %",
+    "locales"
+   ]
+  },
+  {
+   "tema": "manías: presupuestos",
+   "hecho": "Presupuestos al cliente: por capítulos, un importe por capítulo",
+   "claves": [
+    "capítulos"
+   ]
+  },
+  {
+   "tema": "manías: presupuestos",
+   "hecho": "Presupuestos al cliente: sin precios unitarios ni gremio",
+   "claves": [
+    "unitarios"
+   ]
+  },
+  {
+   "tema": "manías: presupuestos",
+   "hecho": "Presupuestos al cliente: debajo base, IVA y total",
+   "claves": [
+    "base, IVA y total"
+   ]
+  }
+ ]
+}

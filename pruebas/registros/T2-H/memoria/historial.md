@@ -1,0 +1,117 @@
+# Historial (líneas antiguas antes de cambiarlas)
+
+- [2026-12-09] proyecto-larios-marta-quintero: `- Estado: arranque en cuanto salga la licencia (aún pendiente de concederse).`
+- [2026-12-09] proyecto-larios-marta-quintero: `- El primer 30 % se factura antes del 4 de diciembre de 2026.`
+- [2026-12-09] pendientes: `- Larios (Marta Quintero): facturar el primer 30 % (11.995,20 € + IVA) antes del 4 de diciembre de 2026. (anotado 2026-12-01)`
+- [2026-12-09] pendientes: `- Larios (Marta Quintero): esperar a que salga la licencia para arrancar. (anotado 2026-12-01)`
+- [2026-12-15] feedback-resumen-presupuesto-cliente: `Pedir el tipo de IVA si no consta.`
+- [2026-12-15] proyecto-clinica-fisioterapia-soho-sanmartin: `- Estado: presupuesto sin empezar; falta el alcance (distribución, cabinas, aseos, estado actual del local) y el tipo de IVA.`
+- [2027-01-07] proyecto-larios-marta-quintero: `- Calendario: inicio de obra el 11 de enero de 2027; entrega prevista el 30 de abril de 2027.`
+- [2027-01-07] proyecto-larios-marta-quintero: `- Estado: licencia concedida, primer cobro hecho; a la espera del inicio el 11-01-2027.`
+- [2027-01-07] pendientes: `- Larios (Marta Quintero): valorar el cambio de tarima a microcemento en salón y pasillo (necesito m² y quién lo ejecuta) y pasarle la diferencia antes del inicio de obra del 11-01-2027. (anotado 2026-12-21)`
+- [2027-01-07] MEMORY.md: `- [Proyecto Larios – Marta Quintero](proyecto-larios-marta-quintero.md) — 39.984 € + IVA firmado; licencia concedida, 30 % cobrado; obra 11-01-2027 a 30-04-2027`
+- [2027-01-07] pendientes: `- Larios: llamar al administrador de la finca para reservar el montacargas antes del 13-01-2027. (anotado 2026-12-21) Ver [[proyecto-larios-marta-quintero]].`
+- [2027-01-19] proyecto-larios-marta-quintero: `- Estado: licencia concedida, primer cobro hecho; a la espera del inicio el 18-01-2027 (pendiente el permiso de ocupación de vía pública para el contenedor).`
+- [2027-01-19] MEMORY.md: `- [Proyecto Larios – Marta Quintero](proyecto-larios-marta-quintero.md) — 39.984 € + IVA firmado; licencia concedida, 30 % cobrado; obra 18-01-2027 a 14-05-2027`
+- [2027-01-19] proyecto-clinica-fisioterapia-soho-sanmartin: `- Estado: presupuesto sin empezar; falta el alcance (distribución, cabinas, aseos, estado actual del local) y si incluye honorarios de dirección.`
+- [2027-01-19] MEMORY.md: `- [Clínica fisioterapia Soho – Dr. Sanmartín](proyecto-clinica-fisioterapia-soho-sanmartin.md) — ~95 m², presupuesto a enviar antes del 20-01-2027`
+- [2027-01-19] pendientes: `- Clínica de fisioterapia del Soho (doctor Rafael Sanmartín, ~95 m²): enviar el presupuesto antes del 20 de enero de 2027. (anotado 2026-12-15) Ver [[proyecto-clinica-fisioterapia-soho-sanmartin]].` (hecho, borrado)
+- [2027-01-27] proyecto-larios-marta-quintero: `- Presupuesto aceptado el 2026-12-01: 39.984 € más IVA.`
+- [2027-01-27] proyecto-larios-marta-quintero: `- Imprevisto (2027-01-19): vigas de madera dañadas en el techo de la cocina. Fermín Barroso las refuerza por 1.900 € más (coste de gremio, IVA aparte; no incluido en los 39.984 €). Pendiente de comunicar/aceptar por Marta como adicional.`
+- [2027-01-27] MEMORY.md: `- [Proyecto Larios – Marta Quintero](proyecto-larios-marta-quintero.md) — 39.984 € + IVA firmado; 30 % cobrado; obra en curso (demolición iniciada 18-01-2027), entrega 14-05-2027`
+- [2027-01-27] pendientes: `- Larios (Marta Quintero): comunicarle las vigas dañadas de la cocina y el adicional de 1.900 € (Barroso) y que lo acepte; aún sin repercutir. (anotado 2027-01-19) Ver [[proyecto-larios-marta-quintero]].` (hecho, borrado)
+- [2027-02-03] proyecto-larios-marta-quintero: `- Estado: obra en curso. Demolición empezada el 2027-01-18; contenedor ya colocado en la puerta (comunicado el 2027-01-19). Licencia concedida, primer cobro hecho.`
+- [2027-02-03] MEMORY.md: `- [Proyecto Larios – Marta Quintero](proyecto-larios-marta-quintero.md) — 41.884 € + IVA (incluye vigas +1.900 aprobadas 27-01-2027); 30 % cobrado; obra en curso (demolición iniciada 18-01-2027), entrega 14-05-2027`
+- [2027-02-03] proyecto-cafe-alameda-hernan-ortuno: `- Entrega de la obra al cliente: 12-02-2027.`
+- [2027-02-03] proyecto-cafe-alameda-hernan-ortuno: `- Inauguración del café por el cliente: 15-03-2027 (margen de ~4 semanas tras la entrega).`
+- [2027-02-03] MEMORY.md: `- [Proyecto Café Alameda – Hernán Ortuño](proyecto-cafe-alameda-hernan-ortuno.md) — entrega de obra 12-02-2027; inauguración del cliente 15-03-2027`
+- [2027-02-10] proyecto-larios-marta-quintero (description): `Obra/proyecto Larios con la clienta Marta Quintero: 41.884 € + IVA (39.984 + vigas 1.900 aprobadas 27-01-2027), 30 % cobrado; obra en curso, fase de instalaciones desde 03-02-2027 (Pimentel y Rueda), entrega 14-05-2027`
+- [2027-02-10] proyecto-larios-marta-quintero: `- Presupuesto aceptado el 2026-12-01: 39.984 € más IVA. Con el adicional de las vigas (aprobado por Marta el 2027-01-27, +1.900 €) el total pasa a 41.884 € más IVA.`
+- [2027-02-10] proyecto-larios-marta-quintero (how to apply): `al hablar de Larios, partir de que el presupuesto está cerrado en 41.884 € + IVA (39.984 original + 1.900 de vigas); ...`
+- [2027-02-10] MEMORY.md: `- [Proyecto Larios – Marta Quintero](proyecto-larios-marta-quintero.md) — 41.884 € + IVA (incluye vigas +1.900 aprobadas 27-01-2027); 30 % cobrado; obra en curso, fase de instalaciones (Pimentel y Rueda entran semana del 03-02-2027), entrega 14-05-2027`
+- [2027-02-17] proveedor-barroso (description): `Proveedor Barroso: jornada de oficial a 190 € y mínimo de 450 € por desplazamiento en obras pequeñas`
+- [2027-02-17] MEMORY.md: `- [Proveedor Barroso](proveedor-barroso.md) — jornada de oficial 190 €, mínimo 450 € de desplazamiento en obra pequeña`
+- [2027-03-04] proveedor-gonzalo-rueda (description): `Gonzalo Rueda, proveedor/instalador — tarifa 33 €/h y 2 años de garantía en lo que instala`
+- [2027-03-04] proveedor-gonzalo-rueda (how to apply): `al comparar presupuestos, tener en cuenta tarifa horaria y garantía (2 años). Se desconoce su oficio y condiciones de pago; preguntar si hace falta.`
+- [2027-03-04] proyecto-larios-marta-quintero (description): `... fase de instalaciones desde 03-02-2027 (Pimentel y Rueda), entrega 14-05-2027`
+- [2027-03-04] MEMORY.md (Rueda): `- [Proveedor Gonzalo Rueda](proveedor-gonzalo-rueda.md) — 33 €/h, 2 años de garantía en lo que instala`
+- [2027-03-04] proveedor-pimentel: `- Tarifa: 36 € la hora.`
+- [2027-03-04] MEMORY.md (Pimentel): `- [Proveedor Pimentel](proveedor-pimentel.md) — 36 €/h, baño Larios 2.350 € sin material, pago a 30 días, solo trabaja lunes a jueves`
+- [2027-03-04] proveedor-barroso (description): `... pide cobrar por certificación quincenal y anda justo de liquidez`
+- [2027-03-04] proveedor-barroso: `- Forma de pago (2027-02-17): Fermín pide cobrar por certificación quincenal. El dueño cree que anda justo de liquidez, así que ojo con los anticipos (tenerlo en cuenta al pactar pagos).` (el dueño pidió quitar lo de la liquidez)
+- [2027-03-04] MEMORY.md (Barroso): `... pide cobrar por certificación quincenal, anda justo de liquidez (ojo con anticipos)`
+- [2027-03-04] MEMORY.md (Larios): `... fase de instalaciones (Pimentel y Rueda entran semana del 03-02-2027), entrega 14-05-2027`
+- [2027-03-10] proyecto-larios-marta-quintero (description): `... fase de instalaciones desde 03-02-2027 (Pimentel; Rueda sale tras terminar el cuadro y entra Instalaciones Valdés, 04-03-2027), entrega 14-05-2027`
+- [2027-03-10] proyecto-larios-marta-quintero: `- Calendario (cambiado el 2027-01-07): inicio de obra el 18 de enero de 2027 (antes el 11) ...; entrega prevista el 14 de mayo de 2027 (antes el 30 de abril).`
+- [2027-03-10] proyecto-larios-marta-quintero: `- Estado (2027-02-03): obra en curso, pasa a la fase de instalaciones; ...` (fase actual ahora alicatados)
+- [2027-03-10] proyecto-larios-marta-quintero (how to apply): `... la obra va del 18-01-2027 al 14-05-2027.`
+- [2027-03-10] MEMORY.md (Larios): `... fase de instalaciones (Pimentel; Rueda sale tras terminar el cuadro, lo sustituye Instalaciones Valdés, 04-03-2027), entrega 14-05-2027`
+- [2027-03-10] proyecto-clinica-fisioterapia-soho-sanmartin (description): `... presupuesto enviado el 19-01-2027, a la espera de respuesta`
+- [2027-03-10] proyecto-clinica-fisioterapia-soho-sanmartin: `- Estado: presupuesto enviado al doctor Sanmartín (comunicado el 2027-01-19, dentro de plazo). A la espera de su respuesta.`
+- [2027-03-10] MEMORY.md (Soho): `- [Clínica fisioterapia Soho – Dr. Sanmartín](proyecto-clinica-fisioterapia-soho-sanmartin.md) — ~95 m², presupuesto enviado el 19-01-2027, a la espera de respuesta`
+- [2027-03-17] proyecto-cafe-alameda-hernan-ortuno (description): `Café Alameda (Hernán Ortuño) — entrega de obra 24-02-2027 (retrasada desde el 12-02 por la campana), inauguración del cliente 15-03-2027`
+- [2027-03-17] proyecto-cafe-alameda-hernan-ortuno: `- Inauguración del café por el cliente: 15-03-2027 (margen de ~2,5 semanas tras la entrega).`
+- [2027-03-17] MEMORY.md (Café Alameda): `- [Proyecto Café Alameda – Hernán Ortuño](proyecto-cafe-alameda-hernan-ortuno.md) — entrega de obra 24-02-2027 (retraso de la campana); inauguración del cliente 15-03-2027`
+- [2027-03-17] feedback-resumen-presupuesto-cliente (description): `Formato de los resúmenes de presupuesto que se envían a clientes: solo capítulos, sin precios unitarios ni gremio`
+- [2027-03-17] feedback-resumen-presupuesto-cliente: `Al cliente no se le enseñan precios unitarios ni el gremio. El resumen va por capítulos, con un único importe por capítulo, y debajo base imponible, IVA y total.`
+- [2027-03-17] MEMORY.md (formato resumen): `- [Formato resumen presupuesto a cliente](feedback-resumen-presupuesto-cliente.md) — solo capítulos con un importe, luego base, IVA y total; sin unitarios ni gremio`
+- [2027-03-24] proyecto-larios-marta-quintero (description): `... 45.100 € + IVA (39.984 + vigas 1.900 + segundo baño 3.216, aprobado 10-02-2027), 30 % cobrado; obra en curso, en alicatados (10-03-2027; ...), entrega 28-05-2027 (antes 14-05)`
+- [2027-03-24] MEMORY.md (Larios): `... 45.100 € + IVA (incluye vigas +1.900 y segundo baño +3.216, aprobado 10-02-2027); 30 % cobrado; obra en curso, en alicatados (10-03-2027; Rueda sustituido por Instalaciones Valdés), entrega 28-05-2027 (antes 14-05)`
+- [2027-03-24] proyecto-clinica-fisioterapia-soho-sanmartin (description): `... presupuesto aprobado (2027-03-10): 52.400 € + 21 % IVA (63.404 € total); contrato se firma el 22-03-2027, prepararlo antes del 19-03-2027`
+- [2027-03-24] proyecto-clinica-fisioterapia-soho-sanmartin: `- Estado (2027-03-10): ... Firma del contrato el 22 de marzo de 2027; el dueño debe prepararlo antes del 19 de marzo de 2027.`
+- [2027-03-24] MEMORY.md (Soho): `... presupuesto aprobado 10-03-2027: 52.400 € + 21 % IVA; contrato se firma 22-03-2027 (preparar antes del 19-03)`
+- [2027-03-24] pendientes: `- Clínica del Soho (Dr. Sanmartín): preparar el contrato antes del 19 de marzo de 2027 (firma el 22-03-2027; 52.400 € + 21 % IVA). (anotado 2027-03-10) Ver [[proyecto-clinica-fisioterapia-soho-sanmartin]].` (hecho, borrado)
+- [2027-03-24] MEMORY.md (Gestoría): `- [Gestoría Arjona y Asociados](gestoria-arjona-y-asociados.md) — contacto Íñigo Bravo; papeles de cada trimestre antes del día 10 del mes siguiente`
+- [2027-03-31] proyecto-larios-marta-quintero: `- Cambio pedido por Marta (2026-12-21): sustituir la tarima del salón y el pasillo por microcemento. Aún sin valorar ni aceptado; el presupuesto de 39.984 € + IVA no incluye este cambio.`
+- [2027-03-31] pendientes: `- Larios (Marta Quintero): valorar el cambio de tarima a microcemento en salón y pasillo (necesito m² y quién lo ejecuta) y pasarle la diferencia antes del inicio de obra del 18-01-2027. (anotado 2026-12-21) Ver [[proyecto-larios-marta-quintero]].` (Marta desiste, borrado)
+- [2027-03-31] proveedor-pinturas-mirasol (description): `Proveedor Pinturas Mirasol: pintor a 24 €/h y 5 % de descuento si el trabajo supera 3.000 €`
+- [2027-03-31] proveedor-pinturas-mirasol: `- Pintor: 24 €/h.`
+- [2027-03-31] MEMORY.md (Mirasol): `- [Proveedor Pinturas Mirasol](proveedor-pinturas-mirasol.md) — pintor 24 €/h, 5 % de descuento si el trabajo pasa de 3.000 €`
+- [2027-04-07] feedback-correos-a-clientes: `Los correos a clientes van cortos: empiezan con «Hola <Nombre>,», tienen 4 líneas como máximo y se firman solo con «Laura».`
+- [2027-04-07] feedback-correos-a-clientes (description): `Estilo de los correos a clientes: muy cortos, saludo «Hola Nombre,», máximo 4 líneas, firma solo «Laura»`
+- [2027-04-07] MEMORY.md (correos): `- [Correos a clientes](feedback-correos-a-clientes.md) — cortos: «Hola Nombre,», máx. 4 líneas, firma solo «Laura»`
+- [2027-04-07] proyecto-cafe-alameda-hernan-ortuno (description): `Café Alameda (Hernán Ortuño) — obra entregada el 24-02-2027, inaugurado el 15-03-2027; solo quedan remates (17-03-2027)`
+- [2027-04-07] proyecto-cafe-alameda-hernan-ortuno: `- Obra entregada el 24-02-2027, como estaba previsto. Estado (17-03-2027): solo quedan remates.`
+- [2027-04-07] MEMORY.md (Alameda): `- [Proyecto Café Alameda – Hernán Ortuño](proyecto-cafe-alameda-hernan-ortuno.md) — obra entregada 24-02-2027, inaugurado 15-03-2027; solo quedan remates (17-03-2027)`
+- [2027-04-07] pendientes: `- Churriana (Pilar Aranda): pedir 3 presupuestos para el cambio de cubierta antes del 3 de abril de 2027. (anotado 2027-03-17) Ver [[proyecto-churriana-pilar-aranda]].` (hecho, borrado)
+- [2027-04-07] proyecto-churriana-pilar-aranda (description): `Proyecto Churriana – Pilar Aranda quiere cambiar la cubierta de la casa; hay que pedir 3 presupuestos de proveedores`
+- [2027-04-07] proyecto-churriana-pilar-aranda: `- Estado (17-03-2027): fase de petición de presupuestos. Hay que pedir 3 presupuestos (a proveedores/cubiertistas) antes del 3 de abril de 2027.`
+- [2027-04-07] proyecto-churriana-pilar-aranda: `- Proveedores contactados: ninguno aún.`
+- [2027-04-07] MEMORY.md (Churriana): `- [Proyecto Churriana – Pilar Aranda](proyecto-churriana-pilar-aranda.md) — cambio de cubierta; pedir 3 presupuestos antes del 03-04-2027`
+- [2027-04-14] proyecto-larios-marta-quintero (description): `... obra en curso, en alicatados (10-03-2027; instalaciones desde 03-02-2027, Pimentel; Rueda sale y entra Instalaciones Valdés, 04-03-2027), entrega 28-05-2027 (antes 14-05)`
+- [2027-04-14] proyecto-larios-marta-quintero: `- Estado (2027-03-10): la obra ya está en alicatados. Por el segundo baño y el cambio de electricista, la entrega pasa del 14 al 28 de mayo de 2027.`
+- [2027-04-14] MEMORY.md (Larios): `... obra en curso, en alicatados (10-03-2027; Rueda sustituido por Instalaciones Valdés), entrega 28-05-2027 (antes 14-05)`
+- [2027-04-14] proveedor-tomas-vega-ebanor (description): `Proveedor Tomás Vega (Ebanor) — montaje 31 €/h, 50 % de anticipo, 5 semanas de fabricación`
+- [2027-04-14] proveedor-tomas-vega-ebanor: `- Montaje: 31 €/hora.`
+- [2027-04-14] proveedor-tomas-vega-ebanor: `- Plazo de fabricación: 5 semanas.`
+- [2027-04-14] proveedor-tomas-vega-ebanor (how to apply): `... contar con 5 semanas de plazo antes del montaje ...`
+- [2027-04-14] MEMORY.md (Ebanor): `- [Proveedor Tomás Vega (Ebanor)](proveedor-tomas-vega-ebanor.md) — montaje 31 €/h, 50 % anticipo, 5 semanas de fabricación`
+- [2027-04-14] proyecto-lua-moda-lucia-barrionuevo (description): `Lúa Moda, tienda de Lucía Barrionuevo en calle Granada: ~60 m², local con IVA 21 %, entrega 05-04-2027`
+- [2027-04-14] proyecto-lua-moda-lucia-barrionuevo: `- Entrega de la obra: 5 de abril de 2027.`
+- [2027-04-14] MEMORY.md (Lúa Moda): `- [Proyecto Lúa Moda – Lucía Barrionuevo](proyecto-lua-moda-lucia-barrionuevo.md) — tienda calle Granada, ~60 m², local (IVA 21 %), entrega 05-04-2027`
+- [2027-04-21] proyecto-larios-marta-quintero: `- Segundo plazo (2027-03-24): ... 18.040 € + IVA. Facturado, aún sin confirmar el cobro. Queda el 30 % a la recepción.`
+- [2027-04-21] proyecto-larios-marta-quintero (description): `... 40 % facturado 24-03-2027 (18.040 € + IVA); ...`
+- [2027-04-21] MEMORY.md (Larios): `... 30 % cobrado, 40 % facturado 24-03-2027 (18.040 € + IVA); ...`
+- [2027-04-21] proyecto-el-palo-bruno-carla-zamora (description): `Proyecto El Palo – Bruno y Carla Zamora piden presupuesto para reformar su piso; hay que enviarlo antes del 09-04-2027`
+- [2027-04-21] proyecto-el-palo-bruno-carla-zamora: `- Estado (17-03-2027): petición recibida; presupuesto sin hacer. Hay que enviárselo antes del 9 de abril de 2027.`
+- [2027-04-21] proyecto-el-palo-bruno-carla-zamora (how to apply): `el pendiente está en [[pendientes]]; al avanzar, anotar alcance, importe y estado aquí.`
+- [2027-04-21] MEMORY.md (El Palo): `- [Proyecto El Palo – Bruno y Carla Zamora](proyecto-el-palo-bruno-carla-zamora.md) — reforma de piso; presupuesto a enviar antes del 09-04-2027`
+- [2027-04-21] pendientes: `- El Palo (Bruno y Carla Zamora): enviarles el presupuesto de la reforma del piso antes del 9 de abril de 2027. (anotado 2027-03-17) Ver [[proyecto-el-palo-bruno-carla-zamora]].` (los Zamora desisten, borrado)
+- [2027-05-05] proyecto-larios-marta-quintero: `- Estado (2027-04-14): la obra pasa a carpintería y pintura (antes alicatados, 2027-03-10). Ebanor (Tomás Vega) entra con las puertas y Pinturas Mirasol con la pintura.` (ahora en remates y pintura final)
+- [2027-05-12] proveedor-pimentel: `- Plazo de pago: 30 días (desde la factura; confirmar si no es así).`
+- [2027-05-12] proveedor-pimentel (how to apply): `... planificar pagos (30 días).`
+- [2027-05-12] proveedor-pinturas-mirasol (description): `... y 5 % de descuento si el trabajo supera 3.000 €`
+- [2027-05-12] proveedor-pinturas-mirasol: `- Descuento del 5 % si el trabajo pasa de 3.000 €.`
+- [2027-05-12] proveedor-pinturas-mirasol (how to apply): `... aplicar el 5 % si el trabajo supera 3.000 €.`
+- [2027-05-12] MEMORY.md (Mirasol): `... 5 % de descuento si el trabajo pasa de 3.000 €`
+- [2027-05-12] MEMORY.md (Pimentel): `- [Proveedor Pimentel](proveedor-pimentel.md) — 38 €/h desde 01-03-2027 (antes 36), baño Larios 2.350 € sin material, pago a 30 días, solo trabaja lunes a jueves`
+- [2027-05-19] pendientes: `- Vacaciones del 14 al 20 de junio de 2027 (sin móvil): avisar a los gremios (Pimentel, Valdés, Barroso, Mirasol, Ebanor, Escombros Guadalhorce; Rueda si sigue). Mensaje redactado, falta enviarlo. (anotado 2027-05-05)` (borrada: al final no se va de vacaciones)
+- [2027-05-19] proyecto-clinica-fisioterapia-soho-sanmartin (description): `... la obra empieza el 12-04-2027`
+- [2027-05-19] MEMORY.md (Soho): `... contrato firmado 22-03-2027; obra empieza 12-04-2027`
+- [2027-05-26] proyecto-larios-marta-quintero (description): `... obra en curso, en remates y pintura final (05-05-2027: faltan mampara del segundo baño y retoque de cocina; antes, 14-04-2027: Ebanor puertas, Mirasol pintura; ...), entrega 28-05-2027 (antes 14-05)`
+- [2027-05-26] proyecto-larios-marta-quintero (estado): `- Estado (2027-05-05): la obra entra en remates y pintura final; solo faltan la mampara del segundo baño y retocar la cocina. ...`
+- [2027-05-26] proyecto-larios-marta-quintero (how to apply): `... la obra va del 18-01-2027 al 28-05-2027.`
+- [2027-05-26] MEMORY.md (Larios): `- [Proyecto Larios – Marta Quintero](...) — ... obra en curso, en remates y pintura final (05-05-2027: ...), entrega 28-05-2027 (antes 14-05)`
+- [2027-05-26] proyecto-larios-marta-quintero (description): `... queda el 30 % final a la recepción (13.530 € + IVA); ...`
+- [2027-05-26] proyecto-larios-marta-quintero (estado): `... Con la recepción vence el último 30 %: sobre 45.100 € son 13.530 € + IVA (no consta si ya está facturado ni cobrado). ...`
+- [2027-05-26] MEMORY.md (Larios): `... queda el 30 % final (13.530 € + IVA); ...`

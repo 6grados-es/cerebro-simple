@@ -1,0 +1,11 @@
+- `fichas/yo.md`: Laura Mena, la dueña del cerebro: quién es y cómo le gusta trabajar en general.
+- `fichas/manual-de-obra.md`: Manual de obra de Laura Mena (cómo se ejecuta, controla y cobra una reforma), en `docs/manual-de-obra.md`.
+- `fichas/anselmo-pimentel.md`: Anselmo Pimentel, fontanero con el que se cuenta en Teatinos y que trabaja en Café Alameda y Larios; solo trabaja de lunes a jueves.
+- `fichas/gonzalo-rueda.md`: Gonzalo Rueda, gremio de electricidad en Café Alameda, Larios y Teatinos.
+- `fichas/teatinos.md`: Obra de Teatinos: gremios y estado; documentos en `docs/obras/teatinos/`.
+- `fichas/tarifas-gremios.md`: Tarifas por partida de los gremios para 2027, en `docs/tarifas-gremios-2027.csv`.
+- `fichas/cafe-alameda.md`: Obra de reforma del local de hostelería Café Alameda; documentos en `docs/obras/cafe-alameda/`.
+- `fichas/larios.md`: Obra de reforma integral del piso de Marta Quintero Ruiz en calle Larios (5.º A); documentos en `docs/obras/larios/`.
+- `fichas/facturas-emitidas.md`: Registro de facturas emitidas en 2026, en `docs/facturas-emitidas-2026.csv`.
+- `fichas/gestoria.md`: Gestoría Arjona y Asociados (Íñigo Bravo), a la que se pasan los papeles de cada trimestre.
+- `fichas/pedregalejo.md`: Obra de Pedregalejo, de la clienta Isabel Fuentes.

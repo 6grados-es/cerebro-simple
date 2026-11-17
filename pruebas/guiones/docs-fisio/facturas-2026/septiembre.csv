@@ -1,0 +1,7 @@
+numero;fecha;paciente;concepto;importe;estado
+F-0901;02/09/2026;P. Gómez;Sesión;45,00;cobrada
+F-0902;04/09/2026;L. Ortiz;Bono 5 sesiones;200,00;cobrada
+F-0903;09/09/2026;M. Santos;Sesión;45,00;anulada
+F-0904;15/09/2026;R. Vidal;Sesión;45,00;cobrada
+F-0905;22/09/2026;P. Gómez;Sesión;45,00;pendiente
+F-0906;29/09/2026;A. Rey;Bono 5 sesiones;200,00;cobrada

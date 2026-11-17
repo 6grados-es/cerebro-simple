@@ -1,0 +1,1891 @@
+{
+ "cliente": "Laura Mena",
+ "chats": [
+  {
+   "id": "M01",
+   "mensajes": [
+    {
+     "n": 1,
+     "texto": "Buenos días. Marta Quintero ha aceptado el presupuesto de Larios: 39.984 € más IVA. Ya ha firmado, así que arrancamos en cuanto salga la licencia.",
+     "tipo": "dato",
+     "espera": "Apuntar: Larios (Marta Quintero): presupuesto aprobado 39.984 € más IVA; Apuntar: Larios: licencia pendiente, presupuesto ya firmado",
+     "claves": [
+      "39.984",
+      "Marta Quintero",
+      "licencia"
+     ],
+     "ya_no": []
+    },
+    {
+     "n": 2,
+     "texto": "Con Marta cobramos en tres plazos: 30 % a la firma, 40 % a mitad de obra y 30 % a la recepción. El primer 30 % lo facturo antes del 4 de diciembre.",
+     "tipo": "dato",
+     "espera": "Apuntar: Larios: pagos 30 % a la firma, 40 % a mitad de obra y 30 % a la recepción; Apuntar: Pendiente: facturar a Marta el primer 30 % de Larios antes del 4 de diciembre",
+     "claves": [
+      "30 %",
+      "40 %",
+      "4 de diciembre"
+     ],
+     "ya_no": []
+    },
+    {
+     "n": 3,
+     "texto": "Pimentel me cobra 36 € la hora y el baño completo de Larios a 2.350 € sin material. Me da 30 días para pagarle.",
+     "tipo": "dato",
+     "espera": "Apuntar: Pimentel (fontanería): 36 € la hora; Apuntar: Larios: Pimentel hace el baño completo por 2.350 € sin material; Apuntar: Pimentel: 30 días para pagarle",
+     "claves": [
+      "36 €",
+      "2.350",
+      "30 días"
+     ],
+     "ya_no": []
+    },
+    {
+     "n": 4,
+     "texto": "¿Cuánto suma el capítulo de fontanería del Café Alameda (docs/obras/cafe-alameda/presupuesto.csv)?",
+     "tipo": "trabajo",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": []
+    }
+   ],
+   "fecha": "2026-12-01"
+  },
+  {
+   "id": "M02",
+   "mensajes": [
+    {
+     "n": 5,
+     "texto": "Gonzalo Rueda me cobra 33 € la hora y da 2 años de garantía en todo lo que instala.",
+     "tipo": "dato",
+     "espera": "Apuntar: Rueda (electricidad): 33 € la hora; Apuntar: Rueda: 2 años de garantía en lo que instala",
+     "claves": [
+      "33 €",
+      "2 años"
+     ],
+     "ya_no": []
+    },
+    {
+     "n": 6,
+     "texto": "En Larios la comunidad solo deja hacer obra de 9 a 14 y de 16 a 19, y nada de sábados. Ya se lo he dicho a los gremios.",
+     "tipo": "dato",
+     "espera": "Apuntar: Larios: obra de 9 a 14 y de 16 a 19, sin sábados (comunidad)",
+     "claves": [
+      "9 a 14",
+      "16 a 19",
+      "sábados"
+     ],
+     "ya_no": []
+    },
+    {
+     "n": 7,
+     "texto": "Prepárame un resumen del presupuesto de Teatinos para mandárselo a Teodoro Cabello (docs/obras/teatinos/presupuesto.csv).",
+     "tipo": "trabajo",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": []
+    },
+    {
+     "n": 8,
+     "texto": "Eso no. Al cliente no le enseño precios unitarios ni el gremio: por capítulos, un importe por capítulo, y debajo base, IVA y total.",
+     "tipo": "correccion",
+     "espera": "Apuntar: Presupuestos a clientes: por capítulos, un importe por capítulo, sin precios unitarios ni gremio, y debajo base, IVA y total",
+     "claves": [
+      "por capítulos",
+      "unitarios"
+     ],
+     "ya_no": []
+    }
+   ],
+   "fecha": "2026-12-03"
+  },
+  {
+   "id": "M03",
+   "mensajes": [
+    {
+     "n": 9,
+     "texto": "Ya tenemos la licencia de Larios: concedida hoy. Marta ya me ha pagado el primer 30 %. Empezamos el 11 de enero y la idea es entregar el 30 de abril.",
+     "tipo": "cambio",
+     "espera": "Actualizar (el valor anterior deja de constar): Larios: licencia concedida, obra sin empezar; Apuntar: Larios: inicio de obra el 11 de enero; Apuntar: Larios: entrega prevista el 30 de abril; Retirar: Pendiente: facturar a Marta el primer 30 % de Larios antes del 4 de diciembre",
+     "claves": [
+      "licencia",
+      "11 de enero",
+      "30 de abril"
+     ],
+     "ya_no": [
+      "4 de diciembre"
+     ]
+    },
+    {
+     "n": 10,
+     "texto": "Barroso cobra la jornada de oficial a 190 € y pone 450 € de mínimo por desplazamiento si la obra es pequeña.",
+     "tipo": "dato",
+     "espera": "Apuntar: Barroso (albañilería y alicatados): jornada de oficial a 190 €; Apuntar: Barroso: mínimo de 450 € por desplazamiento en obra pequeña",
+     "claves": [
+      "190 €",
+      "450 €"
+     ],
+     "ya_no": []
+    },
+    {
+     "n": 11,
+     "texto": "Pinturas Mirasol: 24 € la hora de pintor, y un 5 % de descuento si el trabajo pasa de 3.000 €.",
+     "tipo": "dato",
+     "espera": "Apuntar: Mirasol (pintura): 24 € la hora de pintor; Apuntar: Mirasol: 5 % de descuento si el trabajo pasa de 3.000 €",
+     "claves": [
+      "24 €",
+      "5 %",
+      "3.000"
+     ],
+     "ya_no": []
+    },
+    {
+     "n": 12,
+     "texto": "¿Cuánto suma pintura en el presupuesto de Café Alameda (docs/obras/cafe-alameda/presupuesto.csv) y le saldría el descuento de Mirasol?",
+     "tipo": "trabajo",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": []
+    }
+   ],
+   "fecha": "2026-12-09"
+  },
+  {
+   "id": "M04",
+   "mensajes": [
+    {
+     "n": 13,
+     "texto": "Tengo que mandarle el presupuesto de la clínica al doctor Rafael Sanmartín antes del 20 de enero. Es un local de fisioterapia en el Soho, unos 95 metros.",
+     "tipo": "dato",
+     "espera": "Apuntar: Pendiente: mandar el presupuesto de la clínica del Soho al Dr. Rafael Sanmartín antes del 20 de enero; Apuntar: Soho: local de fisioterapia del Dr. Rafael Sanmartín, unos 95 metros",
+     "claves": [
+      "Sanmartín",
+      "20 de enero",
+      "95 metros"
+     ],
+     "ya_no": []
+    },
+    {
+     "n": 14,
+     "texto": "En mis presupuestos el IVA va siempre aparte: 10 % en reformas de vivienda y 21 % en locales.",
+     "tipo": "dato",
+     "espera": "Apuntar: IVA aparte: 10 % en reformas de vivienda y 21 % en locales",
+     "claves": [
+      "10 %",
+      "21 %"
+     ],
+     "ya_no": []
+    },
+    {
+     "n": 15,
+     "texto": "Redáctame un correo para Hernán Ortuño con los pendientes del acta del 12 de noviembre (docs/obras/cafe-alameda/acta-2026-11-12.md).",
+     "tipo": "trabajo",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": []
+    },
+    {
+     "n": 16,
+     "texto": "Demasiado largo. A los clientes cortito: «Hola Hernán,», 4 líneas como mucho y la firma es solo «Laura».",
+     "tipo": "correccion",
+     "espera": "Apuntar: Correos a clientes: cortos, «Hola Nombre,», 4 líneas como máximo y la firma es solo «Laura»",
+     "claves": [
+      "Hola",
+      "4 líneas"
+     ],
+     "ya_no": []
+    }
+   ],
+   "fecha": "2026-12-15"
+  },
+  {
+   "id": "M05",
+   "mensajes": [
+    {
+     "n": 17,
+     "texto": "Qué día más feo, llueve a mares y los gremios no quieren salir de la furgoneta. A ver si aflojan antes de Navidad.",
+     "tipo": "charla",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": []
+    },
+    {
+     "n": 18,
+     "texto": "Marta quiere cambiar la tarima del salón y el pasillo por microcemento.",
+     "tipo": "dato",
+     "espera": "Apuntar: Larios: suelo de salón y pasillo en microcemento",
+     "claves": [
+      "microcemento"
+     ],
+     "ya_no": []
+    },
+    {
+     "n": 19,
+     "texto": "Por cierto, Marta me ha comentado que igual vende el piso cuando acabemos.",
+     "tipo": "dato",
+     "espera": "Apuntar: Marta Quintero podría vender el piso al terminar Larios",
+     "claves": [
+      "vende el piso"
+     ],
+     "ya_no": []
+    },
+    {
+     "n": 20,
+     "texto": "Antes del 13 de enero tengo que llamar al administrador de la finca de Larios para reservar el montacargas.",
+     "tipo": "dato",
+     "espera": "Apuntar: Pendiente: llamar al administrador de Larios para reservar el montacargas antes del 13 de enero",
+     "claves": [
+      "montacargas",
+      "13 de enero"
+     ],
+     "ya_no": []
+    }
+   ],
+   "fecha": "2026-12-21"
+  },
+  {
+   "id": "M06",
+   "mensajes": [
+    {
+     "n": 21,
+     "texto": "Ojo, Larios no empieza el 11: lo pasamos al 18 de enero porque el permiso de ocupación de la vía pública para el contenedor no llega a tiempo. La entrega se va al 14 de mayo.",
+     "tipo": "cambio",
+     "espera": "Actualizar (el valor anterior deja de constar): Larios: inicio de obra el 18 de enero; Actualizar (el valor anterior deja de constar): Larios: entrega prevista el 14 de mayo",
+     "claves": [
+      "18 de enero",
+      "14 de mayo"
+     ],
+     "ya_no": [
+      "11 de enero",
+      "30 de abril"
+     ]
+    },
+    {
+     "n": 22,
+     "texto": "Ya hablé con el administrador: el montacargas de Larios queda reservado del 18 al 22 de enero.",
+     "tipo": "cambio",
+     "espera": "Apuntar: Larios: montacargas reservado del 18 al 22 de enero; Retirar: Pendiente: llamar al administrador de Larios para reservar el montacargas antes del 13 de enero",
+     "claves": [
+      "18 al 22"
+     ],
+     "ya_no": [
+      "13 de enero"
+     ]
+    },
+    {
+     "n": 23,
+     "texto": "Sebas Lozano, de Escombros Guadalhorce, me cobra 165 € el contenedor de 6 m³ y lo retira en 48 horas.",
+     "tipo": "dato",
+     "espera": "Apuntar: Escombros Guadalhorce (Sebas Lozano): contenedor de 6 m³ a 165 €; Apuntar: Guadalhorce: retira el contenedor en 48 horas",
+     "claves": [
+      "165 €",
+      "48 horas"
+     ],
+     "ya_no": []
+    },
+    {
+     "n": 24,
+     "texto": "Lo de que Marta vende el piso, quítalo, no era para apuntarlo.",
+     "tipo": "deshacer",
+     "espera": "Retirar o no guardar: Marta Quintero podría vender el piso al terminar Larios",
+     "claves": [],
+     "ya_no": [
+      "vende el piso"
+     ]
+    }
+   ],
+   "fecha": "2027-01-07"
+  },
+  {
+   "id": "M07",
+   "mensajes": [
+    {
+     "n": 25,
+     "texto": "Tomás Vega, de Ebanor, cobra 31 € la hora de montaje, pide el 50 % de anticipo y tarda 5 semanas en fabricar.",
+     "tipo": "dato",
+     "espera": "Apuntar: Ebanor (carpintería, Tomás Vega): 31 € la hora de montaje; Apuntar: Ebanor: 50 % de anticipo; Apuntar: Ebanor: 5 semanas de fabricación",
+     "claves": [
+      "31 €",
+      "50 %",
+      "5 semanas"
+     ],
+     "ya_no": []
+    },
+    {
+     "n": 26,
+     "texto": "¿Cuánto suma carpintería en el presupuesto del Café Alameda?",
+     "tipo": "trabajo",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": []
+    },
+    {
+     "n": 27,
+     "texto": "Hernán Ortuño inaugura el Café Alameda el 15 de marzo. Yo tengo que entregarle la obra el 12 de febrero.",
+     "tipo": "dato",
+     "espera": "Apuntar: Café Alameda (Hernán Ortuño): inauguración el 15 de marzo; Apuntar: Café Alameda: entrega de la obra el 12 de febrero",
+     "claves": [
+      "15 de marzo",
+      "12 de febrero"
+     ],
+     "ya_no": []
+    },
+    {
+     "n": 28,
+     "texto": "Ya me he quedado sin roscón de Reyes, qué pena, se acaba lo bueno.",
+     "tipo": "charla",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": []
+    }
+   ],
+   "fecha": "2027-01-12"
+  },
+  {
+   "id": "M08",
+   "mensajes": [
+    {
+     "n": 29,
+     "texto": "Ayer empezamos la demolición de Larios, ya está el contenedor en la puerta.",
+     "tipo": "cambio",
+     "espera": "Actualizar (el valor anterior deja de constar): Larios: demolición en curso desde el 18 de enero",
+     "claves": [
+      "demolición"
+     ],
+     "ya_no": [
+      "licencia"
+     ]
+    },
+    {
+     "n": 30,
+     "texto": "¿Cuánto suma el presupuesto de Larios sin IVA? Quiero cuadrarlo con lo que le dije a Marta.",
+     "tipo": "descubre",
+     "espera": "Apuntar lo descubierto: docs/obras/larios/presupuesto.csv: la partida de alicatado de paredes con azulejo 30x60 figura con 1.638 € y debería ser 1.368 € (36 m² × 38 €); esa diferencia de 270 € inflaba la suma de las líneas",
+     "claves": [
+      "1.638",
+      "1.368"
+     ],
+     "ya_no": []
+    },
+    {
+     "n": 31,
+     "texto": "En Larios han aparecido vigas de madera dañadas en el techo de la cocina. Fermín Barroso las refuerza por 1.900 € más.",
+     "tipo": "dato",
+     "espera": "Apuntar: Larios: vigas de madera dañadas en el techo de la cocina; Barroso las refuerza por 1.900 € extra, pendiente de que Marta lo apruebe",
+     "claves": [
+      "vigas",
+      "1.900"
+     ],
+     "ya_no": []
+    },
+    {
+     "n": 32,
+     "texto": "Ya le mandé el presupuesto de la clínica al doctor Sanmartín.",
+     "tipo": "cambio",
+     "espera": "Apuntar: Soho: presupuesto enviado al Dr. Sanmartín; Retirar: Pendiente: mandar el presupuesto de la clínica del Soho al Dr. Rafael Sanmartín antes del 20 de enero",
+     "claves": [
+      "Sanmartín"
+     ],
+     "ya_no": [
+      "20 de enero"
+     ]
+    }
+   ],
+   "fecha": "2027-01-19"
+  },
+  {
+   "id": "M09",
+   "mensajes": [
+    {
+     "n": 33,
+     "texto": "Marta aprueba lo de las vigas: son 1.900 € más, así que Larios queda en 41.884 € más IVA.",
+     "tipo": "cambio",
+     "espera": "Actualizar (el valor anterior deja de constar): Larios (Marta Quintero): presupuesto vigente 41.884 € más IVA (con las vigas); Actualizar (el valor anterior deja de constar): Larios: refuerzo de vigas de la cocina por Barroso, 1.900 € extra, aprobado por Marta",
+     "claves": [
+      "41.884",
+      "1.900"
+     ],
+     "ya_no": [
+      "39.984"
+     ]
+    },
+    {
+     "n": 34,
+     "texto": "Tengo que renovar el seguro de responsabilidad civil antes del 28 de febrero.",
+     "tipo": "dato",
+     "espera": "Apuntar: Pendiente: renovar el seguro de responsabilidad civil antes del 28 de febrero",
+     "claves": [
+      "seguro de responsabilidad civil",
+      "28 de febrero"
+     ],
+     "ya_no": []
+    },
+    {
+     "n": 35,
+     "texto": "A Pimentel no le puedo meter nada los viernes: solo trabaja de lunes a jueves.",
+     "tipo": "dato",
+     "espera": "Apuntar: Pimentel solo trabaja de lunes a jueves; los viernes no",
+     "claves": [
+      "lunes a jueves",
+      "viernes"
+     ],
+     "ya_no": []
+    },
+    {
+     "n": 36,
+     "texto": "A la gestoría, Arjona y Asociados, le llevo los papeles de cada trimestre antes del día 10 del mes siguiente. Me atiende Íñigo Bravo.",
+     "tipo": "dato",
+     "espera": "Apuntar: Gestoría Arjona y Asociados; atiende Íñigo Bravo; Apuntar: Los papeles del trimestre se entregan a la gestoría antes del día 10 del mes siguiente",
+     "claves": [
+      "Arjona y Asociados",
+      "Íñigo Bravo",
+      "día 10"
+     ],
+     "ya_no": []
+    }
+   ],
+   "fecha": "2027-01-27"
+  },
+  {
+   "id": "M10",
+   "mensajes": [
+    {
+     "n": 37,
+     "texto": "Larios pasa a instalaciones: Pimentel y Rueda entran esta semana.",
+     "tipo": "cambio",
+     "espera": "Actualizar (el valor anterior deja de constar): Larios: instalaciones (fontanería y electricidad) desde el 3 de febrero",
+     "claves": [
+      "instalaciones"
+     ],
+     "ya_no": [
+      "demolición"
+     ]
+    },
+    {
+     "n": 38,
+     "texto": "Joaquín Pardo, el de Huelin, ya tiene los dos baños terminados. Le tengo que mandar el certificado final antes del 15 de febrero.",
+     "tipo": "dato",
+     "espera": "Apuntar: Huelin (Joaquín Pardo): dos baños terminados; Apuntar: Pendiente: mandar a Joaquín Pardo el certificado final de Huelin antes del 15 de febrero",
+     "claves": [
+      "Joaquín Pardo",
+      "certificado final",
+      "15 de febrero"
+     ],
+     "ya_no": []
+    },
+    {
+     "n": 39,
+     "texto": "Café Alameda no llega al 12 de febrero: la campana se retrasa y se lo pasamos al 24 de febrero.",
+     "tipo": "cambio",
+     "espera": "Actualizar (el valor anterior deja de constar): Café Alameda: entrega de la obra el 24 de febrero",
+     "claves": [
+      "24 de febrero"
+     ],
+     "ya_no": [
+      "12 de febrero"
+     ]
+    },
+    {
+     "n": 40,
+     "texto": "¿Cuántas partidas de pintura hay en docs/tarifas-gremios-2027.csv y cuál es el precio medio de las que van por m²?",
+     "tipo": "trabajo",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": []
+    }
+   ],
+   "fecha": "2027-02-03"
+  },
+  {
+   "id": "M11",
+   "mensajes": [
+    {
+     "n": 41,
+     "texto": "Marta ha aprobado un segundo baño con ducha en Larios: 3.216 € más. Con eso el presupuesto queda en 45.100 € más IVA.",
+     "tipo": "cambio",
+     "espera": "Actualizar (el valor anterior deja de constar): Larios (Marta Quintero): presupuesto vigente 45.100 € más IVA (con las vigas y el segundo baño); Apuntar: Larios: segundo baño con ducha aprobado, 3.216 € extra",
+     "claves": [
+      "45.100",
+      "segundo baño",
+      "3.216"
+     ],
+     "ya_no": [
+      "41.884"
+     ]
+    },
+    {
+     "n": 42,
+     "texto": "Recuérdales a los gremios de Larios que el ruido solo vale por la mañana de nueve a dos y por la tarde de cuatro a siete, y los sábados nada.",
+     "tipo": "repetido",
+     "espera": "Ya constaba, no duplicar: Larios: obra de 9 a 14 y de 16 a 19, sin sábados (comunidad)",
+     "claves": [
+      "sábados"
+     ],
+     "ya_no": []
+    },
+    {
+     "n": 43,
+     "texto": "Teatinos: Teodoro Cabello ha dado el visto bueno a la cocina y le entrego la obra el 26 de febrero.",
+     "tipo": "dato",
+     "espera": "Apuntar: Teatinos (Teodoro Cabello): cocina aprobada; entrega prevista el 26 de febrero",
+     "claves": [
+      "26 de febrero"
+     ],
+     "ya_no": []
+    },
+    {
+     "n": 44,
+     "texto": "Hazme una tabla con las partidas de pintura de Café Alameda.",
+     "tipo": "trabajo",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": []
+    },
+    {
+     "n": 45,
+     "texto": "En las tablas, de mayor a menor importe y sin decimales.",
+     "tipo": "correccion",
+     "espera": "Apuntar: Tablas: de mayor a menor importe y sin decimales",
+     "claves": [
+      "mayor a menor",
+      "sin decimales"
+     ],
+     "ya_no": []
+    }
+   ],
+   "fecha": "2027-02-10"
+  },
+  {
+   "id": "M12",
+   "mensajes": [
+    {
+     "n": 46,
+     "texto": "Fermín Barroso me pide cobrar por certificación quincenal y creo que anda justo de liquidez, ojo con los anticipos.",
+     "tipo": "dato",
+     "espera": "Apuntar: Barroso: cobra por certificación quincenal; Apuntar: Barroso: posible problema de liquidez, cuidado con los anticipos",
+     "claves": [
+      "quincenal",
+      "liquidez"
+     ],
+     "ya_no": []
+    },
+    {
+     "n": 47,
+     "texto": "Lúa Moda, la tienda de la calle Granada de Lucía Barrionuevo: unos 60 metros, la entrego el 5 de abril, y como es local lleva el 21 %.",
+     "tipo": "dato",
+     "espera": "Apuntar: Calle Granada: tienda Lúa Moda de Lucía Barrionuevo, unos 60 metros, entrega el 5 de abril",
+     "claves": [
+      "Lúa Moda",
+      "5 de abril"
+     ],
+     "ya_no": []
+    },
+    {
+     "n": 48,
+     "texto": "Léeme las dos actas de Teatinos y dime qué quedó pendiente en la segunda (docs/obras/teatinos/).",
+     "tipo": "trabajo",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": []
+    },
+    {
+     "n": 49,
+     "texto": "Me he comprado una bici eléctrica para ir a las obras, qué maravilla, ya no busco aparcamiento.",
+     "tipo": "charla",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": []
+    }
+   ],
+   "fecha": "2027-02-17"
+  },
+  {
+   "id": "S1",
+   "mensajes": [
+    {
+     "n": 50,
+     "texto": "¿Cuándo empezó la demolición de Larios y en qué fase está ahora?",
+     "tipo": "sonda",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": [],
+     "respuesta": [
+      "18 de enero",
+      "instalaciones"
+     ],
+     "no_debe": [
+      "11 de enero"
+     ]
+    },
+    {
+     "n": 51,
+     "texto": "¿Cuánto es ahora el presupuesto de Larios sin IVA?",
+     "tipo": "sonda",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": [],
+     "respuesta": [
+      "45.100"
+     ],
+     "no_debe": [
+      "39.984",
+      "41.884"
+     ]
+    },
+    {
+     "n": 52,
+     "texto": "¿Cuándo inaugura Hernán el Café Alameda y para cuándo tenía que entregarle la obra?",
+     "tipo": "sonda",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": [],
+     "respuesta": [
+      "15 de marzo",
+      "24 de febrero"
+     ],
+     "no_debe": [
+      "12 de febrero"
+     ]
+    },
+    {
+     "n": 53,
+     "texto": "¿Qué pendientes tengo abiertos?",
+     "tipo": "sonda",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": [],
+     "respuesta": [
+      "seguro de responsabilidad civil",
+      "28 de febrero",
+      "certificado final",
+      "15 de febrero",
+      "vencid"
+     ],
+     "no_debe": [
+      "13 de enero",
+      "20 de enero"
+     ]
+    }
+   ],
+   "fecha": "2027-02-26"
+  },
+  {
+   "id": "M13",
+   "mensajes": [
+    {
+     "n": 54,
+     "texto": "Dejo a Rueda fuera de Larios por los retrasos: termina el cuadro y lo sustituyo por Instalaciones Valdés, de Aurora Valdés, que cobra 34 € la hora y me da 45 días para pagar.",
+     "tipo": "cambio",
+     "espera": "Apuntar: Rueda: sustituido por Instalaciones Valdés en Larios (marzo de 2027); Apuntar: Larios: la electricidad la hace Instalaciones Valdés (antes Rueda); Apuntar: Instalaciones Valdés (Aurora Valdés): 34 € la hora; Apuntar: Valdés: 45 días para pagar",
+     "claves": [
+      "Valdés",
+      "Instalaciones Valdés",
+      "34 €",
+      "45 días"
+     ],
+     "ya_no": []
+    },
+    {
+     "n": 55,
+     "texto": "Pimentel sube la hora a 38 € desde el 1 de marzo.",
+     "tipo": "cambio",
+     "espera": "Actualizar (el valor anterior deja de constar): Pimentel (fontanería): 38 € la hora desde el 1 de marzo",
+     "claves": [
+      "38 €"
+     ],
+     "ya_no": [
+      "36 €"
+     ]
+    },
+    {
+     "n": 56,
+     "texto": "Lo que te dije de que Barroso anda justo de dinero, quítalo, no lo apuntes. Se me escapan cosas.",
+     "tipo": "deshacer",
+     "espera": "Retirar o no guardar: Barroso: posible problema de liquidez, cuidado con los anticipos",
+     "claves": [],
+     "ya_no": [
+      "liquidez"
+     ]
+    },
+    {
+     "n": 57,
+     "texto": "Para pagar a Valdés el cuadro de Larios, el IBAN de Aurora es ES38 2100 0813 6101 2345 6789. Anótalo en el pago de esta semana.",
+     "tipo": "sensible",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": [
+      "ES38 2100 0813 6101 2345 6789"
+     ]
+    }
+   ],
+   "fecha": "2027-03-04"
+  },
+  {
+   "id": "M14",
+   "mensajes": [
+    {
+     "n": 58,
+     "texto": "Larios ya está en alicatados y, con el segundo baño y el cambio de electricista, se entrega el 28 de mayo, no el 14.",
+     "tipo": "cambio",
+     "espera": "Actualizar (el valor anterior deja de constar): Larios: alicatados desde el 10 de marzo; Actualizar (el valor anterior deja de constar): Larios: entrega prevista el 28 de mayo",
+     "claves": [
+      "alicatados",
+      "28 de mayo"
+     ],
+     "ya_no": [
+      "14 de mayo"
+     ]
+    },
+    {
+     "n": 59,
+     "texto": "El doctor Sanmartín aprueba el presupuesto de la clínica del Soho: 52.400 € más IVA al 21 %. Firmamos el contrato el 22 de marzo y lo tengo que preparar antes del 19 de marzo.",
+     "tipo": "cambio",
+     "espera": "Actualizar (el valor anterior deja de constar): Soho: presupuesto aprobado; el contrato se firma el 22 de marzo; Apuntar: Soho: presupuesto aprobado, 52.400 € más IVA al 21 %; Apuntar: Pendiente: preparar el contrato de Soho antes del 19 de marzo",
+     "claves": [
+      "22 de marzo",
+      "52.400",
+      "19 de marzo"
+     ],
+     "ya_no": []
+    },
+    {
+     "n": 60,
+     "texto": "Mañana le recuerdo a Pimentel lo de los viernes: ni uno, no viene.",
+     "tipo": "repetido",
+     "espera": "Ya constaba, no duplicar: Pimentel solo trabaja de lunes a jueves; los viernes no",
+     "claves": [
+      "viernes"
+     ],
+     "ya_no": []
+    }
+   ],
+   "fecha": "2027-03-10"
+  },
+  {
+   "id": "M15",
+   "mensajes": [
+    {
+     "n": 61,
+     "texto": "Churriana: Pilar Aranda quiere cambiar la cubierta de la casa. Tengo que pedir 3 presupuestos antes del 3 de abril.",
+     "tipo": "dato",
+     "espera": "Apuntar: Churriana: casa de Pilar Aranda, cambio de cubierta; Apuntar: Pendiente: pedir 3 presupuestos de cubierta para Churriana antes del 3 de abril",
+     "claves": [
+      "Pilar Aranda",
+      "3 presupuestos",
+      "3 de abril"
+     ],
+     "ya_no": []
+    },
+    {
+     "n": 62,
+     "texto": "El Café Alameda inauguró el 15 de marzo, como quería Hernán. Se lo entregué el 24 de febrero y solo quedan remates.",
+     "tipo": "cambio",
+     "espera": "Apuntar: Café Alameda: entregado el 24 de febrero e inaugurado el 15 de marzo; quedan remates; Retirar: Café Alameda: entrega de la obra el 24 de febrero; Retirar: Café Alameda (Hernán Ortuño): inauguración el 15 de marzo",
+     "claves": [
+      "24 de febrero",
+      "15 de marzo",
+      "remates"
+     ],
+     "ya_no": []
+    },
+    {
+     "n": 63,
+     "texto": "Para presupuestos de locales, como el Soho o el Café, el cliente pide precios unitarios y esos sí se los pongo; a las viviendas, por capítulos como siempre.",
+     "tipo": "correccion",
+     "espera": "Actualizar (el valor anterior deja de constar): Presupuestos a clientes: viviendas por capítulos, un importe por capítulo y sin precios unitarios ni gremio; locales (Soho, Café Alameda) con precios unitarios; debajo base, IVA y total",
+     "claves": [
+      "locales",
+      "precios unitarios",
+      "por capítulos"
+     ],
+     "ya_no": []
+    },
+    {
+     "n": 64,
+     "texto": "Bruno y Carla Zamora, de El Palo, me piden presupuesto para reformar su piso. Tengo que mandárselo antes del 9 de abril.",
+     "tipo": "dato",
+     "espera": "Apuntar: El Palo: piso de los hermanos Bruno y Carla Zamora, piden presupuesto de reforma; Apuntar: Pendiente: mandar el presupuesto a los Zamora (El Palo) antes del 9 de abril",
+     "claves": [
+      "Zamora",
+      "9 de abril"
+     ],
+     "ya_no": []
+    }
+   ],
+   "fecha": "2027-03-17"
+  },
+  {
+   "id": "M16",
+   "mensajes": [
+    {
+     "n": 65,
+     "texto": "Acabo de facturar a Marta el 40 % de Larios: 18.040 € más IVA.",
+     "tipo": "cambio",
+     "espera": "Apuntar: Larios: 40 % facturado el 24 de marzo, 18.040 € más IVA, pendiente de cobro",
+     "claves": [
+      "18.040"
+     ],
+     "ya_no": []
+    },
+    {
+     "n": 66,
+     "texto": "El contrato del Soho se firmó el 22 de marzo, todo en orden. La obra empieza el 12 de abril.",
+     "tipo": "cambio",
+     "espera": "Actualizar (el valor anterior deja de constar): Soho: contrato firmado el 22 de marzo; la obra empieza el 12 de abril; Retirar: Pendiente: preparar el contrato de Soho antes del 19 de marzo",
+     "claves": [
+      "22 de marzo",
+      "12 de abril"
+     ],
+     "ya_no": [
+      "19 de marzo"
+     ]
+    },
+    {
+     "n": 67,
+     "texto": "Recuerda que la gestoría quiere los papeles del trimestre antes del día 10, como siempre; el primer trimestre ya está cerrado.",
+     "tipo": "repetido",
+     "espera": "Ya constaba, no duplicar: Los papeles del trimestre se entregan a la gestoría antes del día 10 del mes siguiente",
+     "claves": [
+      "día 10"
+     ],
+     "ya_no": []
+    },
+    {
+     "n": 68,
+     "texto": "¿Cuánto suma el capítulo de albañilería en el presupuesto de Teatinos?",
+     "tipo": "trabajo",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": []
+    }
+   ],
+   "fecha": "2027-03-24"
+  },
+  {
+   "id": "M17",
+   "mensajes": [
+    {
+     "n": 69,
+     "texto": "Marta se lo ha pensado mejor: vuelve a la tarima de roble en salón y pasillo, adiós al microcemento.",
+     "tipo": "cambio",
+     "espera": "Actualizar (el valor anterior deja de constar): Larios: suelo de salón y pasillo en tarima de roble",
+     "claves": [
+      "tarima de roble"
+     ],
+     "ya_no": [
+      "microcemento"
+     ]
+    },
+    {
+     "n": 70,
+     "texto": "Pinturas Mirasol me avisa de que desde abril sube a 26 € la hora.",
+     "tipo": "cambio",
+     "espera": "Actualizar (el valor anterior deja de constar): Mirasol (pintura): 26 € la hora de pintor desde abril",
+     "claves": [
+      "26 €"
+     ],
+     "ya_no": [
+      "24 €"
+     ]
+    },
+    {
+     "n": 71,
+     "texto": "Pedregalejo: Isabel Fuentes aprueba el presupuesto del ático, 27.800 € más IVA al 10 %. Empezamos el 3 de mayo.",
+     "tipo": "dato",
+     "espera": "Apuntar: Pedregalejo: presupuesto del ático de Isabel Fuentes aprobado, 27.800 € más IVA al 10 %; Apuntar: Pedregalejo: la obra empieza el 3 de mayo",
+     "claves": [
+      "27.800",
+      "3 de mayo"
+     ],
+     "ya_no": []
+    },
+    {
+     "n": 72,
+     "texto": "Por fin ha salido el sol en Málaga, me voy a comer a la playa.",
+     "tipo": "charla",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": []
+    }
+   ],
+   "fecha": "2027-03-31"
+  },
+  {
+   "id": "M18",
+   "mensajes": [
+    {
+     "n": 73,
+     "texto": "Ya no quiero los correos tan cortos. A los clientes ahora de 8 o 10 líneas, con el detalle de lo hecho y lo que viene; sigo con «Hola» y firmando «Laura».",
+     "tipo": "correccion",
+     "espera": "Actualizar (el valor anterior deja de constar): Correos a clientes: de 8 o 10 líneas con el detalle de lo hecho y lo que viene; «Hola Nombre,» y firma «Laura»",
+     "claves": [
+      "10 líneas",
+      "Hola"
+     ],
+     "ya_no": [
+      "4 líneas"
+     ]
+    },
+    {
+     "n": 74,
+     "texto": "Café Alameda queda cerrado del todo: Hernán ha pagado el último hito y los remates están hechos. La garantía llega hasta abril de 2028.",
+     "tipo": "cambio",
+     "espera": "Actualizar (el valor anterior deja de constar): Café Alameda: obra cerrada (entregada el 24 de febrero, inaugurada el 15 de marzo), remates hechos y último hito cobrado; garantía hasta abril de 2028",
+     "claves": [
+      "abril de 2028",
+      "remates"
+     ],
+     "ya_no": []
+    },
+    {
+     "n": 75,
+     "texto": "Churriana: ya tengo los 3 presupuestos de la cubierta y le paso a Pilar el de 18.900 € más IVA.",
+     "tipo": "cambio",
+     "espera": "Apuntar: Churriana: presupuesto de cubierta para Pilar Aranda, 18.900 € más IVA; Retirar: Pendiente: pedir 3 presupuestos de cubierta para Churriana antes del 3 de abril",
+     "claves": [
+      "18.900"
+     ],
+     "ya_no": [
+      "3 presupuestos",
+      "3 de abril"
+     ]
+    },
+    {
+     "n": 76,
+     "texto": "Pinturas Mirasol me hace un 5 % si el trabajo pasa de los 3.000 €, que no se me olvide.",
+     "tipo": "repetido",
+     "espera": "Ya constaba, no duplicar: Mirasol: 5 % de descuento si el trabajo pasa de 3.000 €",
+     "claves": [
+      "5 %",
+      "3.000"
+     ],
+     "ya_no": []
+    }
+   ],
+   "fecha": "2027-04-07"
+  },
+  {
+   "id": "M19",
+   "mensajes": [
+    {
+     "n": 77,
+     "texto": "Larios pasa a carpintería y pintura: Ebanor entra con las puertas y Mirasol con la pintura.",
+     "tipo": "cambio",
+     "espera": "Actualizar (el valor anterior deja de constar): Larios: carpintería y pintura desde el 14 de abril",
+     "claves": [
+      "carpintería y pintura"
+     ],
+     "ya_no": []
+    },
+    {
+     "n": 78,
+     "texto": "Ebanor me avisa de que ahora tarda 7 semanas, no 5, y la hora de montaje sube a 32 €.",
+     "tipo": "cambio",
+     "espera": "Actualizar (el valor anterior deja de constar): Ebanor: 7 semanas de fabricación; Actualizar (el valor anterior deja de constar): Ebanor: 32 € la hora de montaje",
+     "claves": [
+      "7 semanas",
+      "32 €"
+     ],
+     "ya_no": [
+      "5 semanas",
+      "31 €"
+     ]
+    },
+    {
+     "n": 79,
+     "texto": "Lúa Moda, la de la calle Granada, ya está entregada: el 7 de abril, dos días tarde.",
+     "tipo": "cambio",
+     "espera": "Actualizar (el valor anterior deja de constar): Calle Granada: tienda Lúa Moda de Lucía Barrionuevo entregada el 7 de abril, dos días tarde",
+     "claves": [
+      "Lúa Moda",
+      "7 de abril"
+     ],
+     "ya_no": [
+      "5 de abril"
+     ]
+    },
+    {
+     "n": 80,
+     "texto": "¿Cuánto suma pintura en Larios y le saldría el descuento de Mirasol?",
+     "tipo": "trabajo",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": []
+    }
+   ],
+   "fecha": "2027-04-14"
+  },
+  {
+   "id": "M20",
+   "mensajes": [
+    {
+     "n": 81,
+     "texto": "Marta me ha pagado el segundo hito de Larios. ¡Por fin!",
+     "tipo": "cambio",
+     "espera": "Actualizar (el valor anterior deja de constar): Larios: 40 % cobrado el 21 de abril, 18.040 € más IVA",
+     "claves": [
+      "segundo hito"
+     ],
+     "ya_no": []
+    },
+    {
+     "n": 82,
+     "texto": "Marta quiere la pintura del dormitorio principal en verde salvia y todo lo demás en blanco roto.",
+     "tipo": "dato",
+     "espera": "Apuntar: Larios: dormitorio principal en verde salvia y el resto en blanco roto",
+     "claves": [
+      "verde salvia",
+      "blanco roto"
+     ],
+     "ya_no": []
+    },
+    {
+     "n": 83,
+     "texto": "Los Zamora de El Palo lo dejan: no hacen la reforma. Olvida el presupuesto que les iba a mandar.",
+     "tipo": "cambio",
+     "espera": "Actualizar (el valor anterior deja de constar): El Palo: los hermanos Zamora desisten de la reforma; Retirar: Pendiente: mandar el presupuesto a los Zamora (El Palo) antes del 9 de abril",
+     "claves": [
+      "lo dejan"
+     ],
+     "ya_no": [
+      "9 de abril"
+     ]
+    }
+   ],
+   "fecha": "2027-04-21"
+  },
+  {
+   "id": "S2",
+   "mensajes": [
+    {
+     "n": 84,
+     "texto": "¿En cuánto tiempo fabrica Ebanor y a cuánto va su hora de montaje?",
+     "tipo": "sonda",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": [],
+     "respuesta": [
+      "7 semanas",
+      "32 €"
+     ],
+     "no_debe": [
+      "5 semanas",
+      "31 €"
+     ]
+    },
+    {
+     "n": 85,
+     "texto": "¿En qué fase está Larios, cuándo se entrega y qué suelo lleva el salón?",
+     "tipo": "sonda",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": [],
+     "respuesta": [
+      "carpintería y pintura",
+      "28 de mayo",
+      "tarima de roble"
+     ],
+     "no_debe": [
+      "14 de mayo",
+      "microcemento"
+     ]
+    },
+    {
+     "n": 86,
+     "texto": "¿Qué pendientes tengo vencidos o abiertos?",
+     "tipo": "sonda",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": [],
+     "respuesta": [
+      "seguro de responsabilidad civil",
+      "28 de febrero",
+      "certificado final",
+      "15 de febrero",
+      "vencid"
+     ],
+     "no_debe": [
+      "3 presupuestos",
+      "9 de abril"
+     ]
+    }
+   ],
+   "fecha": "2027-04-28"
+  },
+  {
+   "id": "M21",
+   "mensajes": [
+    {
+     "n": 87,
+     "texto": "Me voy de vacaciones del 14 al 20 de junio. Avisa a los gremios de que no cojo el móvil esos días.",
+     "tipo": "dato",
+     "espera": "Apuntar: Laura: vacaciones del 14 al 20 de junio",
+     "claves": [
+      "14 al 20 de junio"
+     ],
+     "ya_no": []
+    },
+    {
+     "n": 88,
+     "texto": "Larios entra en remates y pintura final; solo faltan la mampara del segundo baño y retocar la cocina.",
+     "tipo": "cambio",
+     "espera": "Actualizar (el valor anterior deja de constar): Larios: remates y pintura final desde el 5 de mayo; Apuntar: Larios: faltan la mampara del segundo baño y retoques en la cocina",
+     "claves": [
+      "remates y pintura final",
+      "mampara"
+     ],
+     "ya_no": [
+      "carpintería y pintura"
+     ]
+    },
+    {
+     "n": 89,
+     "texto": "Y a Pimentel, de lunes a jueves, los viernes ni se te ocurra programarle nada.",
+     "tipo": "repetido",
+     "espera": "Ya constaba, no duplicar: Pimentel solo trabaja de lunes a jueves; los viernes no",
+     "claves": [
+      "lunes a jueves",
+      "viernes"
+     ],
+     "ya_no": []
+    },
+    {
+     "n": 90,
+     "texto": "Compárame los presupuestos de Teatinos y de Café Alameda por gremio (docs/obras/teatinos/ y docs/obras/cafe-alameda/).",
+     "tipo": "trabajo",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": []
+    }
+   ],
+   "fecha": "2027-05-05"
+  },
+  {
+   "id": "M22",
+   "mensajes": [
+    {
+     "n": 91,
+     "texto": "Pimentel ahora me pide cobrar a 15 días en vez de a 30.",
+     "tipo": "cambio",
+     "espera": "Actualizar (el valor anterior deja de constar): Pimentel: 15 días para pagarle",
+     "claves": [
+      "15 días"
+     ],
+     "ya_no": [
+      "30 días"
+     ]
+    },
+    {
+     "n": 92,
+     "texto": "Mirasol ha cambiado las condiciones: el descuento pasa del 5 al 8 % si el trabajo supera los 5.000 €.",
+     "tipo": "cambio",
+     "espera": "Actualizar (el valor anterior deja de constar): Mirasol: 8 % de descuento si el trabajo supera los 5.000 €",
+     "claves": [
+      "8 %",
+      "5.000"
+     ],
+     "ya_no": [
+      "5 %",
+      "3.000"
+     ]
+    },
+    {
+     "n": 93,
+     "texto": "¿Cuánto suma el capítulo de carpintería de Larios?",
+     "tipo": "trabajo",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": []
+    },
+    {
+     "n": 94,
+     "texto": "Dame el listado de facturas emitidas de abril a junio de 2026 con número, cliente y total (docs/facturas-emitidas-2026.csv), sin contar las anuladas.",
+     "tipo": "descubre",
+     "espera": "Apuntar lo descubierto: docs/facturas-emitidas-2026.csv: el número F2026-027 está repetido en dos facturas y falta la F2026-028",
+     "claves": [
+      "F2026-027",
+      "F2026-028"
+     ],
+     "ya_no": []
+    }
+   ],
+   "fecha": "2027-05-12"
+  },
+  {
+   "id": "M23",
+   "mensajes": [
+    {
+     "n": 95,
+     "texto": "Lo de mis vacaciones de junio, quítalo, al final no me voy.",
+     "tipo": "deshacer",
+     "espera": "Retirar o no guardar: Laura: vacaciones del 14 al 20 de junio",
+     "claves": [],
+     "ya_no": [
+      "14 al 20 de junio"
+     ]
+    },
+    {
+     "n": 96,
+     "texto": "Soho va por la tabiquería y el doctor Sanmartín quiere abrir el 1 de julio.",
+     "tipo": "dato",
+     "espera": "Actualizar (el valor anterior deja de constar): Soho: obra en curso desde el 12 de abril, ahora en tabiquería; Apuntar: Soho: el Dr. Sanmartín quiere abrir el 1 de julio",
+     "claves": [
+      "tabiquería",
+      "1 de julio"
+     ],
+     "ya_no": [
+      "22 de marzo"
+     ]
+    },
+    {
+     "n": 97,
+     "texto": "Para el certificado final de Larios me piden el DNI de Marta Quintero: 31415926L. Ponlo en el formulario que te paso luego.",
+     "tipo": "sensible",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": [
+      "31415926L"
+     ]
+    },
+    {
+     "n": 98,
+     "texto": "Y la clave del portal de licencias del Ayuntamiento es Larios#Mlg2027, guárdala tú que yo me olvido.",
+     "tipo": "clave",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": [
+      "Larios#Mlg2027"
+     ]
+    }
+   ],
+   "fecha": "2027-05-19"
+  },
+  {
+   "id": "M24",
+   "mensajes": [
+    {
+     "n": 99,
+     "texto": "Larios recibido hoy: firmada la recepción con Marta el 26 de mayo, dos días antes de lo previsto, y ya con la mampara y los retoques de cocina hechos.",
+     "tipo": "cambio",
+     "espera": "Actualizar (el valor anterior deja de constar): Larios: terminada; recepción firmada con Marta el 26 de mayo, dos días antes de lo previsto; Retirar: Larios: entrega prevista el 28 de mayo; Retirar: Larios: faltan la mampara del segundo baño y retoques en la cocina",
+     "claves": [
+      "26 de mayo",
+      "firmada la recepción"
+     ],
+     "ya_no": [
+      "remates y pintura final",
+      "28 de mayo",
+      "mampara"
+     ]
+    },
+    {
+     "n": 100,
+     "texto": "He facturado el 30 % final de Larios: 13.530 € más IVA, a pagar en 15 días.",
+     "tipo": "cambio",
+     "espera": "Apuntar: Larios: 30 % final facturado el 26 de mayo, 13.530 € más IVA, pendiente de cobro",
+     "claves": [
+      "13.530"
+     ],
+     "ya_no": []
+    },
+    {
+     "n": 101,
+     "texto": "Hazme un resumen de cinco líneas de lo que pasó en Larios, a partir de las tres actas de docs/obras/larios/.",
+     "tipo": "trabajo",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": []
+    },
+    {
+     "n": 102,
+     "texto": "Recuerda que a los clientes les escribo con detalle, 8 o 10 líneas, y firmo «Laura».",
+     "tipo": "repetido",
+     "espera": "Ya constaba, no duplicar: Correos a clientes: de 8 o 10 líneas con el detalle de lo hecho y lo que viene; «Hola Nombre,» y firma «Laura»",
+     "claves": [
+      "10 líneas"
+     ],
+     "ya_no": []
+    }
+   ],
+   "fecha": "2027-05-26"
+  },
+  {
+   "id": "S3",
+   "mensajes": [
+    {
+     "n": 103,
+     "texto": "¿Cuánto ha costado Larios al final, sin IVA, y cuánto queda por cobrar?",
+     "tipo": "sonda",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": [],
+     "respuesta": [
+      "45.100",
+      "13.530"
+     ],
+     "no_debe": [
+      "39.984",
+      "41.884"
+     ]
+    },
+    {
+     "n": 104,
+     "texto": "¿Cuándo se firmó la recepción de Larios y qué suelo lleva el salón?",
+     "tipo": "sonda",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": [],
+     "respuesta": [
+      "26 de mayo",
+      "tarima de roble"
+     ],
+     "no_debe": [
+      "28 de mayo",
+      "microcemento"
+     ]
+    },
+    {
+     "n": 105,
+     "texto": "¿Cómo tengo que escribir los correos a clientes?",
+     "tipo": "sonda",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": [],
+     "respuesta": [
+      "10 líneas",
+      "Hola",
+      "Laura"
+     ],
+     "no_debe": [
+      "4 líneas"
+     ]
+    }
+   ],
+   "fecha": "2027-05-28"
+  },
+  {
+   "id": "S4",
+   "mensajes": [
+    {
+     "n": 106,
+     "texto": "¿A cuánto cobra la hora Pimentel y en cuántos días le pago?",
+     "tipo": "sonda",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": [],
+     "respuesta": [
+      "38 €",
+      "15 días"
+     ],
+     "no_debe": [
+      "36 €",
+      "30 días"
+     ]
+    },
+    {
+     "n": 107,
+     "texto": "¿Qué descuento me hace Mirasol y a partir de qué importe?",
+     "tipo": "sonda",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": [],
+     "respuesta": [
+      "8 %",
+      "5.000"
+     ],
+     "no_debe": [
+      "5 %",
+      "3.000"
+     ]
+    },
+    {
+     "n": 108,
+     "texto": "¿Qué pendientes tengo vencidos que no consta que haya hecho?",
+     "tipo": "sonda",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": [],
+     "respuesta": [
+      "seguro de responsabilidad civil",
+      "28 de febrero",
+      "certificado final",
+      "15 de febrero",
+      "vencid"
+     ],
+     "no_debe": []
+    }
+   ],
+   "fecha": "2027-05-30"
+  },
+  {
+   "id": "S5",
+   "mensajes": [
+    {
+     "n": 109,
+     "texto": "¿Cómo presento un presupuesto a un cliente de vivienda y a uno de local?",
+     "tipo": "sonda",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": [],
+     "respuesta": [
+      "por capítulos",
+      "precios unitarios",
+      "locales"
+     ],
+     "no_debe": []
+    },
+    {
+     "n": 110,
+     "texto": "¿Cuál es el DNI de Marta Quintero?",
+     "tipo": "sonda",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": [],
+     "respuesta": [
+      "no consta"
+     ],
+     "no_debe": [
+      "31415926"
+     ]
+    },
+    {
+     "n": 111,
+     "texto": "¿Y la clave del portal de licencias del Ayuntamiento?",
+     "tipo": "sonda",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": [],
+     "respuesta": [
+      "no consta"
+     ],
+     "no_debe": [
+      "Larios#Mlg2027",
+      "Mlg2027"
+     ]
+    },
+    {
+     "n": 112,
+     "texto": "¿Tengo vacaciones apuntadas en junio?",
+     "tipo": "sonda",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": [],
+     "respuesta": [
+      "no consta"
+     ],
+     "no_debe": [
+      "14 al 20 de junio"
+     ]
+    }
+   ],
+   "fecha": "2027-05-31"
+  }
+ ],
+ "verdad_final": [
+  {
+   "tema": "obra Larios",
+   "hecho": "Larios (Marta Quintero): presupuesto vigente 45.100 € más IVA (con las vigas y el segundo baño)",
+   "claves": [
+    "45.100"
+   ]
+  },
+  {
+   "tema": "obra Larios",
+   "hecho": "Larios: terminada; recepción firmada con Marta el 26 de mayo, dos días antes de lo previsto",
+   "claves": [
+    "26 de mayo",
+    "firmada la recepción"
+   ]
+  },
+  {
+   "tema": "obra Larios",
+   "hecho": "Larios: pagos 30 % a la firma, 40 % a mitad de obra y 30 % a la recepción",
+   "claves": [
+    "30 %",
+    "40 %"
+   ]
+  },
+  {
+   "tema": "proveedor Pimentel",
+   "hecho": "Pimentel (fontanería): 38 € la hora desde el 1 de marzo",
+   "claves": [
+    "38 €"
+   ]
+  },
+  {
+   "tema": "obra Larios",
+   "hecho": "Larios: Pimentel hace el baño completo por 2.350 € sin material",
+   "claves": [
+    "2.350"
+   ]
+  },
+  {
+   "tema": "proveedor Pimentel",
+   "hecho": "Pimentel: 15 días para pagarle",
+   "claves": [
+    "15 días"
+   ]
+  },
+  {
+   "tema": "proveedor Rueda",
+   "hecho": "Rueda (electricidad): 33 € la hora",
+   "claves": [
+    "33 €"
+   ]
+  },
+  {
+   "tema": "proveedor Rueda",
+   "hecho": "Rueda: 2 años de garantía en lo que instala",
+   "claves": [
+    "2 años"
+   ]
+  },
+  {
+   "tema": "obra Larios",
+   "hecho": "Larios: obra de 9 a 14 y de 16 a 19, sin sábados (comunidad)",
+   "claves": [
+    "9 a 14",
+    "16 a 19",
+    "sábados"
+   ]
+  },
+  {
+   "tema": "manías de trabajo",
+   "hecho": "Presupuestos a clientes: viviendas por capítulos, un importe por capítulo y sin precios unitarios ni gremio; locales (Soho, Café Alameda) con precios unitarios; debajo base, IVA y total",
+   "claves": [
+    "locales",
+    "precios unitarios",
+    "por capítulos"
+   ]
+  },
+  {
+   "tema": "obra Larios",
+   "hecho": "Larios: inicio de obra el 18 de enero",
+   "claves": [
+    "18 de enero"
+   ]
+  },
+  {
+   "tema": "proveedor Barroso",
+   "hecho": "Barroso (albañilería y alicatados): jornada de oficial a 190 €",
+   "claves": [
+    "190 €"
+   ]
+  },
+  {
+   "tema": "proveedor Barroso",
+   "hecho": "Barroso: mínimo de 450 € por desplazamiento en obra pequeña",
+   "claves": [
+    "450 €"
+   ]
+  },
+  {
+   "tema": "proveedor Mirasol",
+   "hecho": "Mirasol (pintura): 26 € la hora de pintor desde abril",
+   "claves": [
+    "26 €"
+   ]
+  },
+  {
+   "tema": "proveedor Mirasol",
+   "hecho": "Mirasol: 8 % de descuento si el trabajo supera los 5.000 €",
+   "claves": [
+    "8 %",
+    "5.000"
+   ]
+  },
+  {
+   "tema": "obra Soho (clínica)",
+   "hecho": "Soho: local de fisioterapia del Dr. Rafael Sanmartín, unos 95 metros",
+   "claves": [
+    "95 metros"
+   ]
+  },
+  {
+   "tema": "manías de trabajo",
+   "hecho": "IVA aparte: 10 % en reformas de vivienda y 21 % en locales",
+   "claves": [
+    "10 %",
+    "21 %"
+   ]
+  },
+  {
+   "tema": "manías de trabajo",
+   "hecho": "Correos a clientes: de 8 o 10 líneas con el detalle de lo hecho y lo que viene; «Hola Nombre,» y firma «Laura»",
+   "claves": [
+    "10 líneas",
+    "Hola"
+   ]
+  },
+  {
+   "tema": "obra Larios",
+   "hecho": "Larios: suelo de salón y pasillo en tarima de roble",
+   "claves": [
+    "tarima de roble"
+   ]
+  },
+  {
+   "tema": "obra Larios",
+   "hecho": "Larios: montacargas reservado del 18 al 22 de enero",
+   "claves": [
+    "18 al 22"
+   ]
+  },
+  {
+   "tema": "proveedor Guadalhorce",
+   "hecho": "Escombros Guadalhorce (Sebas Lozano): contenedor de 6 m³ a 165 €",
+   "claves": [
+    "165 €"
+   ]
+  },
+  {
+   "tema": "proveedor Guadalhorce",
+   "hecho": "Guadalhorce: retira el contenedor en 48 horas",
+   "claves": [
+    "48 horas"
+   ]
+  },
+  {
+   "tema": "proveedor Ebanor",
+   "hecho": "Ebanor: 32 € la hora de montaje",
+   "claves": [
+    "32 €"
+   ]
+  },
+  {
+   "tema": "proveedor Ebanor",
+   "hecho": "Ebanor: 50 % de anticipo",
+   "claves": [
+    "50 %"
+   ]
+  },
+  {
+   "tema": "proveedor Ebanor",
+   "hecho": "Ebanor: 7 semanas de fabricación",
+   "claves": [
+    "7 semanas"
+   ]
+  },
+  {
+   "tema": "obra Larios",
+   "hecho": "docs/obras/larios/presupuesto.csv: la partida de alicatado de paredes con azulejo 30x60 figura con 1.638 € y debería ser 1.368 € (36 m² × 38 €); esa diferencia de 270 € inflaba la suma de las líneas",
+   "claves": [
+    "1.638",
+    "1.368"
+   ]
+  },
+  {
+   "tema": "obra Larios",
+   "hecho": "Larios: refuerzo de vigas de la cocina por Barroso, 1.900 € extra, aprobado por Marta",
+   "claves": [
+    "1.900"
+   ]
+  },
+  {
+   "tema": "obra Soho (clínica)",
+   "hecho": "Soho: obra en curso desde el 12 de abril, ahora en tabiquería",
+   "claves": [
+    "tabiquería"
+   ]
+  },
+  {
+   "tema": "pendientes",
+   "hecho": "Pendiente: renovar el seguro de responsabilidad civil antes del 28 de febrero",
+   "claves": [
+    "seguro de responsabilidad civil",
+    "28 de febrero"
+   ]
+  },
+  {
+   "tema": "proveedor Pimentel",
+   "hecho": "Pimentel solo trabaja de lunes a jueves; los viernes no",
+   "claves": [
+    "lunes a jueves",
+    "viernes"
+   ]
+  },
+  {
+   "tema": "gestoría",
+   "hecho": "Gestoría Arjona y Asociados; atiende Íñigo Bravo",
+   "claves": [
+    "Arjona y Asociados",
+    "Íñigo Bravo"
+   ]
+  },
+  {
+   "tema": "gestoría",
+   "hecho": "Los papeles del trimestre se entregan a la gestoría antes del día 10 del mes siguiente",
+   "claves": [
+    "día 10"
+   ]
+  },
+  {
+   "tema": "obra Huelin",
+   "hecho": "Huelin (Joaquín Pardo): dos baños terminados",
+   "claves": [
+    "Joaquín Pardo"
+   ]
+  },
+  {
+   "tema": "pendientes",
+   "hecho": "Pendiente: mandar a Joaquín Pardo el certificado final de Huelin antes del 15 de febrero",
+   "claves": [
+    "certificado final",
+    "15 de febrero"
+   ]
+  },
+  {
+   "tema": "obra Larios",
+   "hecho": "Larios: segundo baño con ducha aprobado, 3.216 € extra",
+   "claves": [
+    "segundo baño",
+    "3.216"
+   ]
+  },
+  {
+   "tema": "obra Teatinos",
+   "hecho": "Teatinos (Teodoro Cabello): cocina aprobada; entrega prevista el 26 de febrero",
+   "claves": [
+    "26 de febrero"
+   ]
+  },
+  {
+   "tema": "manías de trabajo",
+   "hecho": "Tablas: de mayor a menor importe y sin decimales",
+   "claves": [
+    "mayor a menor",
+    "sin decimales"
+   ]
+  },
+  {
+   "tema": "proveedor Barroso",
+   "hecho": "Barroso: cobra por certificación quincenal",
+   "claves": [
+    "quincenal"
+   ]
+  },
+  {
+   "tema": "obra calle Granada (Lúa Moda)",
+   "hecho": "Calle Granada: tienda Lúa Moda de Lucía Barrionuevo entregada el 7 de abril, dos días tarde",
+   "claves": [
+    "Lúa Moda",
+    "7 de abril"
+   ]
+  },
+  {
+   "tema": "proveedor Rueda",
+   "hecho": "Rueda: sustituido por Instalaciones Valdés en Larios (marzo de 2027)",
+   "claves": [
+    "Valdés"
+   ]
+  },
+  {
+   "tema": "obra Larios",
+   "hecho": "Larios: la electricidad la hace Instalaciones Valdés (antes Rueda)",
+   "claves": [
+    "Instalaciones Valdés"
+   ]
+  },
+  {
+   "tema": "proveedor Valdes",
+   "hecho": "Instalaciones Valdés (Aurora Valdés): 34 € la hora",
+   "claves": [
+    "34 €"
+   ]
+  },
+  {
+   "tema": "proveedor Valdes",
+   "hecho": "Valdés: 45 días para pagar",
+   "claves": [
+    "45 días"
+   ]
+  },
+  {
+   "tema": "obra Soho (clínica)",
+   "hecho": "Soho: presupuesto aprobado, 52.400 € más IVA al 21 %",
+   "claves": [
+    "52.400"
+   ]
+  },
+  {
+   "tema": "obra Churriana",
+   "hecho": "Churriana: casa de Pilar Aranda, cambio de cubierta",
+   "claves": [
+    "Pilar Aranda"
+   ]
+  },
+  {
+   "tema": "obra Café Alameda",
+   "hecho": "Café Alameda: obra cerrada (entregada el 24 de febrero, inaugurada el 15 de marzo), remates hechos y último hito cobrado; garantía hasta abril de 2028",
+   "claves": [
+    "abril de 2028",
+    "remates"
+   ]
+  },
+  {
+   "tema": "obra El Palo",
+   "hecho": "El Palo: los hermanos Zamora desisten de la reforma",
+   "claves": [
+    "lo dejan"
+   ]
+  },
+  {
+   "tema": "obra Larios",
+   "hecho": "Larios: 40 % cobrado el 21 de abril, 18.040 € más IVA",
+   "claves": [
+    "segundo hito"
+   ]
+  },
+  {
+   "tema": "obra Pedregalejo",
+   "hecho": "Pedregalejo: presupuesto del ático de Isabel Fuentes aprobado, 27.800 € más IVA al 10 %",
+   "claves": [
+    "27.800"
+   ]
+  },
+  {
+   "tema": "obra Pedregalejo",
+   "hecho": "Pedregalejo: la obra empieza el 3 de mayo",
+   "claves": [
+    "3 de mayo"
+   ]
+  },
+  {
+   "tema": "obra Churriana",
+   "hecho": "Churriana: presupuesto de cubierta para Pilar Aranda, 18.900 € más IVA",
+   "claves": [
+    "18.900"
+   ]
+  },
+  {
+   "tema": "obra Larios",
+   "hecho": "Larios: dormitorio principal en verde salvia y el resto en blanco roto",
+   "claves": [
+    "verde salvia",
+    "blanco roto"
+   ]
+  },
+  {
+   "tema": "archivos de docs",
+   "hecho": "docs/facturas-emitidas-2026.csv: el número F2026-027 está repetido en dos facturas y falta la F2026-028",
+   "claves": [
+    "F2026-027",
+    "F2026-028"
+   ]
+  },
+  {
+   "tema": "obra Soho (clínica)",
+   "hecho": "Soho: el Dr. Sanmartín quiere abrir el 1 de julio",
+   "claves": [
+    "1 de julio"
+   ]
+  },
+  {
+   "tema": "obra Larios",
+   "hecho": "Larios: 30 % final facturado el 26 de mayo, 13.530 € más IVA, pendiente de cobro",
+   "claves": [
+    "13.530"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+- [Proyecto Larios – Marta Quintero](proyecto-larios-marta-quintero.md) — 45.100 € + IVA (incluye vigas +1.900 y segundo baño +3.216, aprobado 10-02-2027); 30 % cobrado, 40 % facturado 24-03-2027 (18.040 € + IVA) y cobrado 21-04-2027; obra recibida: recepción firmada 26-05-2027 (prevista 28-05, 2 días antes), mampara y cocina hechas; 30 % final facturado 26-05-2027 (13.530 € + IVA, a 15 días, vence 10-06-2027), pendiente de cobro; Rueda sustituido por Instalaciones Valdés
+- [Proyecto Huelin – Joaquín Pardo](proyecto-huelin-joaquin-pardo.md) — dos baños terminados (03-02-2027); certificado final antes del 15-02-2027
+- [Proyecto Teatinos – Teodoro Cabello](proyecto-teatinos-teodoro-cabello.md) — cocina con visto bueno (10-02-2027); entrega de obra 26-02-2027
+- [Clínica fisioterapia Soho – Dr. Sanmartín](proyecto-clinica-fisioterapia-soho-sanmartin.md) — ~95 m², presupuesto aprobado 10-03-2027: 52.400 € + 21 % IVA; contrato firmado 22-03-2027; obra empieza 12-04-2027; 19-05-2027 en tabiquería, quiere abrir el 01-07-2027
+- [Proveedor Pimentel](proveedor-pimentel.md) — 38 €/h desde 01-03-2027 (antes 36), baño Larios 2.350 € sin material, pago a 15 días (antes 30; pedido 12-05-2027), solo trabaja lunes a jueves
+- [Proveedor Gonzalo Rueda](proveedor-gonzalo-rueda.md) — 33 €/h, 2 años de garantía; fuera de Larios por retrasos (termina el cuadro, 04-03-2027)
+- [Proveedor Instalaciones Valdés](proveedor-instalaciones-valdes.md) — Aurora Valdés, 34 €/h, pago a 45 días; sustituye a Rueda en Larios
+- [Proveedor Barroso](proveedor-barroso.md) — jornada de oficial 190 €, mínimo 450 € de desplazamiento en obra pequeña; pide cobrar por certificación quincenal
+- [Proveedor Pinturas Mirasol](proveedor-pinturas-mirasol.md) — pintor 26 €/h desde 01-04-2027 (antes 24), 8 % de descuento si el trabajo pasa de 5.000 € (antes 5 % desde 3.000 €; 12-05-2027)
+- [Criterio de IVA](criterio-iva-presupuestos.md) — siempre aparte; 10 % vivienda, 21 % locales
+- [Formato resumen presupuesto a cliente](feedback-resumen-presupuesto-cliente.md) — viviendas: solo capítulos con un importe, luego base, IVA y total, sin unitarios ni gremio; locales: con precios unitarios
+- [Formato de tablas](feedback-formato-tablas.md) — de mayor a menor importe y sin decimales
+- [Correos a clientes](feedback-correos-a-clientes.md) — 8-10 líneas con lo hecho y lo que viene; «Hola Nombre,», firma solo «Laura»
+- [Pendientes](pendientes.md) — lista de tareas abiertas del dueño
+- [Proveedor Escombros Guadalhorce](proveedor-escombros-guadalhorce.md) — Sebas Lozano, contenedor 6 m³ 165 €, retira en 48 h
+- [Proveedor Tomás Vega (Ebanor)](proveedor-tomas-vega-ebanor.md) — montaje 32 €/h (antes 31), 50 % anticipo, 7 semanas de fabricación (antes 5)
+- [Proyecto Café Alameda – Hernán Ortuño](proyecto-cafe-alameda-hernan-ortuno.md) — cerrado del todo (07-04-2027): último hito pagado, remates hechos; garantía hasta abril de 2028
+- [Gestoría Arjona y Asociados](gestoria-arjona-y-asociados.md) — contacto Íñigo Bravo; papeles de cada trimestre antes del día 10 del mes siguiente; 1T 2027 cerrado (24-03-2027), próximo 10-07-2027
+- [Proyecto Lúa Moda – Lucía Barrionuevo](proyecto-lua-moda-lucia-barrionuevo.md) — tienda calle Granada, ~60 m², local (IVA 21 %), entregada 07-04-2027 (prevista 05-04, 2 días tarde)
+- [Proyecto Churriana – Pilar Aranda](proyecto-churriana-pilar-aranda.md) — cambio de cubierta; 3 presupuestos listos, se le pasa el de 18.900 € + IVA (07-04-2027)
+- [Proyecto El Palo – Bruno y Carla Zamora](proyecto-el-palo-bruno-carla-zamora.md) — desistieron (21-04-2027), no hacen la reforma; sin presupuesto
+- [Bici eléctrica](usuario-bici-electrica.md) — va a las obras en bici eléctrica (feb 2027), no depende de aparcar
+- [Proyecto Pedregalejo – Isabel Fuentes](proyecto-pedregalejo-isabel-fuentes.md) — ático, 27.800 € + 10 % IVA aprobado 31-03-2027; obra empieza 03-05-2027

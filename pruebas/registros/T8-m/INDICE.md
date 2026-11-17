@@ -1,0 +1,20 @@
+- [Yo](fichas/yo.md) — quién es el dueño y cómo le gusta trabajar en general
+- [Larios](fichas/larios.md) — reforma integral del piso de Marta Quintero en calle Larios: estado, decisiones y dónde está cada documento
+- [Pimentel](fichas/pimentel.md) — Anselmo Pimentel, fontanero: tarifa, precios de obra y plazo de pago
+- [Rueda](fichas/rueda.md) — Gonzalo Rueda, electricista: tarifa y garantía
+- [Teatinos](fichas/teatinos.md) — reforma de baño y cocina del piso de Teodoro Cabello en Teatinos: estado, decisiones y dónde está cada documento
+- [Barroso](fichas/barroso.md) — Fermín Barroso, albañil: lo que cobra y sus condiciones
+- [Mirasol](fichas/mirasol.md) — Pinturas Mirasol, pintura: lo que cobra y sus descuentos
+- [Clínica Soho](fichas/clinica-soho.md) — presupuesto de la reforma del local de fisioterapia del doctor Rafael Sanmartín en el Soho: estado y plazo
+- [Café Alameda](fichas/cafe-alameda.md) — reforma del local Café Alameda: estado, decisiones y dónde está cada documento
+- [Escombros Guadalhorce](fichas/escombros-guadalhorce.md) — Sebas Lozano, contenedores de escombros: lo que cobra y plazo de retirada
+- [Ebanor](fichas/ebanor.md) — Tomás Vega, fabricación y montaje: lo que cobra y sus condiciones
+- [Seguro](fichas/seguro.md) — seguro de responsabilidad civil del dueño: renovación y fechas
+- [Arjona](fichas/arjona.md) — Arjona y Asociados, la gestoría: contacto y plazo para llevarle los papeles del trimestre
+- [Huelin](fichas/huelin.md) — obra de Joaquín Pardo en Huelin: estado y plazo del certificado final
+- [Lúa Moda](fichas/lua-moda.md) — tienda de Lucía Barrionuevo en la calle Granada: estado, plazo y datos del local
+- [Valdés](fichas/valdes.md) — Instalaciones Valdés, Aurora Valdés: lo que cobra y plazo de pago
+- [Churriana](fichas/churriana.md) — cambio de cubierta de la casa de Pilar Aranda en Churriana: estado, plazo y dónde está cada documento
+- [Zamora](fichas/zamora.md) — presupuesto de la reforma del piso de Bruno y Carla Zamora en El Palo: estado y plazo
+- [Facturas emitidas](fichas/facturas-emitidas.md) — registro de facturas emitidas en 2026: dónde está y errores conocidos
+- [Pedregalejo](fichas/pedregalejo.md) — reforma del ático de Isabel Fuentes en Pedregalejo: estado, decisiones y dónde está cada documento

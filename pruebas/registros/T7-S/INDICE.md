@@ -1,0 +1,3 @@
+- `fichas/yo.md` — Quién es la dueña del cerebro y cómo le gusta trabajar en general.
+- `fichas/fisiosur.md` — La clínica de fisioterapia de Marta en Málaga: cómo funciona y quién trabaja.
+- `fichas/gestoria.md` — Marta cambia de gestoría para FisioSur a Gestoría Alba: decisión y condiciones.

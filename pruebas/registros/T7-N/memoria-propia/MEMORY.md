@@ -1,0 +1,5 @@
+- [Marta, FisioSur](user-marta-fisiosur.md) — autónoma physio in Málaga, receptionist Inés (mornings + Tue afternoons), Spanish-speaking
+- [Patient message style](feedback-patient-messages-style.md) — short, tuteo, no emojis
+- [FisioSur prices](project-fisiosur-prices.md) — session 45 € (50 € from Jan 2027), bono 5 sessions 200 € (220 € from Jan 2027)
+- [Gestoría Alba](project-gestoria-alba.md) — Marta's chosen gestoría, starts 2026-12-01
+- [Invoice tables](feedback-invoice-tables-no-concepto.md) — omit "concepto" column

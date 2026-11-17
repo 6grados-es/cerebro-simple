@@ -1,0 +1,269 @@
+{
+ "cliente": "Laura Mena",
+ "chats": [
+  {
+   "id": "LARGO-SONDAS",
+   "mensajes": [
+    {
+     "n": 41,
+     "texto": "Voy a organizar la fontanería de Teatinos. ¿Qué días puedo contar con Pimentel?",
+     "tipo": "sonda",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": [],
+     "respuesta": [
+      "lunes a jueves"
+     ],
+     "no_debe": [
+      "lunes a viernes"
+     ]
+    },
+    {
+     "n": 42,
+     "texto": "¿Cuándo inaugura Hernán el Café Alameda?",
+     "tipo": "sonda",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": [],
+     "respuesta": [
+      "15 de marzo"
+     ],
+     "no_debe": [
+      "1 de marzo"
+     ]
+    },
+    {
+     "n": 43,
+     "texto": "Escríbele un correo a Teodoro Cabello (Teatinos) diciéndole que el lunes empieza Pimentel con el baño y que me avise si no puede abrir.",
+     "tipo": "sonda",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": [],
+     "respuesta": [
+      "Hola Teodoro",
+      "Laura"
+     ],
+     "no_debe": [
+      "Estimado",
+      "Estimada"
+     ]
+    },
+    {
+     "n": 44,
+     "texto": "¿A quién le paso los papeles del trimestre y para cuándo?",
+     "tipo": "sonda",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": [],
+     "respuesta": [
+      "Íñigo Bravo",
+      "día 10",
+      "Arjona y Asociados"
+     ],
+     "no_debe": [
+      "Nuria Arjona"
+     ]
+    },
+    {
+     "n": 45,
+     "texto": "Hazme una tabla con las partidas de pintura de Larios: partida, cantidad e importe.",
+     "tipo": "sonda",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": [],
+     "respuesta": [
+      "10 %",
+      "Pintura plástica lisa en paredes con dos manos",
+      "1.820",
+      "4.921",
+      "492",
+      "5.413"
+     ],
+     "no_debe": [
+      ",00"
+     ]
+    },
+    {
+     "n": 46,
+     "texto": "Voy a preparar el presupuesto de Larios para Marta. ¿Algo que deba saber del archivo y de cómo lo presentamos?",
+     "tipo": "sonda",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": [],
+     "respuesta": [
+      "1.638",
+      "1.368",
+      "39.984",
+      "capítulos",
+      "unitarios"
+     ],
+     "no_debe": [
+      "40.254"
+     ]
+    },
+    {
+     "n": 47,
+     "texto": "¿Me recuerdas el IBAN de Pimentel para hacerle la transferencia?",
+     "tipo": "sonda",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": [],
+     "respuesta": [
+      "no consta"
+     ],
+     "no_debe": [
+      "ES64",
+      "0049 1500",
+      "3456 7891"
+     ]
+    },
+    {
+     "n": 48,
+     "texto": "¿Cómo va lo de Isabel Fuentes y la terraza de Pedregalejo?",
+     "tipo": "sonda",
+     "espera": "nada",
+     "claves": [],
+     "ya_no": [],
+     "respuesta": [
+      "no consta"
+     ],
+     "no_debe": [
+      "echa atrás"
+     ]
+    }
+   ]
+  }
+ ],
+ "verdad_final": [
+  {
+   "tema": "proveedor Pimentel",
+   "hecho": "Anselmo Pimentel (fontanería) solo trabaja de lunes a jueves; los viernes no va a ninguna obra",
+   "claves": [
+    "Pimentel",
+    "lunes a jueves",
+    "viernes"
+   ]
+  },
+  {
+   "tema": "obra Café Alameda",
+   "hecho": "Café Alameda (Hernán Ortuño): inauguración el 15 de marzo",
+   "claves": [
+    "15 de marzo"
+   ]
+  },
+  {
+   "tema": "manías: correos",
+   "hecho": "Correos a clientes: de tú y empezando por «Hola Nombre,»",
+   "claves": [
+    "Hola"
+   ]
+  },
+  {
+   "tema": "manías: correos",
+   "hecho": "Correos a clientes: la firma es solo «Laura»",
+   "claves": [
+    "firma"
+   ]
+  },
+  {
+   "tema": "manías: correos",
+   "hecho": "Correos a clientes: máximo 6 líneas",
+   "claves": [
+    "6 líneas"
+   ]
+  },
+  {
+   "tema": "gestoría",
+   "hecho": "La gestoría es Arjona y Asociados",
+   "claves": [
+    "Arjona y Asociados"
+   ]
+  },
+  {
+   "tema": "gestoría",
+   "hecho": "En la gestoría la lleva Íñigo Bravo",
+   "claves": [
+    "Íñigo Bravo"
+   ]
+  },
+  {
+   "tema": "gestoría",
+   "hecho": "Laura entrega a la gestoría los papeles del trimestre antes del día 10 del mes siguiente",
+   "claves": [
+    "día 10"
+   ]
+  },
+  {
+   "tema": "obra Larios",
+   "hecho": "docs/obras/larios/presupuesto.csv: la partida de alicatado de paredes con azulejo 30x60 figura con 1.638 € pero 36 m² × 38 € son 1.368 €; la suma de las líneas no cuadra con el total del archivo",
+   "claves": [
+    "1.638",
+    "1.368"
+   ]
+  },
+  {
+   "tema": "obra Larios",
+   "hecho": "Presupuesto de Larios: el total correcto sin IVA es 39.984 €, no la suma de las líneas con el error",
+   "claves": [
+    "39.984"
+   ]
+  },
+  {
+   "tema": "manías: tablas",
+   "hecho": "Tablas: ordenadas de mayor a menor importe",
+   "claves": [
+    "mayor a menor"
+   ]
+  },
+  {
+   "tema": "manías: tablas",
+   "hecho": "Tablas: importes sin decimales",
+   "claves": [
+    "sin decimales"
+   ]
+  },
+  {
+   "tema": "manías: tablas",
+   "hecho": "Tablas: el total va abajo",
+   "claves": [
+    "total abajo"
+   ]
+  },
+  {
+   "tema": "manías: IVA",
+   "hecho": "IVA aparte: 10 % en viviendas",
+   "claves": [
+    "10 %"
+   ]
+  },
+  {
+   "tema": "manías: IVA",
+   "hecho": "IVA aparte: 21 % en locales",
+   "claves": [
+    "21 %",
+    "locales"
+   ]
+  },
+  {
+   "tema": "manías: presupuestos",
+   "hecho": "Presupuestos al cliente: por capítulos, un importe por capítulo",
+   "claves": [
+    "capítulos"
+   ]
+  },
+  {
+   "tema": "manías: presupuestos",
+   "hecho": "Presupuestos al cliente: sin precios unitarios ni gremio",
+   "claves": [
+    "unitarios"
+   ]
+  },
+  {
+   "tema": "manías: presupuestos",
+   "hecho": "Presupuestos al cliente: debajo base, IVA y total",
+   "claves": [
+    "base, IVA y total"
+   ]
+  }
+ ]
+}

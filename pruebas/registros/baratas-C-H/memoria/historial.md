@@ -1,0 +1,2 @@
+- (2026-11-17) marta-fisiosur: "Octubre 2026: única factura pendiente F-1007, T. Luque, 45,00 €. Ver [[pendientes]]."
+- (2026-11-17) pendientes: "- Reclamar a T. Luque la factura F-1007 (30/10/2026, sesión, 45,00 €) si no ha pagado. Dijo el 17/11/2026 que pagaría "la semana que viene" (23-29/11/2026). Si pasa el 29/11 sin cobro, recordárselo a Marta y ofrecer redactar el mensaje de reclamación."

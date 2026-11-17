@@ -1,0 +1,48 @@
+{"n": 1, "chat": "LARGO-1", "cambios": ["INDICE.md", "fichas/manual-de-obra.md"], "pasos": 6, "s": 20.0, "entrada": 127582, "coste": 0.11607719999999999, "error": false, "intentos": 1}
+{"n": 2, "chat": "LARGO-1", "cambios": [], "pasos": 1, "s": 8.0, "entrada": 48335, "coste": 0.1308472, "error": false, "intentos": 1}
+{"n": 3, "chat": "LARGO-1", "cambios": ["INDICE.md", "fichas/anselmo-pimentel.md", "fichas/teatinos.md"], "pasos": 4, "s": 19.2, "entrada": 100052, "coste": 0.1724666, "error": false, "intentos": 1}
+{"n": 4, "chat": "LARGO-1", "cambios": ["fichas/teatinos.md"], "pasos": 3, "s": 15.2, "entrada": 163514, "coste": 0.22128540000000002, "error": false, "intentos": 1}
+{"n": 5, "chat": "LARGO-1", "cambios": ["INDICE.md", "fichas/tarifas-gremios.md"], "pasos": 4, "s": 20.9, "entrada": 195764, "coste": 0.3163316, "error": false, "intentos": 1}
+{"n": 6, "chat": "LARGO-1", "cambios": ["INDICE.md", "fichas/anselmo-pimentel.md", "fichas/cafe-alameda.md", "historial/2026-11.md"], "pasos": 7, "s": 32.5, "entrada": 219902, "coste": 0.3949271, "error": false, "intentos": 1}
+{"n": 7, "chat": "LARGO-1", "cambios": ["fichas/cafe-alameda.md"], "pasos": 2, "s": 10.2, "entrada": 154969, "coste": 0.4237163, "error": false, "intentos": 1}
+{"n": 8, "chat": "LARGO-1", "cambios": ["fichas/cafe-alameda.md"], "pasos": 3, "s": 25.2, "entrada": 243014, "coste": 0.5013753999999999, "error": false, "intentos": 1}
+{"n": 9, "chat": "LARGO-1", "cambios": [], "pasos": 1, "s": 6.1, "entrada": 84396, "coste": 0.5155673999999999, "error": false, "intentos": 1}
+{"n": 10, "chat": "LARGO-1", "cambios": ["INDICE.md", "fichas/larios.md"], "pasos": 4, "s": 29.5, "entrada": 258934, "coste": 0.5862616999999999, "error": false, "intentos": 1}
+{"n": 11, "chat": "LARGO-1", "cambios": ["INDICE.md", "fichas/yo.md"], "pasos": 3, "s": 18.3, "entrada": 181531, "coste": 0.6387200999999999, "error": false, "intentos": 1}
+{"n": 12, "chat": "LARGO-1", "cambios": [], "pasos": 1, "s": 5.3, "entrada": 92681, "coste": 0.6534376999999999, "error": false, "intentos": 1}
+{"n": 13, "chat": "LARGO-1", "cambios": ["INDICE.md", "fichas/facturas-emitidas.md"], "pasos": 4, "s": 27.5, "entrada": 297738, "coste": 0.7551248999999999, "error": false, "intentos": 1}
+{"n": 14, "chat": "LARGO-1", "cambios": [], "pasos": 1, "s": 9.7, "entrada": 104799, "coste": 0.7778843999999999, "error": false, "intentos": 1}
+{"n": 15, "chat": "LARGO-1", "cambios": ["INDICE.md", "fichas/gestoria.md", "resultados/facturas-3t-2026-gestoria.md"], "pasos": 4, "s": 40.1, "entrada": 216739, "coste": 0.8787242999999999, "error": false, "intentos": 1}
+{"n": 16, "chat": "LARGO-1", "cambios": ["fichas/tarifas-gremios.md"], "pasos": 3, "s": 24.5, "entrada": 341033, "coste": 0.9534537999999999, "error": false, "intentos": 1}
+{"n": 17, "chat": "LARGO-1", "cambios": ["INDICE.md", "fichas/anselmo-pimentel.md", "fichas/gonzalo-rueda.md", "fichas/larios.md", "historial/2026-11.md"], "pasos": 8, "s": 29.9, "entrada": 353370, "coste": 1.0490042, "error": false, "intentos": 1}
+{"n": 18, "chat": "LARGO-1", "cambios": [], "pasos": 1, "s": 6.0, "entrada": 122348, "coste": 1.0693538999999999, "error": false, "intentos": 1}
+{"n": 19, "chat": "LARGO-1", "cambios": ["fichas/larios.md"], "pasos": 5, "s": 25.2, "entrada": 631909, "coste": 1.1764660999999998, "error": false, "intentos": 1}
+{"n": 20, "chat": "LARGO-1", "cambios": [], "pasos": 1, "s": 7.7, "entrada": 128752, "coste": 1.195706, "error": false, "intentos": 1}
+{"n": 21, "chat": "LARGO-1", "cambios": [], "pasos": 1, "s": 6.6, "entrada": 129245, "coste": 1.2131108, "error": false, "intentos": 1}
+{"n": 22, "chat": "LARGO-1", "cambios": [], "pasos": 1, "s": 7.0, "entrada": 129540, "coste": 1.2314429, "error": false, "intentos": 1}
+{"n": 23, "chat": "LARGO-1", "cambios": ["fichas/teatinos.md", "fichas/yo.md"], "pasos": 3, "s": 18.7, "entrada": 261544, "coste": 1.2831895, "error": false, "intentos": 1}
+{"n": 24, "chat": "LARGO-1", "cambios": [], "pasos": 1, "s": 9.9, "entrada": 132103, "coste": 1.3085623, "error": false, "intentos": 1}
+{"n": 25, "chat": "LARGO-1", "cambios": [], "pasos": 1, "s": 6.8, "entrada": 133134, "coste": 1.3298942, "error": false, "intentos": 1}
+{"n": 26, "chat": "LARGO-1", "cambios": ["INDICE.md", "fichas/gonzalo-rueda.md", "fichas/teatinos.md", "historial/2026-11.md"], "pasos": 7, "s": 28.8, "entrada": 406438, "coste": 1.4243121, "error": false, "intentos": 1}
+{"n": 27, "chat": "LARGO-1", "cambios": ["fichas/cafe-alameda.md", "historial/2026-11.md"], "pasos": 4, "s": 27.0, "entrada": 423317, "coste": 1.5134382, "error": false, "intentos": 1}
+{"n": 28, "chat": "LARGO-1", "cambios": ["INDICE.md", "fichas/pedregalejo.md"], "pasos": 3, "s": 18.5, "entrada": 289769, "coste": 1.5749453, "error": false, "intentos": 1}
+{"n": 29, "chat": "LARGO-1", "cambios": [], "pasos": 1, "s": 15.0, "entrada": 147099, "coste": 1.6070694, "error": false, "intentos": 1}
+{"n": 30, "chat": "LARGO-1", "cambios": [], "pasos": 1, "s": 10.7, "entrada": 148409, "coste": 1.6349669, "error": false, "intentos": 1}
+{"n": 31, "chat": "LARGO-1", "cambios": ["fichas/cafe-alameda.md", "historial/2026-11.md"], "pasos": 3, "s": 13.2, "entrada": 299737, "coste": 1.6827387, "error": false, "intentos": 1}
+{"n": 32, "chat": "LARGO-1", "cambios": [], "pasos": 1, "s": 22.1, "entrada": 150635, "coste": 1.7237945000000001, "error": false, "intentos": 1}
+{"n": 33, "chat": "LARGO-1", "cambios": ["fichas/larios.md", "resultados/presupuesto-larios.md"], "pasos": 4, "s": 78.8, "entrada": 481397, "coste": 1.9388288, "error": false, "intentos": 1}
+{"n": 34, "chat": "LARGO-1", "cambios": ["fichas/yo.md", "resultados/presupuesto-larios.md"], "pasos": 3, "s": 19.3, "entrada": 331626, "coste": 2.0001305, "error": false, "intentos": 1}
+{"n": 35, "chat": "LARGO-1", "cambios": [], "pasos": 1, "s": 6.6, "entrada": 167192, "coste": 2.0216925, "error": false, "intentos": 1}
+{"n": 36, "chat": "LARGO-1", "cambios": ["INDICE.md", "fichas/gestoria.md", "historial/2026-11.md"], "pasos": 6, "s": 27.6, "entrada": 337975, "coste": 2.0985156999999997, "error": false, "intentos": 1}
+{"n": 37, "chat": "LARGO-1", "cambios": [], "pasos": 2, "s": 13.5, "entrada": 345635, "coste": 2.1550192999999993, "error": false, "intentos": 1}
+{"n": 38, "chat": "LARGO-1", "cambios": ["INDICE.md", "fichas/pedregalejo.md", "historial/2026-11.md"], "pasos": 4, "s": 23.5, "entrada": 349940, "coste": 2.2252772999999992, "error": false, "intentos": 1}
+{"n": 39, "chat": "LARGO-1", "cambios": [], "pasos": 1, "s": 7.7, "entrada": 177422, "coste": 2.2538084999999994, "error": false, "intentos": 1}
+{"n": 40, "chat": "LARGO-1", "cambios": ["fichas/teatinos.md"], "pasos": 2, "s": 19.4, "entrada": 357728, "coste": 2.3160831999999996, "error": false, "intentos": 1}
+{"n": 41, "chat": "LARGO-SONDAS", "cambios": [], "pasos": 3, "s": 8.2, "entrada": 70768, "coste": 0.0481973, "error": false, "intentos": 1}
+{"n": 42, "chat": "LARGO-SONDAS", "cambios": [], "pasos": 2, "s": 7.7, "entrada": 72727, "coste": 0.060494, "error": false, "intentos": 1}
+{"n": 43, "chat": "LARGO-SONDAS", "cambios": ["fichas/teatinos.md"], "pasos": 2, "s": 13.5, "entrada": 74482, "coste": 0.08243299999999999, "error": false, "intentos": 1}
+{"n": 44, "chat": "LARGO-SONDAS", "cambios": [], "pasos": 2, "s": 9.0, "entrada": 76432, "coste": 0.0973145, "error": false, "intentos": 1}
+{"n": 45, "chat": "LARGO-SONDAS", "cambios": [], "pasos": 4, "s": 12.5, "entrada": 121800, "coste": 0.137908, "error": false, "intentos": 1}
+{"n": 46, "chat": "LARGO-SONDAS", "cambios": [], "pasos": 5, "s": 20.6, "entrada": 135732, "coste": 0.1813064, "error": false, "intentos": 1}
+{"n": 47, "chat": "LARGO-SONDAS", "cambios": [], "pasos": 3, "s": 18.1, "entrada": 142688, "coste": 0.21454099999999998, "error": false, "intentos": 1}
+{"n": 48, "chat": "LARGO-SONDAS", "cambios": [], "pasos": 3, "s": 16.3, "entrada": 148441, "coste": 0.24987979999999999, "error": false, "intentos": 1}

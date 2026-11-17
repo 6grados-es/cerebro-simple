@@ -1,0 +1,22 @@
+- [Hitos Larios / Marta](project-larios-marta-calendario.md) — licencia concedida, 30 % y 40 % cobrados (el 40 %, 18.040 € + IVA, pagado el 21 abr 2027; el 30 % final, 13.530 € + IVA, facturado el 26 may 2027 a 15 días y pendiente de cobro; 1.535 € + IVA sin facturar), inicio 18 ene, entregada y recepción firmada el 26 may 2027 (2 días antes del 28 previsto); tarima de roble en salón y pasillo (microcemento descartado 31 mar); 45.100 € + IVA (vigas +1.900 € y segundo baño +3.216 € aprobados); desde 14 abr 2027 en carpintería y pintura (Ebanor puertas, Mirasol pintura); mampara del segundo baño y retoque de cocina hechos
+- [Instalaciones Valdés](reference-tarifas-instalaciones-valdes.md) — Aurora Valdés, 34 €/h, pago a 45 días; sustituye a Rueda en Larios (4 mar 2027)
+- [Portal de licencias del Ayuntamiento](reference-portal-licencias-ayuntamiento.md) — clave de acceso guardada a petición del usuario
+- [Ruido en Larios](project-larios-horario-ruido.md) — solo 9-14 h y 16-19 h, sábados nada
+- [Teatinos / Teodoro Cabello](project-teatinos-cabello-entrega.md) — cocina aprobada, entrega de obra 26 feb 2027
+- [Café Alameda](project-cafe-alameda-fechas.md) — cerrado del todo (7 abr 2027): último hito pagado, remates hechos; garantía hasta abril 2028
+- [Tarifas Barroso](reference-tarifas-barroso.md) — oficial 190 €/jornada, mínimo 450 € de desplazamiento en obra pequeña; pide cobrar por certificación quincenal
+- [Tarifas Pinturas Mirasol](reference-tarifas-pinturas-mirasol.md) — pintor 26 €/h desde abril 2027 (antes 24 €), 8 % de descuento si supera 5.000 € (antes 5 % desde 3.000 €, cambio 12 may 2027)
+- [Escombros Guadalhorce](reference-escombros-guadalhorce.md) — Sebas Lozano, contenedor 6 m³ a 165 €, retirada en 48 h
+- [Tarifas Ebanor](reference-tarifas-ebanor.md) — Tomás Vega, montaje 32 €/h (antes 31), 50 % anticipo, 7 semanas de fabricación (antes 5)
+- [IVA en presupuestos](feedback-iva-presupuestos.md) — siempre aparte; 10 % vivienda, 21 % local
+- [Formato de tablas](feedback-formato-tablas.md) — de mayor a menor importe y sin decimales
+- [Correos a clientes](feedback-correos-clientes-detallados.md) — «Hola Nombre,», 8-10 líneas con lo hecho y lo que viene, firma «Laura»
+- [Disponibilidad Pimentel](reference-pimentel-disponibilidad.md) — solo trabaja de lunes a jueves, nada en viernes; 38 €/h desde 1 mar 2027; cobra a 15 días (antes 30, desde 12 may 2027)
+- [Gestoría Arjona](reference-gestoria-arjona.md) — Íñigo Bravo; papeles trimestrales antes del día 10 del mes siguiente
+- [Seguro RC](project-seguro-rc-renovacion.md) — renovar antes del 28 feb 2027, pendiente
+- [Clínica Sanmartín](project-clinica-sanmartin-presupuesto.md) — fisioterapia Soho ~95 m², contrato firmado 22 mar 2027, 52.400 € + IVA 21 %, inicio de obra 12 abr 2027; 19 may en tabiquería, el doctor quiere abrir el 1 jul 2027
+- [Lúa Moda / Lucía Barrionuevo](project-lua-moda-barrionuevo.md) — tienda calle Granada ~60 m², entregada 7 abr 2027 (2 días tarde), IVA 21 % aparte
+- [Joaquín Pardo (Huelin)](project-pardo-huelin-certificado.md) — dos baños terminados; certificado final antes del 15 feb 2027
+- [Churriana / Pilar Aranda](project-churriana-aranda-cubierta.md) — cambio de cubierta, 3 presupuestos recibidos; se le pasa el de 18.900 € + IVA (7 abr 2027), pendiente de respuesta
+- [Estructura del presupuesto](feedback-presupuestos-precios-unitarios-locales.md) — locales con precios unitarios, viviendas por capítulos
+- [Pedregalejo / Isabel Fuentes](project-pedregalejo-fuentes-atico.md) — ático aprobado 31 mar 2027, 27.800 € + IVA 10 %, inicio 3 may 2027

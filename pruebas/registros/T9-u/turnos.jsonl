@@ -1,0 +1,6 @@
+{"n": "201", "chat": "U1", "cambios": ["INDICE.md", "fichas/pimentel.md", "fichas/vacaciones.md", "fichas/yo.md"], "pasos": 7, "s": 17.6, "entrada": 107645, "coste": 0.06889129999999999, "error": false, "intentos": 1}
+{"n": "202", "chat": "U1", "cambios": ["fichas/pimentel.md", "historial/2026-11.md"], "pasos": 3, "s": 9.7, "entrada": 75841, "coste": 0.08875459999999999, "error": false, "intentos": 1}
+{"n": "203", "chat": "U2", "cambios": ["fichas/vacaciones.md", "historial/2026-11.md"], "pasos": 3, "s": 10.6, "entrada": 104994, "coste": 0.0500795, "error": false, "intentos": 1}
+{"n": "204", "chat": "U2", "cambios": ["fichas/vacaciones.md", "historial/2026-11.md"], "pasos": 2, "s": 8.3, "entrada": 71288, "coste": 0.0630777, "error": false, "intentos": 1}
+{"n": "205", "chat": "U3", "cambios": ["INDICE.md", "fichas/pimentel.md", "historial/2026-11.md"], "pasos": 4, "s": 15.3, "entrada": 141189, "coste": 0.060599499999999994, "error": false, "intentos": 1}
+{"n": "206", "chat": "U3", "cambios": [], "pasos": 2, "s": 7.9, "entrada": 72997, "coste": 0.07296029999999999, "error": false, "intentos": 1}

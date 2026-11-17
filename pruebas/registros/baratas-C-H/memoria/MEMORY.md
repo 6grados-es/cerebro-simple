@@ -1,0 +1,3 @@
+- [Marta y FisioSur](marta-fisiosur.md) — quién es, formato de las facturas CSV
+- [Deuda de bonos](deuda-bonos.md) — CSV de deudas de pacientes, total 670 €, quién debe más
+- [Pendientes](pendientes.md) — nada pendiente por ahora

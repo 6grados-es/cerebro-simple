@@ -1,0 +1,4 @@
+{"n": "101", "chat": "C1a", "cambios": ["memoria/MEMORY.md", "memoria/marta-fisiosur.md", "memoria/pendientes.md"], "pasos": 6, "s": 18.7, "entrada": 101175, "coste": 0.055734700000000005, "error": false, "intentos": 1}
+{"n": "102", "chat": "C1b", "cambios": [], "pasos": 2, "s": 9.3, "entrada": 66120, "coste": 0.0362942, "error": false, "intentos": 1}
+{"n": "103", "chat": "C1c", "cambios": ["memoria/MEMORY.md", "memoria/historial.md", "memoria/marta-fisiosur.md", "memoria/pendientes.md"], "pasos": 7, "s": 28.5, "entrada": 173937, "coste": 0.0821604, "error": false, "intentos": 1}
+{"n": "104", "chat": "C2", "cambios": ["memoria/MEMORY.md", "memoria/deuda-bonos.md"], "pasos": 5, "s": 16.1, "entrada": 101955, "coste": 0.0593741, "error": false, "intentos": 1}

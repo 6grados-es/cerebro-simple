@@ -1,0 +1,3 @@
+- [Yo](fichas/yo.md) — quién es el dueño y cómo le gusta trabajar en general
+- [Pimentel](fichas/pimentel.md) — fontanero de Laura: sus datos y trabajos
+- [Vacaciones](fichas/vacaciones.md) — fechas en que Laura está fuera, para no planificar nada en esos días

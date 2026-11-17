@@ -1,0 +1,10 @@
+{
+  "hooks": {
+    "UserPromptSubmit": [
+      { "hooks": [ { "type": "command", "command": "echo 'Cerebro: si en este mensaje hay algo nuevo, cambiado o corregido, actualiza la ficha del tema antes de contestar y acaba con «Anotado en …». Si no lo hay, no anotes nada.'" } ] }
+    ],
+    "PostToolUse": [
+      { "matcher": "Write|Edit|MultiEdit", "hooks": [ { "type": "command", "command": "sh \"$CLAUDE_PROJECT_DIR/.claude/indice.sh\"" } ] }
+    ]
+  }
+}

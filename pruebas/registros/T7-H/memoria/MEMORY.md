@@ -1,0 +1,8 @@
+- [Marta, la dueña](marta-duena.md) — fisioterapeuta autónoma en Málaga
+- [Clínica FisioSur](clinica-fisiosur.md) — trabaja sola; Inés, recepcionista (mañanas y tardes de martes)
+- [Tarifas FisioSur](tarifas-fisiosur.md) — sesión 45 € (50 € desde enero 2027), bono de 5 sesiones 200 € (220 € desde enero 2027)
+- [Pendientes de Marta](pendientes.md) — nada pendiente
+- [Gestoría Alba](gestoria-alba.md) — Marta empieza con ellos el 1-12-2026 (60 €/mes)
+- [Estilo de mensajes a pacientes](estilo-mensajes-pacientes.md) — cortos, de tú, sin emojis
+- [Facturas anuladas](facturas-anuladas.md) — nunca cuentan en totales ni se muestran
+- [Tablas de facturas sin concepto](tablas-facturas-sin-concepto.md) — nunca incluir la columna concepto

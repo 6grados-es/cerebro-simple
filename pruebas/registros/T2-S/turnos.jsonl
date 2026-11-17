@@ -1,0 +1,112 @@
+{"n": 1, "chat": "M01", "cambios": ["INDICE.md", "fichas/larios.md"], "pasos": 5, "s": 27.5, "entrada": 189988, "coste": 0.09335979999999999, "error": false, "intentos": 1}
+{"n": 2, "chat": "M01", "cambios": ["fichas/larios.md", "historial/2026-12.md"], "pasos": 2, "s": 9.8, "entrada": 85683, "coste": 0.1145211, "error": false, "intentos": 1}
+{"n": 3, "chat": "M01", "cambios": ["INDICE.md", "fichas/larios.md", "fichas/pimentel.md"], "pasos": 3, "s": 14.9, "entrada": 134141, "coste": 0.1491809, "error": false, "intentos": 1}
+{"n": 4, "chat": "M01", "cambios": [], "pasos": 2, "s": 9.0, "entrada": 93249, "coste": 0.1674947, "error": false, "intentos": 1}
+{"n": 5, "chat": "M02", "cambios": ["INDICE.md", "fichas/rueda.md"], "pasos": 5, "s": 15.2, "entrada": 142264, "coste": 0.066264, "error": false, "intentos": 1}
+{"n": 6, "chat": "M02", "cambios": ["fichas/larios.md"], "pasos": 2, "s": 7.2, "entrada": 75218, "coste": 0.0802559, "error": false, "intentos": 1}
+{"n": 7, "chat": "M02", "cambios": ["INDICE.md", "fichas/teatinos.md", "resultados/teatinos-resumen-presupuesto.md"], "pasos": 4, "s": 26.3, "entrada": 170292, "coste": 0.1578727, "error": false, "intentos": 1}
+{"n": 8, "chat": "M02", "cambios": ["INDICE.md", "fichas/teatinos.md", "fichas/yo.md", "resultados/teatinos-resumen-presupuesto.md"], "pasos": 2, "s": 15.3, "entrada": 96566, "coste": 0.1931606, "error": false, "intentos": 1}
+{"n": 9, "chat": "M03", "cambios": ["fichas/larios.md", "historial/2026-12.md"], "pasos": 6, "s": 23.0, "entrada": 108004, "coste": 0.074678, "error": false, "intentos": 1}
+{"n": 10, "chat": "M03", "cambios": ["INDICE.md", "fichas/barroso.md"], "pasos": 3, "s": 9.2, "entrada": 76912, "coste": 0.09382019999999999, "error": false, "intentos": 1}
+{"n": 11, "chat": "M03", "cambios": ["INDICE.md", "fichas/mirasol.md"], "pasos": 3, "s": 8.4, "entrada": 79704, "coste": 0.1131365, "error": false, "intentos": 1}
+{"n": 12, "chat": "M03", "cambios": ["INDICE.md", "fichas/cafe-alameda.md"], "pasos": 5, "s": 19.4, "entrada": 176011, "coste": 0.16753990000000002, "error": false, "intentos": 1}
+{"n": 13, "chat": "M04", "cambios": ["INDICE.md", "fichas/clinica-sanmartin.md"], "pasos": 7, "s": 33.2, "entrada": 246445, "coste": 0.1379073, "error": false, "intentos": 1}
+{"n": 14, "chat": "M04", "cambios": ["fichas/clinica-sanmartin.md", "fichas/teatinos.md", "fichas/yo.md", "historial/2026-12.md"], "pasos": 5, "s": 14.9, "entrada": 98546, "coste": 0.174372, "error": false, "intentos": 1}
+{"n": 15, "chat": "M04", "cambios": ["fichas/cafe-alameda.md"], "pasos": 5, "s": 32.5, "entrada": 158582, "coste": 0.24401869999999998, "error": false, "intentos": 1}
+{"n": 16, "chat": "M04", "cambios": ["fichas/yo.md"], "pasos": 2, "s": 14.7, "entrada": 113577, "coste": 0.2755914, "error": false, "intentos": 1}
+{"n": 17, "chat": "M05", "cambios": [], "pasos": 1, "s": 6.3, "entrada": 34725, "coste": 0.0383422, "error": false, "intentos": 1}
+{"n": 18, "chat": "M05", "cambios": ["fichas/larios.md", "historial/2026-12.md"], "pasos": 5, "s": 18.5, "entrada": 108677, "coste": 0.07608, "error": false, "intentos": 1}
+{"n": 19, "chat": "M05", "cambios": ["fichas/larios.md"], "pasos": 2, "s": 9.8, "entrada": 76152, "coste": 0.0912618, "error": false, "intentos": 1}
+{"n": 20, "chat": "M05", "cambios": ["fichas/larios.md", "historial/2026-12.md"], "pasos": 3, "s": 13.8, "entrada": 77929, "coste": 0.1147315, "error": false, "intentos": 1}
+{"n": 21, "chat": "M06", "cambios": ["fichas/larios.md", "historial/2027-01.md"], "pasos": 5, "s": 22.8, "entrada": 145293, "coste": 0.0755045, "error": false, "intentos": 1}
+{"n": 22, "chat": "M06", "cambios": ["fichas/larios.md", "historial/2027-01.md"], "pasos": 2, "s": 9.3, "entrada": 76363, "coste": 0.090265, "error": false, "intentos": 1}
+{"n": 23, "chat": "M06", "cambios": ["INDICE.md", "fichas/escombros-guadalhorce.md"], "pasos": 3, "s": 13.1, "entrada": 116967, "coste": 0.1138593, "error": false, "intentos": 1}
+{"n": 24, "chat": "M06", "cambios": ["fichas/larios.md"], "pasos": 2, "s": 8.8, "entrada": 80948, "coste": 0.1292053, "error": false, "intentos": 1}
+{"n": 25, "chat": "M07", "cambios": ["INDICE.md", "fichas/ebanor.md"], "pasos": 5, "s": 16.3, "entrada": 144413, "coste": 0.0705945, "error": false, "intentos": 1}
+{"n": 26, "chat": "M07", "cambios": [], "pasos": 2, "s": 9.1, "entrada": 80068, "coste": 0.0990386, "error": false, "intentos": 1}
+{"n": 27, "chat": "M07", "cambios": ["fichas/cafe-alameda.md", "historial/2027-01.md"], "pasos": 2, "s": 11.9, "entrada": 85040, "coste": 0.1221616, "error": false, "intentos": 1}
+{"n": 28, "chat": "M07", "cambios": [], "pasos": 1, "s": 6.5, "entrada": 43177, "coste": 0.1280863, "error": false, "intentos": 1}
+{"n": 29, "chat": "M08", "cambios": ["fichas/larios.md", "historial/2027-01.md"], "pasos": 8, "s": 19.6, "entrada": 183511, "coste": 0.07989629999999999, "error": false, "intentos": 1}
+{"n": 30, "chat": "M08", "cambios": ["fichas/larios.md"], "pasos": 5, "s": 20.6, "entrada": 208802, "coste": 0.13589099999999998, "error": false, "intentos": 1}
+{"n": 31, "chat": "M08", "cambios": ["fichas/barroso.md", "fichas/larios.md"], "pasos": 4, "s": 15.4, "entrada": 132690, "coste": 0.16631749999999998, "error": false, "intentos": 1}
+{"n": 32, "chat": "M08", "cambios": ["INDICE.md", "fichas/clinica-sanmartin.md", "historial/2027-01.md"], "pasos": 5, "s": 13.7, "entrada": 137624, "coste": 0.19929479999999997, "error": false, "intentos": 1}
+{"n": 33, "chat": "M09", "cambios": ["fichas/larios.md", "historial/2027-01.md"], "pasos": 5, "s": 14.7, "entrada": 144355, "coste": 0.0666471, "error": false, "intentos": 1}
+{"n": 34, "chat": "M09", "cambios": ["INDICE.md", "fichas/seguro-rc.md"], "pasos": 3, "s": 9.8, "entrada": 75444, "coste": 0.0855205, "error": false, "intentos": 1}
+{"n": 35, "chat": "M09", "cambios": ["fichas/pimentel.md"], "pasos": 3, "s": 10.6, "entrada": 118417, "coste": 0.1076501, "error": false, "intentos": 1}
+{"n": 36, "chat": "M09", "cambios": ["INDICE.md", "fichas/arjona.md"], "pasos": 3, "s": 11.0, "entrada": 80538, "coste": 0.12572719999999998, "error": false, "intentos": 1}
+{"n": 37, "chat": "M10", "cambios": ["fichas/larios.md"], "pasos": 5, "s": 16.0, "entrada": 109289, "coste": 0.06530860000000001, "error": false, "intentos": 1}
+{"n": 38, "chat": "M10", "cambios": ["INDICE.md", "fichas/huelin.md"], "pasos": 5, "s": 15.0, "entrada": 157162, "coste": 0.10628380000000001, "error": false, "intentos": 1}
+{"n": 39, "chat": "M10", "cambios": ["fichas/cafe-alameda.md", "historial/2027-02.md"], "pasos": 4, "s": 13.7, "entrada": 128732, "coste": 0.13722990000000002, "error": false, "intentos": 1}
+{"n": 40, "chat": "M10", "cambios": ["INDICE.md", "fichas/tarifas-gremios.md"], "pasos": 6, "s": 21.5, "entrada": 231216, "coste": 0.19373120000000002, "error": false, "intentos": 1}
+{"n": 41, "chat": "M11", "cambios": ["fichas/larios.md", "historial/2027-02.md"], "pasos": 4, "s": 13.4, "entrada": 108549, "coste": 0.06244400000000001, "error": false, "intentos": 1}
+{"n": 42, "chat": "M11", "cambios": [], "pasos": 1, "s": 8.2, "entrada": 37339, "coste": 0.07092050000000001, "error": false, "intentos": 1}
+{"n": 43, "chat": "M11", "cambios": ["fichas/teatinos.md", "historial/2027-02.md"], "pasos": 4, "s": 11.6, "entrada": 115360, "coste": 0.0961859, "error": false, "intentos": 1}
+{"n": 44, "chat": "M11", "cambios": [], "pasos": 3, "s": 13.2, "entrada": 119465, "coste": 0.1241684, "error": false, "intentos": 1}
+{"n": 45, "chat": "M11", "cambios": ["fichas/yo.md"], "pasos": 3, "s": 11.5, "entrada": 125138, "coste": 0.1526009, "error": false, "intentos": 1}
+{"n": 46, "chat": "M12", "cambios": ["fichas/barroso.md"], "pasos": 4, "s": 12.5, "entrada": 107437, "coste": 0.058661899999999996, "error": false, "intentos": 1}
+{"n": 47, "chat": "M12", "cambios": ["INDICE.md", "fichas/lua-moda.md"], "pasos": 3, "s": 13.2, "entrada": 74491, "coste": 0.0812656, "error": false, "intentos": 1}
+{"n": 48, "chat": "M12", "cambios": ["fichas/teatinos.md", "historial/2027-02.md"], "pasos": 4, "s": 20.3, "entrada": 164101, "coste": 0.13482629999999998, "error": false, "intentos": 1}
+{"n": 49, "chat": "M12", "cambios": ["fichas/yo.md"], "pasos": 4, "s": 11.7, "entrada": 132528, "coste": 0.1629246, "error": false, "intentos": 1}
+{"n": 50, "chat": "S1", "cambios": [], "pasos": 2, "s": 7.8, "entrada": 71506, "coste": 0.049078899999999995, "error": false, "intentos": 1}
+{"n": 51, "chat": "S1", "cambios": [], "pasos": 1, "s": 5.9, "entrada": 36590, "coste": 0.055926399999999994, "error": false, "intentos": 1}
+{"n": 52, "chat": "S1", "cambios": [], "pasos": 2, "s": 10.1, "entrada": 74316, "coste": 0.0710068, "error": false, "intentos": 1}
+{"n": 53, "chat": "S1", "cambios": [], "pasos": 2, "s": 9.7, "entrada": 76075, "coste": 0.08735679999999998, "error": false, "intentos": 1}
+{"n": 54, "chat": "M13", "cambios": ["INDICE.md", "fichas/larios.md", "fichas/rueda.md", "fichas/valdes.md", "historial/2027-03.md"], "pasos": 11, "s": 27.8, "entrada": 153204, "coste": 0.1088833, "error": false, "intentos": 1}
+{"n": 55, "chat": "M13", "cambios": ["fichas/pimentel.md", "historial/2027-03.md"], "pasos": 3, "s": 9.9, "entrada": 86452, "coste": 0.1302725, "error": false, "intentos": 1}
+{"n": 56, "chat": "M13", "cambios": ["fichas/barroso.md"], "pasos": 3, "s": 13.5, "entrada": 132470, "coste": 0.15461470000000002, "error": false, "intentos": 1}
+{"n": 57, "chat": "M13", "cambios": ["fichas/valdes.md"], "pasos": 2, "s": 14.9, "entrada": 90736, "coste": 0.17935020000000002, "error": false, "intentos": 1}
+{"n": 58, "chat": "M14", "cambios": ["fichas/larios.md", "historial/2027-03.md"], "pasos": 7, "s": 15.7, "entrada": 111245, "coste": 0.0729108, "error": false, "intentos": 1}
+{"n": 59, "chat": "M14", "cambios": ["INDICE.md", "fichas/clinica-sanmartin.md", "historial/2027-03.md"], "pasos": 3, "s": 13.6, "entrada": 118006, "coste": 0.1000325, "error": false, "intentos": 1}
+{"n": 60, "chat": "M14", "cambios": ["fichas/pimentel.md"], "pasos": 3, "s": 12.1, "entrada": 125134, "coste": 0.1257338, "error": false, "intentos": 1}
+{"n": 61, "chat": "M15", "cambios": ["INDICE.md", "fichas/churriana.md"], "pasos": 5, "s": 17.8, "entrada": 147387, "coste": 0.07551449999999998, "error": false, "intentos": 1}
+{"n": 62, "chat": "M15", "cambios": ["fichas/cafe-alameda.md", "historial/2027-03.md"], "pasos": 3, "s": 15.4, "entrada": 123302, "coste": 0.11602059999999999, "error": false, "intentos": 1}
+{"n": 63, "chat": "M15", "cambios": ["fichas/yo.md", "historial/2027-03.md"], "pasos": 2, "s": 10.8, "entrada": 86724, "coste": 0.1383564, "error": false, "intentos": 1}
+{"n": 64, "chat": "M15", "cambios": ["INDICE.md", "fichas/zamora.md"], "pasos": 2, "s": 10.4, "entrada": 88606, "coste": 0.1567272, "error": false, "intentos": 1}
+{"n": 65, "chat": "M16", "cambios": ["fichas/larios.md"], "pasos": 3, "s": 13.0, "entrada": 109259, "coste": 0.0601719, "error": false, "intentos": 1}
+{"n": 66, "chat": "M16", "cambios": ["INDICE.md", "fichas/clinica-sanmartin.md", "historial/2027-03.md"], "pasos": 4, "s": 12.5, "entrada": 114688, "coste": 0.0867388, "error": false, "intentos": 1}
+{"n": 67, "chat": "M16", "cambios": ["fichas/arjona.md"], "pasos": 3, "s": 12.9, "entrada": 122237, "coste": 0.1139386, "error": false, "intentos": 1}
+{"n": 68, "chat": "M16", "cambios": [], "pasos": 3, "s": 11.2, "entrada": 128668, "coste": 0.1487389, "error": false, "intentos": 1}
+{"n": 69, "chat": "M17", "cambios": ["fichas/larios.md", "historial/2027-03.md"], "pasos": 5, "s": 17.7, "entrada": 148794, "coste": 0.07420210000000001, "error": false, "intentos": 1}
+{"n": 70, "chat": "M17", "cambios": ["fichas/mirasol.md", "historial/2027-03.md"], "pasos": 6, "s": 18.2, "entrada": 198349, "coste": 0.11400370000000001, "error": false, "intentos": 1}
+{"n": 71, "chat": "M17", "cambios": ["INDICE.md", "fichas/pedregalejo.md"], "pasos": 4, "s": 15.8, "entrada": 167233, "coste": 0.15123140000000002, "error": false, "intentos": 1}
+{"n": 72, "chat": "M17", "cambios": [], "pasos": 1, "s": 6.3, "entrada": 44571, "coste": 0.16191680000000003, "error": false, "intentos": 1}
+{"n": 73, "chat": "M18", "cambios": ["fichas/yo.md", "historial/2027-04.md"], "pasos": 5, "s": 13.5, "entrada": 109316, "coste": 0.0643022, "error": false, "intentos": 1}
+{"n": 74, "chat": "M18", "cambios": ["fichas/cafe-alameda.md", "historial/2027-04.md"], "pasos": 5, "s": 15.8, "entrada": 115223, "coste": 0.0981505, "error": false, "intentos": 1}
+{"n": 75, "chat": "M18", "cambios": ["INDICE.md", "fichas/churriana.md", "historial/2027-04.md"], "pasos": 3, "s": 16.2, "entrada": 121338, "coste": 0.1306852, "error": false, "intentos": 1}
+{"n": 76, "chat": "M18", "cambios": [], "pasos": 2, "s": 8.4, "entrada": 86418, "coste": 0.14938289999999999, "error": false, "intentos": 1}
+{"n": 77, "chat": "M19", "cambios": ["fichas/ebanor.md", "fichas/larios.md", "fichas/mirasol.md", "historial/2027-04.md"], "pasos": 9, "s": 16.0, "entrada": 112411, "coste": 0.0869741, "error": false, "intentos": 1}
+{"n": 78, "chat": "M19", "cambios": ["INDICE.md", "fichas/ebanor.md", "historial/2027-04.md"], "pasos": 2, "s": 8.6, "entrada": 80210, "coste": 0.10502070000000001, "error": false, "intentos": 1}
+{"n": 79, "chat": "M19", "cambios": ["INDICE.md", "fichas/lua-moda.md", "historial/2027-04.md"], "pasos": 3, "s": 11.4, "entrada": 127766, "coste": 0.13273450000000003, "error": false, "intentos": 1}
+{"n": 80, "chat": "M19", "cambios": [], "pasos": 2, "s": 12.7, "entrada": 89738, "coste": 0.15815350000000006, "error": false, "intentos": 1}
+{"n": 81, "chat": "M20", "cambios": ["fichas/larios.md", "historial/2027-04.md"], "pasos": 6, "s": 16.5, "entrada": 147708, "coste": 0.0792474, "error": false, "intentos": 1}
+{"n": 82, "chat": "M20", "cambios": ["fichas/larios.md"], "pasos": 2, "s": 11.5, "entrada": 77132, "coste": 0.0944302, "error": false, "intentos": 1}
+{"n": 83, "chat": "M20", "cambios": ["INDICE.md", "fichas/zamora.md", "historial/2027-04.md"], "pasos": 3, "s": 13.3, "entrada": 118209, "coste": 0.11809820000000001, "error": false, "intentos": 1}
+{"n": 84, "chat": "S2", "cambios": [], "pasos": 2, "s": 7.2, "entrada": 71289, "coste": 0.0533536, "error": false, "intentos": 1}
+{"n": 85, "chat": "S2", "cambios": [], "pasos": 2, "s": 11.0, "entrada": 73386, "coste": 0.0712575, "error": false, "intentos": 1}
+{"n": 86, "chat": "S2", "cambios": [], "pasos": 2, "s": 12.5, "entrada": 76214, "coste": 0.0908018, "error": false, "intentos": 1}
+{"n": 87, "chat": "M21", "cambios": ["fichas/yo.md"], "pasos": 3, "s": 19.7, "entrada": 112253, "coste": 0.0817451, "error": false, "intentos": 1}
+{"n": 88, "chat": "M21", "cambios": ["fichas/larios.md", "historial/2027-05.md"], "pasos": 3, "s": 22.2, "entrada": 123918, "coste": 0.1372609, "error": false, "intentos": 1}
+{"n": 89, "chat": "M21", "cambios": [], "pasos": 1, "s": 11.8, "entrada": 43950, "coste": 0.15044729999999998, "error": false, "intentos": 1}
+{"n": 90, "chat": "M21", "cambios": ["fichas/cafe-alameda.md", "fichas/teatinos.md"], "pasos": 6, "s": 35.4, "entrada": 301967, "coste": 0.2566282, "error": false, "intentos": 1}
+{"n": 91, "chat": "M22", "cambios": ["fichas/pimentel.md", "historial/2027-05.md"], "pasos": 5, "s": 15.1, "entrada": 144808, "coste": 0.07209070000000001, "error": false, "intentos": 1}
+{"n": 92, "chat": "M22", "cambios": ["fichas/mirasol.md", "historial/2027-05.md"], "pasos": 4, "s": 13.4, "entrada": 112726, "coste": 0.0953549, "error": false, "intentos": 1}
+{"n": 93, "chat": "M22", "cambios": [], "pasos": 3, "s": 13.1, "entrada": 121526, "coste": 0.13661210000000001, "error": false, "intentos": 1}
+{"n": 94, "chat": "M22", "cambios": ["INDICE.md", "fichas/facturas-emitidas.md"], "pasos": 6, "s": 25.5, "entrada": 227322, "coste": 0.19872, "error": false, "intentos": 1}
+{"n": 95, "chat": "M23", "cambios": ["fichas/yo.md", "historial/2027-05.md"], "pasos": 5, "s": 14.6, "entrada": 145526, "coste": 0.0744151, "error": false, "intentos": 1}
+{"n": 96, "chat": "M23", "cambios": ["fichas/clinica-sanmartin.md", "historial/2027-05.md"], "pasos": 3, "s": 11.7, "entrada": 114267, "coste": 0.0959176, "error": false, "intentos": 1}
+{"n": 97, "chat": "M23", "cambios": ["fichas/larios.md"], "pasos": 3, "s": 11.7, "entrada": 119725, "coste": 0.1224439, "error": false, "intentos": 1}
+{"n": 98, "chat": "M23", "cambios": [], "pasos": 1, "s": 8.4, "entrada": 40863, "coste": 0.130963, "error": false, "intentos": 1}
+{"n": 99, "chat": "M24", "cambios": ["fichas/larios.md", "historial/2027-05.md"], "pasos": 7, "s": 18.4, "entrada": 111940, "coste": 0.0862903, "error": false, "intentos": 1}
+{"n": 100, "chat": "M24", "cambios": ["fichas/larios.md", "historial/2027-05.md"], "pasos": 3, "s": 10.2, "entrada": 79625, "coste": 0.1061735, "error": false, "intentos": 1}
+{"n": 101, "chat": "M24", "cambios": ["fichas/larios.md"], "pasos": 6, "s": 22.0, "entrada": 172495, "coste": 0.1668869, "error": false, "intentos": 1}
+{"n": 102, "chat": "M24", "cambios": [], "pasos": 2, "s": 8.5, "entrada": 93623, "coste": 0.182264, "error": false, "intentos": 1}
+{"n": 103, "chat": "S3", "cambios": [], "pasos": 2, "s": 11.7, "entrada": 72615, "coste": 0.0635619, "error": false, "intentos": 1}
+{"n": 104, "chat": "S3", "cambios": [], "pasos": 1, "s": 6.3, "entrada": 37717, "coste": 0.07104070000000001, "error": false, "intentos": 1}
+{"n": 105, "chat": "S3", "cambios": [], "pasos": 3, "s": 8.9, "entrada": 76494, "coste": 0.08641320000000001, "error": false, "intentos": 1}
+{"n": 106, "chat": "S4", "cambios": ["fichas/pimentel.md", "historial/2027-05.md"], "pasos": 4, "s": 12.7, "entrada": 108222, "coste": 0.0684442, "error": false, "intentos": 1}
+{"n": 107, "chat": "S4", "cambios": [], "pasos": 2, "s": 6.6, "entrada": 74212, "coste": 0.0795359, "error": false, "intentos": 1}
+{"n": 108, "chat": "S4", "cambios": [], "pasos": 2, "s": 11.9, "entrada": 75309, "coste": 0.0972683, "error": false, "intentos": 1}
+{"n": 109, "chat": "S5", "cambios": [], "pasos": 7, "s": 14.9, "entrada": 75552, "coste": 0.0812572, "error": false, "intentos": 1}
+{"n": 110, "chat": "S5", "cambios": [], "pasos": 1, "s": 5.9, "entrada": 40516, "coste": 0.0886304, "error": false, "intentos": 1}
+{"n": 111, "chat": "S5", "cambios": [], "pasos": 1, "s": 7.0, "entrada": 40696, "coste": 0.0959596, "error": false, "intentos": 1}
+{"n": 112, "chat": "S5", "cambios": [], "pasos": 2, "s": 9.9, "entrada": 82191, "coste": 0.1097059, "error": false, "intentos": 1}
