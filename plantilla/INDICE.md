@@ -1,1 +1,1 @@
-- [Yo](fichas/yo.md) — quién es el dueño y cómo le gusta trabajar en general
+- [[yo]] — quién es el dueño y cómo le gusta trabajar en general

@@ -16,7 +16,7 @@ else:
         if not chats or chats[-1]["id"]!=c: chats.append({"id":c,"mensajes":[]})
         chats[-1]["mensajes"].append({"n":n,"texto":t})
 L=D.parent/"_logs"/D.name; L.mkdir(parents=True,exist_ok=True)
-VIG=["fichas","historial","resultados","INDICE.md","memoria"]
+VIG=["fichas","fuentes","historial","resultados","INDICE.md","memoria"]
 NAT=Path.home()/".claude/projects"/str(D).replace("/","-")/"memory"
 def foto():
     h={}

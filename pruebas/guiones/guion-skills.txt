@@ -1,0 +1,4 @@
+K1|501|Soy Laura, arquitecta técnica en Málaga. Escríbele un correo a Marta Quintero, la clienta de Larios, diciéndole que la licencia de obra menor ya está concedida y que empezamos el 18 de enero.
+K1|502|Bien, pero a los clientes les escribo de tú, empiezo con «Hola Marta,» y firmo solo «Laura». Y sin asunto largo: con «Larios» basta. Rehazlo.
+K2|503|Escríbele un correo a Teodoro Cabello, de Teatinos, para decirle que Pimentel empieza con el baño el lunes 23.
+K2|504|¿Qué tienes apuntado sobre cómo escribo los correos y qué usas para hacerlos?
