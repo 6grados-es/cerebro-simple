@@ -1,0 +1,20 @@
+- [[yo]] — quién es el dueño y cómo le gusta trabajar en general
+- [[larios]] — reforma integral del piso de Marta Quintero en calle Larios (Málaga): estado, decisiones y documentos
+- [[pimentel]] — Anselmo Pimentel, fontanero: tarifas, plazo de pago y obras
+- [[gonzalo-rueda]] — Gonzalo Rueda, electricista: tarifa, garantía y obras
+- [[instalaciones-valdes]] — Instalaciones Valdés, de Aurora Valdés: tarifa, plazo de pago y obras
+- [[teatinos]] — reforma de baño y cocina de Teodoro Cabello y Rosario Gil en Teatinos (Málaga): estado, gremios y documentos
+- [[fermin-barroso]] — Fermín Barroso, albañil y alicatador: tarifas, condiciones y obras
+- [[pinturas-mirasol]] — Pinturas Mirasol, pintura: tarifa y descuentos
+- [[cafe-alameda]] — reforma del local de hostelería de Hernán Ortuño en la Alameda Principal (Málaga): estado, gremios y documentos
+- [[escombros-guadalhorce]] — Sebas Lozano, contenedores de escombros: tarifa y plazo de retirada
+- [[clinica-sanmartin]] — presupuesto de la reforma del local de fisioterapia del doctor Rafael Sanmartín en el Soho: plazo, alcance y documentos
+- [[seguro-responsabilidad-civil]] — seguro de responsabilidad civil del dueño: renovación y datos de la póliza
+- [[arjona-y-asociados]] — gestoría del dueño: cuándo se le llevan los papeles del trimestre y quién atiende
+- [[joaquin-pardo]] — obra de Joaquín Pardo en Huelin (dos baños): estado y certificado final pendiente
+- [[lua-moda]] — tienda de Lucía Barrionuevo en la calle Granada (Málaga): alcance, plazo y documentos
+- [[churriana]] — cambio de cubierta de la casa de Pilar Aranda en Churriana (Málaga): estado y presupuestos
+- [[zamora]] — reforma del piso de Bruno y Carla Zamora en El Palo (Málaga): presupuesto pedido, luego descartada por ellos
+- [[tomas-vega]] — Tomás Vega, de Ebanor, carpintería de barra y mobiliario: tarifa, anticipo y plazo de fabricación
+- [[facturas-emitidas]] — libro de facturas emitidas en 2026 y fallos conocidos del archivo
+- [[pedregalejo]] — reforma del ático de Isabel Fuentes en Pedregalejo (Málaga): presupuesto aprobado, inicio y documentos
