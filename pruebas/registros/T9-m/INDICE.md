@@ -1,0 +1,20 @@
+- [Yo](fichas/yo.md) — quién es el dueño y cómo le gusta trabajar en general
+- [Larios](fichas/larios.md) — obra/proyecto de Marta Quintero (presupuesto Larios): estado, importe y pendientes
+- [Gonzalo Rueda](fichas/gonzalo-rueda.md) — Gonzalo Rueda, instalador al que el dueño paga por horas: tarifa y garantía
+- [Teatinos](fichas/teatinos.md) — reforma de baño y cocina en Teatinos para Teodoro Cabello y Rosario Gil: estado y documentos
+- [Pimentel](fichas/pimentel.md) — Pimentel, a quien el dueño paga por trabajos: tarifas y condiciones de pago
+- [Barroso](fichas/barroso.md) — Barroso: tarifas y condiciones de lo que cobra (jornada de oficial, desplazamiento)
+- [Pinturas Mirasol](fichas/pinturas-mirasol.md) — Pinturas Mirasol: tarifas y condiciones de lo que cobra (hora de pintor, descuento)
+- [Clínica Sanmartín](fichas/clinica-sanmartin.md) — local de fisioterapia del doctor Rafael Sanmartín en el Soho: presupuesto enviado y estado
+- [Café Alameda](fichas/cafe-alameda.md) — reforma del local de hostelería de Hernán Ortuño en la Alameda Principal: estado y documentos
+- [Escombros Guadalhorce](fichas/escombros-guadalhorce.md) — Escombros Guadalhorce (Sebas Lozano): tarifas y condiciones de contenedores
+- [Tomás Vega](fichas/tomas-vega.md) — Tomás Vega, de Ebanor: tarifa de montaje, anticipo y plazo de fabricación
+- [Seguro de responsabilidad civil](fichas/seguro-responsabilidad-civil.md) — seguro de RC del dueño: renovación y estado
+- [Joaquín Pardo](fichas/joaquin-pardo.md) — Joaquín Pardo, cliente de la obra de Huelin (dos baños): estado y certificado final
+- [Lúa Moda](fichas/lua-moda.md) — tienda de Lucía Barrionuevo en la calle Granada (unos 60 m²): entrega y datos de la obra
+- [Gestoría Arjona y Asociados](fichas/gestoria-arjona.md) — gestoría del dueño: plazo de papeles trimestrales y contacto (Íñigo Bravo)
+- [Instalaciones Valdés](fichas/instalaciones-valdes.md) — Instalaciones Valdés (Aurora Valdés), instaladora por horas: tarifa y plazo de pago
+- [Churriana](fichas/churriana.md) — casa de Pilar Aranda en Churriana: cambio de cubierta y presupuesto de 18.900 € + IVA para pasarle
+- [Zamora](fichas/zamora.md) — reforma del piso de Bruno y Carla Zamora en El Palo: descartada por ellos
+- [Pedregalejo](fichas/pedregalejo.md) — reforma del ático de Isabel Fuentes en Pedregalejo: presupuesto aprobado y estado
+- [Facturas emitidas](fichas/facturas-emitidas.md) — facturas 2026 del dueño: errores del archivo de facturas
