@@ -64,10 +64,10 @@ Con todas las notas escritas:
 1. Junta las líneas de todas las notas por tema (el primer campo) y ordénalas por fecha. Los temas que son lo mismo con otro nombre, o una sola línea suelta, júntalos tú con el tema más cercano; no lances un agente para eso.
 2. Lanza un agente por tema, de 5 en 5, con `model: "sonnet"` y este encargo:
 
-> Lee las reglas de `CLAUDE.md` y `INDICE.md`. Eres el único que escribe en la ficha `<tema>`. Estas son sus líneas, de la más antigua a la más nueva: <líneas>. Pásalas a `fichas/<tema>.md` siguiendo las reglas: si varias dicen lo mismo, una sola con todos los datos; si una posterior cambia lo que decía otra, queda solo cómo es al final; si la ficha ya decía algo y la línea es más antigua que lo que dice la ficha, manda la ficha; enlaces `[[ficha]]` a otras fichas, a fuentes y a resultados; tope de 12 líneas por sección (si no cabe, parte la ficha por subtema como dice `CLAUDE.md`). No escribas nada que no esté en las líneas ni metas comentarios tuyos. No toques otras fichas. Devuelve una línea: líneas escritas y partes creadas.
+> Lee las reglas de `CLAUDE.md` y `INDICE.md`. Eres el único que escribe en la ficha `<tema>`. Estas son sus líneas, de la más antigua a la más nueva: <líneas>. Pásalas a `fichas/<tema>.md` siguiendo las reglas: si varias dicen lo mismo, una sola con todos los datos; si una posterior cambia lo que decía otra, queda solo cómo es al final; si la ficha ya decía algo y la línea es más antigua que lo que dice la ficha, manda la ficha; enlaces `[[ficha]]` a otras fichas, a fuentes y a resultados; tope de 40 líneas por ficha (si no cabe, haz lo que dice `CLAUDE.md`: tabla larga a `fuentes/datos-<tema>.md` o un subtema con nombre propio a su parte). No escribas nada que no esté en las líneas ni metas comentarios tuyos. No toques otras fichas. Devuelve una línea: líneas escritas y partes creadas.
 
 3. Rehaz `INDICE.md` con una línea por ficha.
-4. `python3 .claude/skills/instalar-cerebro/comprobar.py fichas`: dice si se ha perdido alguna línea de las que había, si hay enlaces rotos y si alguna sección pasa de 12. Arregla tú lo que salga, sin lanzar más agentes.
+4. `python3 .claude/skills/instalar-cerebro/comprobar.py fichas`: dice si se ha perdido alguna línea de las que había, si hay enlaces rotos y si alguna ficha pasa de 40 líneas. Arregla tú lo que salga, sin lanzar más agentes.
 
 ## 5. Al acabar
 

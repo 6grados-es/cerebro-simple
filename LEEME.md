@@ -9,7 +9,7 @@ Es todo el sistema. Se copia tal cual al ordenador del cliente.
 
 | Pieza | Qué es | Quién la escribe |
 | --- | --- | --- |
-| `CLAUDE.md` | Las reglas (versión 13, 90 líneas) | Nadie: viene con la plantilla |
+| `CLAUDE.md` | Las reglas (versión 14, 100 líneas; la 13 más el tope de 40 por ficha, bitácora y «Dónde mirar», sin probar todavía) | Nadie: viene con la plantilla |
 | `INDICE.md` | Una línea por ficha | Claude |
 | `fichas/` | Una ficha por tema (cliente, proveedor, obra, el dueño). Tres secciones: Ahora, Cómo se hace, Lo que sé. Enlazadas entre sí con `[[ficha]]` | Claude |
 | `fichas/yo.md` | Quién es el dueño y cómo le gusta trabajar. Se carga sola en cada chat | Claude |
@@ -72,7 +72,7 @@ Qué hace `.claude/skills/instalar-cerebro/` y por qué:
 | Leer: un agente por chat, con los criterios de qué vale para la próxima vez dentro de su encargo | Sonnet | Sí |
 | Quitar las comillas a lo que el dueño no escribió tal cual; apartar listas de teléfonos y correos; tapar claves | `comprobar.py citas` y `reten` | No |
 | Escribir: un agente por ficha | Sonnet | Sí |
-| Comprobar que no se pierde ninguna línea de las que había, enlaces y tope de 12 | `comprobar.py fichas` | No |
+| Comprobar que no se pierde ninguna línea de las que había, enlaces y tope de 40 por ficha | `comprobar.py fichas` | No |
 
 El tope por defecto (30 días y 1.500.000 caracteres) es una estimación para que quepa en media sesión de cinco horas de un plan Pro; no está medido todavía con una cuenta Pro real. Si se queda corto o largo, se cambia en `trocear.py` (`TOPE`).
 

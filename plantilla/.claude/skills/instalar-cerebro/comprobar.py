@@ -5,7 +5,7 @@ Uso (desde la carpeta del cerebro):
   python3 .claude/skills/instalar-cerebro/comprobar.py copia     guarda cómo están las fichas (antes de escribir)
   python3 .claude/skills/instalar-cerebro/comprobar.py citas     quita las «» a las frases que el dueño no escribió tal cual
   python3 .claude/skills/instalar-cerebro/comprobar.py reten     aparta fuentes y resultados con listas de teléfonos o correos, y tapa claves
-  python3 .claude/skills/instalar-cerebro/comprobar.py fichas    ¿se ha perdido alguna línea de antes? ¿enlaces rotos? ¿secciones de más de 12?
+  python3 .claude/skills/instalar-cerebro/comprobar.py fichas    ¿se ha perdido alguna línea de antes? ¿enlaces rotos? ¿fichas de más de 40 líneas?
 """
 import difflib, re, shutil, sys
 from pathlib import Path
@@ -120,10 +120,10 @@ def fichas():
                 sec = l[3:].strip(); cuenta[sec] = 0
             elif l.startswith("- ") and sec and not re.match(r"- [^\n]*: \[\[[a-z0-9-]+\]\] · [a-z]{3}-\d\d$", l):
                 cuenta[sec] += 1
-        for s, c in cuenta.items():
-            if c > 12 and n not in ("yo", "como-trabajo"):
-                largas += 1; print(f"  LARGA · {n} · {s}: {c}")
-    print(f"fichas: {len(hoy)} · líneas de antes cambiadas o perdidas: {perdidas} · enlaces rotos: {rotos} · secciones de más de 12: {largas}")
+        c = sum(v for s, v in cuenta.items() if s not in ("Dónde mirar", "Reanudar"))
+        if c > 40 and n not in ("yo", "como-trabajo"):
+            largas += 1; print(f"  LARGA · {n}: {c}")
+    print(f"fichas: {len(hoy)} · líneas de antes cambiadas o perdidas: {perdidas} · enlaces rotos: {rotos} · fichas de más de 40 líneas: {largas}")
 
 
 if __name__ == "__main__":
