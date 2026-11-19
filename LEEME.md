@@ -9,7 +9,7 @@ Es todo el sistema. Se copia tal cual al ordenador del cliente.
 
 | Pieza | Qué es | Quién la escribe |
 | --- | --- | --- |
-| `CLAUDE.md` | Las reglas (versión 14, 100 líneas; la 13 más el tope de 40 por ficha, bitácora y «Dónde mirar», sin probar todavía) | Nadie: viene con la plantilla |
+| `CLAUDE.md` | Las reglas (versión 15, 102 líneas; la 13 más el tope de 40 por ficha, bitácora, «Dónde mirar» y clases de línea, sin probar todavía; igual que el cerebro de Pedro a 19-nov salvo su parte propia) | Nadie: viene con la plantilla |
 | `INDICE.md` | Una línea por ficha | Claude |
 | `fichas/` | Una ficha por tema (cliente, proveedor, obra, el dueño). Tres secciones: Ahora, Cómo se hace, Lo que sé. Enlazadas entre sí con `[[ficha]]` | Claude |
 | `fichas/yo.md` | Quién es el dueño y cómo le gusta trabajar. Se carga sola en cada chat | Claude |

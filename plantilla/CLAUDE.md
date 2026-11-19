@@ -49,6 +49,8 @@ Lo que ya pasó y conviene recordar baja a «Lo que sé»; cuando allí ya no ca
 
 **Bitácora** (`fuentes/bitacora/<ficha>.md`): la historia del tema. Solo se añade: no se reescribe ni se limpia, y no se abre sola, solo cuando preguntan por el pasado. Una línea por hecho: `AAAA-MM-DD · qué pasó, o la línea que salió de la ficha · [[fuente]] [minuto o turno]`. Si una línea de la ficha cambia y la anterior conviene recordarla, baja aquí con «sustituida por…». Lo falso o repetido se borra sin pasar por la bitácora.
 
+**Clases de línea**: todo lo de los ejemplos de arriba cabe en las tres secciones. Usos: la primera frase y «Dónde mirar». Reglas, criterios, pasos y fallos: «Cómo se hace». Hechos, decisiones y éxitos (con su enlace a `resultados/`): «Lo que sé». Si ayuda a leer, la línea empieza por su clase: `Regla:`, `Criterio:`, `Paso:`, `Fallo:`, `Dato:`, `Decisión:`, `Éxito:`. Una duda no es una clase aparte: es cualquier línea, de la clase que sea, que acaba en `(creo)`.
+
 **`fuentes/`**: los originales que amplían una ficha, tal cual (ver punto 6). **`resultados/`**: lo que entregas.
 
 ## Cómo se escribe
@@ -66,9 +68,9 @@ Lo que ya pasó y conviene recordar baja a «Lo que sé»; cuando allí ya no ca
 - Las skills viven en `.claude/skills/` y no se tocan para guardar lo aprendido: si el dueño corrige algo que hace una skill, va a «Cómo se hace» de la ficha del tema. La skill solo se cambia si él lo pide. Si creas una skill, su primer paso es abrir la ficha del tema, y la ficha la nombra.
 
 ## Al abrir una ficha, arréglala
-Si ves algo caducado, repetido, de relleno o desmentido por lo que el dueño acaba de decir, corrígelo ya, sin que te lo pidan y sin comentarlo. Las fichas se ponen al día así, al usarlas y no en masa: antes de dejar una que has abierto, aplícale las reglas de «Cómo se escribe». Si solo lo dudas, déjalo como está.
+Si ves algo caducado, repetido, de relleno o desmentido por lo que el dueño acaba de decir, corrígelo ya, sin que te lo pidan y sin comentarlo. Las fichas se ponen al día así, al usarlas y no en masa: antes de dejar una que has abierto, aplícale las reglas de «Cómo se escribe» (tope, partes que sobran, «Dónde mirar», bitácora).
 
-Si para hacer una tarea has tenido que abrir cuatro fichas o más del mismo asunto, o buscar fuera de las fichas (en un archivo, en una fuente, probando) algo que debería estar apuntado, arréglalo antes de acabar, sin que te lo pidan y sin preguntar: deja una sola ficha de entrada con la receta en «Cómo se hace» (créala si no existe), junta las partes que dicen lo mismo, deshaz las que sobren y, si la tarea se repite, crea una skill cuyo primer paso sea abrir esa ficha. Las fichas se crean y se deshacen según sirvan. Dilo en la línea «Anotado».
+Si para hacer una tarea has tenido que abrir cuatro fichas o más del mismo asunto, o buscar fuera de las fichas (en un archivo, en una fuente, probando) algo que debería estar apuntado, arréglalo antes de acabar, sin que te lo pidan y sin preguntar: deja una sola ficha de entrada con la receta en «Cómo se hace» (créala si no existe), junta las partes que dicen lo mismo, deshaz las que sobren y, si la tarea se repite, crea una skill cuyo primer paso sea abrir esa ficha. Las fichas se crean y se deshacen según sirvan. Dilo en la línea «Anotado». Si solo lo dudas, déjalo como está.
 
 ## Al contestar
 Si has tocado alguna ficha, acaba con una sola línea: `Anotado en <ficha>: <qué>`. Es lo único que cuentas del cerebro: ni resúmenes, ni informes, ni cómo lo has ordenado. Si no has tocado ninguna, no digas nada del cerebro. Si el dueño dice «eso no», «quita eso» o «no lo apuntes», bórralo de la ficha.
