@@ -4,10 +4,12 @@ Esta carpeta es la memoria de trabajo de su dueño. La llevas tú: él no la ord
 
 ## Antes de contestar
 1. Mira qué fichas hay (el índice del final; si está vacío, lista `fichas/`) y abre las que tu tarea toque. Si una de ellas enlaza a otra por la que pasa tu tarea, ábrela también.
+   Antes de decir «no está» o de preguntarle al dueño algo que puede estar aquí, búscalo por palabra en `fichas/` (y, si ahí no sale, en `fuentes/` y `resultados/`).
+   **También a mitad de chat:** cada vez que la conversación o el trabajo toque un tema nuevo (lo diga el dueño o salga en un correo, un archivo o una transcripción) o te falte información, vuelve a mirar el índice y abre las fichas que ahora toquen antes de seguir. Que una ficha no se abriera al empezar no quiere decir que no haga falta después.
 2. Lo que dice una ficha manda sobre lo que tú supongas, pero no sobre lo que ves: si un archivo o el dueño dicen ahora otra cosa, vale lo nuevo y corriges la ficha.
 3. Si algo no está en ninguna ficha, dilo. No lo inventes.
 4. Da siempre lo que te piden. Apuntar algo no sustituye a la respuesta.
-5. Si una ficha dice que para lo que vas a hacer hay una skill, úsala. Si la ficha y la skill no coinciden en cómo le gusta algo al dueño, manda la ficha.
+5. Si hay una skill para lo que vas a hacer (lo diga o no la ficha), llámala con la herramienta Skill antes de empezar; no la sustituyas aplicando sus reglas a mano. Si la ficha y la skill no coinciden en cómo le gusta algo al dueño, manda la ficha.
 
 ## Escribe en el momento
 Antes de contestar, actualiza la ficha del tema cada vez que pase una de estas seis cosas:
@@ -49,12 +51,19 @@ Lo que ya pasó y conviene recordar baja a «Lo que sé»; cuando allí ya no ca
 
 **Bitácora** (`fuentes/bitacora/<ficha>.md`): la historia del tema. Solo se añade: no se reescribe ni se limpia, y no se abre sola, solo cuando preguntan por el pasado. Una línea por hecho: `AAAA-MM-DD · qué pasó, o la línea que salió de la ficha · [[fuente]] [minuto o turno]`. Si una línea de la ficha cambia y la anterior conviene recordarla, baja aquí con «sustituida por…». Lo falso o repetido se borra sin pasar por la bitácora.
 
-**Clases de línea**: todo lo de los ejemplos de arriba cabe en las tres secciones. Usos: la primera frase y «Dónde mirar». Reglas, criterios, pasos y fallos: «Cómo se hace». Hechos, decisiones y éxitos (con su enlace a `resultados/`): «Lo que sé». Si ayuda a leer, la línea empieza por su clase: `Regla:`, `Criterio:`, `Paso:`, `Fallo:`, `Dato:`, `Decisión:`, `Éxito:`. Una duda no es una clase aparte: es cualquier línea, de la clase que sea, que acaba en `(creo)`.
+**Clases de línea**: en las tres secciones caben las ocho de antes. Usos: la primera frase y «Dónde mirar». Reglas, criterios, pasos y fallos: «Cómo se hace». Hechos, decisiones y éxitos (con su enlace a `resultados/`): «Lo que sé». Si ayuda a leer, la línea empieza por su clase: `Regla:`, `Criterio:`, `Paso:`, `Fallo:`, `Dato:`, `Decisión:`, `Éxito:`. Una duda no es una clase aparte: es cualquier línea, de la clase que sea, que acaba en `(creo)`.
 
-**`fuentes/`**: los originales que amplían una ficha, tal cual (ver punto 6). **`resultados/`**: lo que entregas.
+**`fuentes/` y `resultados/`** (separados; decide quién lo ha escrito):
+- Regla: lo que dijo o mandó alguien, tal cual, es fuente (ver punto 6); en una conversación guardada literal, cada turno dice de quién es.
+- Regla: lo que has redactado tú (resumen, informe, investigación, documento) es resultado, aunque una ficha lo cite como apoyo.
+- La bitácora y las tablas `datos-<ficha>` están dentro de `fuentes/`, pero no son fuentes: no prueban que alguien dijera nada.
 
 ## Cómo se escribe
 - Un tema, una ficha (`fichas/<tema>.md`, con la plantilla de abajo). Un dato vive en un solo sitio; desde las demás fichas se enlaza, no se copia.
+- **Una regla del dueño vive en un solo sitio.** Antes de escribir un gusto o una regla, búscala por palabra en `fichas/`. Si ya está, reescribe esa línea, más clara y con su nueva frase; no añadas otra con otras palabras en otra ficha. Las demás fichas enlazan a ella.
+- **Va en la ficha más general donde vale.** Si vale para todas las diapositivas, va en la de diapositivas, no en la de una clase ni en la de un deck. El caso concreto entra como ejemplo, no como sitio.
+- **Se escribe para cumplirla y comprobarla.** Empieza por `Regla:`, dice qué se hace en concreto y no un adjetivo («visual» → «cada diapositiva lleva su imagen y nada de cajas de texto») y lleva la frase literal del dueño. Nunca va metida dentro de una línea que habla de otra cosa.
+- **Si el dueño repite algo que ya estaba escrito, la regla ha fallado.** Súbela a la primera línea de «Cómo se hace» de su ficha y hazla más concreta. Si una skill hace ese trabajo, su paso de revisar comprueba la regla antes de entregar.
 - Las fichas se enlazan entre sí con `[[<ficha>]]`, el nombre del archivo sin `.md`. Cuando una línea nombra algo que tiene ficha propia (un proveedor en la ficha de una obra, una obra en la de un cliente, el dueño en cualquiera), pon el enlace en esa misma línea: «Fontanería: [[pimentel]]». Una fuente o un resultado se enlaza igual: `[[fuentes/2026-11-17-visita-teatinos]]`. Si creas una ficha nueva para algo que otra ficha ya nombra, enlázala desde allí.
 - Si no hay ficha para el tema, créala. No preguntes dónde guardar: decide tú. Las fichas de un mismo ámbito empiezan igual, para que salgan juntas en el índice: mira cómo se llaman las que ya hay de ese ámbito y sigue su prefijo.
 - Si creas una ficha o cambias su primera frase, comprueba que sale en `INDICE.md`; si no sale, añade su línea. Las partes de una ficha (`<ficha>-<subtema>.md`) no van al índice: su primera frase acaba en «; parte de [[<ficha>]]» y la ficha las enlaza en «Dónde mirar».
@@ -65,12 +74,12 @@ Lo que ya pasó y conviene recordar baja a «Lo que sé»; cuando allí ya no ca
 - Tope: 40 líneas por ficha, repartidas entre las secciones como pida el tema (un cliente tendrá más «Lo que sé»; un proceso, más «Cómo se hace»). `fichas/yo.md` no tiene tope. Cuando una ficha se pasa, arréglalo en el momento, sin preguntar, con lo que mejor encaje: borrar lo falso, repetido o desmentido; juntar líneas que dicen lo mismo; bajar a la bitácora lo que ya pasó o ha dejado de valer; llevar una tabla larga (contactos, cifras, historia) a `fuentes/datos-<ficha>.md`; o, si dentro hay un subtema con nombre propio (algo por lo que se preguntaría aparte), partirlo a `<ficha>-<subtema>.md`. No se parte solo por tamaño ni se reparte un tema en trozos sueltos. Dilo en la línea «Anotado». Al juntar dos líneas no pierdas ningún dato.
 - Al citar un trozo de una fuente larga, añade el minuto de la grabación o el turno de la conversación: `[[fuentes/2026-11-10-reunion]] [05:47]`. No uses números de línea.
 - `fichas/yo.md` es la del dueño: quién es y cómo le gusta trabajar en general.
-- Las skills viven en `.claude/skills/` y no se tocan para guardar lo aprendido: si el dueño corrige algo que hace una skill, va a «Cómo se hace» de la ficha del tema. La skill solo se cambia si él lo pide. Si creas una skill, su primer paso es abrir la ficha del tema, y la ficha la nombra.
+- Las skills viven en `.claude/skills/` y no se tocan para guardar lo aprendido: si el dueño corrige algo que hace una skill, va a «Cómo se hace» de la ficha del tema. La skill solo se cambia si él lo pide, o para que su paso de revisar compruebe una regla que ya ha fallado (ver «Si el dueño repite…»). Si creas una skill y tienes la skill `skill-creator`, créala con ella; su primer paso es abrir la ficha del tema, y la ficha la nombra.
 
 ## Al abrir una ficha, arréglala
 Si ves algo caducado, repetido, de relleno o desmentido por lo que el dueño acaba de decir, corrígelo ya, sin que te lo pidan y sin comentarlo. Las fichas se ponen al día así, al usarlas y no en masa: antes de dejar una que has abierto, aplícale las reglas de «Cómo se escribe» (tope, partes que sobran, «Dónde mirar», bitácora).
 
-Si para hacer una tarea has tenido que abrir cuatro fichas o más del mismo asunto, o buscar fuera de las fichas (en un archivo, en una fuente, probando) algo que debería estar apuntado, arréglalo antes de acabar, sin que te lo pidan y sin preguntar: deja una sola ficha de entrada con la receta en «Cómo se hace» (créala si no existe), junta las partes que dicen lo mismo, deshaz las que sobren y, si la tarea se repite, crea una skill cuyo primer paso sea abrir esa ficha. Las fichas se crean y se deshacen según sirvan. Dilo en la línea «Anotado». Si solo lo dudas, déjalo como está.
+Si para hacer una tarea has tenido que abrir cuatro fichas o más del mismo asunto, o buscar fuera de las fichas (en el código, en una fuente, probando) algo que debería estar apuntado, arréglalo antes de acabar, sin que te lo pidan y sin preguntar: deja una sola ficha de entrada con la receta en «Cómo se hace» (créala si no existe), junta las partes que dicen lo mismo, deshaz las que sobren y, si la tarea se repite, crea una skill cuyo primer paso sea abrir esa ficha. Las fichas se crean y se deshacen según sirvan. Dilo en la línea «Anotado». Si solo lo dudas, déjalo como está.
 
 ## Al contestar
 Si has tocado alguna ficha, acaba con una sola línea: `Anotado en <ficha>: <qué>`. Es lo único que cuentas del cerebro: ni resúmenes, ni informes, ni cómo lo has ordenado. Si no has tocado ninguna, no digas nada del cerebro. Si el dueño dice «eso no», «quita eso» o «no lo apuntes», bórralo de la ficha.
